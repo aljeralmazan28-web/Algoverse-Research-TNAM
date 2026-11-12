@@ -1,0 +1,28 @@
+tissue,n_total,n_female,n_male,n_unknown,n_sexed,n_female_highconf,n_male_highconf,female_frac,minority_sex,minority_n,sex_specific,insufficient,imbalanced,binom_p,binom_q,imbalanced_sig,usable_within_tissue
+Lung,135,39,93,3,132,18,46,0.2955,Female,39,False,False,True,0.0,0.0001,True,True
+Lymphoid,84,39,44,1,83,23,29,0.4699,Female,39,False,False,False,0.6609,0.8371,False,True
+Esophagus/Stomach,51,16,33,2,49,7,9,0.3265,Female,16,False,False,False,0.0213,0.1349,False,True
+Bowel,45,17,24,4,41,9,12,0.4146,Female,17,False,False,False,0.3489,0.6026,False,True
+Breast,45,45,0,0,45,22,0,1.0,Male,0,True,False,False,,,False,False
+CNS/Brain,40,16,21,3,37,9,17,0.4324,Female,16,False,False,False,0.5114,0.7474,False,True
+Skin,39,18,19,2,37,12,14,0.4865,Female,18,False,False,False,1.0,1.0,False,True
+Ovary/Fallopian Tube,34,32,0,2,32,14,0,1.0,Male,0,True,False,False,,,False,False
+Myeloid,33,10,21,2,31,7,16,0.3226,Female,10,False,False,False,0.0708,0.2689,False,True
+Pancreas,28,10,18,0,28,4,2,0.3571,Female,10,False,False,False,0.1849,0.3904,False,True
+Head and Neck,24,2,21,1,23,0,11,0.087,Female,2,False,True,True,0.0001,0.0006,True,False
+Kidney,20,6,11,3,17,5,4,0.3529,Female,6,False,False,False,0.3323,0.6026,False,True
+Peripheral Nervous System,19,8,11,0,19,5,7,0.4211,Female,8,False,False,False,0.6476,0.8371,False,True
+Bone,18,8,9,1,17,5,4,0.4706,Female,8,False,False,False,1.0,1.0,False,True
+Bladder/Urinary Tract,17,8,9,0,17,2,4,0.4706,Female,8,False,False,False,1.0,1.0,False,True
+Liver,16,4,10,2,14,3,7,0.2857,Female,4,False,True,True,0.1796,0.3904,False,False
+Uterus,16,13,2,1,15,5,2,0.8667,Male,2,True,False,False,,,False,False
+Thyroid,12,9,3,0,12,4,1,0.75,Male,3,False,True,True,0.146,0.3904,False,False
+Cervix,11,11,0,0,11,8,0,1.0,Male,0,True,False,False,,,False,False
+Soft Tissue,11,9,2,0,11,3,1,0.8182,Male,2,False,True,True,0.0654,0.2689,False,False
+Pleura,7,1,6,0,7,1,5,0.1429,Female,1,False,True,True,0.125,0.3904,False,False
+Prostate,6,0,6,0,6,0,5,0.0,Female,0,True,False,False,,,False,False
+Biliary Tract,2,0,2,0,2,0,2,0.0,Female,0,False,True,True,0.5,0.7474,False,False
+Adrenal Gland,1,1,0,0,1,1,0,1.0,Male,0,False,True,True,1.0,1.0,False,False
+Testis,1,0,1,0,1,0,1,0.0,Female,0,True,False,False,,,False,False
+Fibroblast,1,0,0,1,0,0,0,,tie,0,False,True,False,,,False,False
+Vulva/Vagina,1,1,0,0,1,1,0,1.0,Male,0,True,False,False,,,False,False

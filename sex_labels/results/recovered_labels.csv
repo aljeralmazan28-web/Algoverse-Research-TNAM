@@ -1,0 +1,4 @@
+ModelID,CellLineName,cvcl_final,OncotreeLineage,reported_sex,inferred_sex,xist_score,y_score,y_cn,amelogenin,problematic,metadata_status
+ACH-000250,KMRC-20,CVCL_2986,Kidney,Unknown,Female,7.5977473,0.1779475262857142,,X,,missing
+ACH-000425,UACC-62,CVCL_1780,Skin,Unknown,Female,7.246883,0.2573839332857143,,X,,missing
+ACH-000943,RKO,CVCL_0504,Bowel,Unknown,Female,7.687432,0.0753522372857142,,X,,missing

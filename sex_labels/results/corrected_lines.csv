@@ -1,0 +1,11 @@
+ModelID,CellLineName,cvcl_final,OncotreeLineage,reported_sex,inferred_sex,status,review_decision,final_sex,label_source,label_confidence,mislabeled,recovered,uncertain,problematic_line,exclude_from_sex_analysis,xist_score,y_score,y_cn,amelogenin
+ACH-000008,A101D,CVCL_1057,Skin,Male,Female,discordant,,Female,corrected_auto,high,True,False,False,False,False,5.7379303,0.1638399108571428,,X
+ACH-000467,HCC-56,CVCL_2917,Bowel,Male,Female,discordant,,Female,corrected_auto,high,True,False,False,True,True,6.531679,0.1063385897142857,,X
+ACH-000476,JHH-4,CVCL_2787,Liver,Male,Female,discordant,,Female,corrected_auto,high,True,False,False,False,False,6.2732472,0.0838564459999999,,X
+ACH-000480,HuH-7,CVCL_0336,Liver,Male,Female,discordant,,Female,corrected_auto,high,True,False,False,False,False,6.6662736,0.1725864724285714,,X
+ACH-000506,NCI-H146,CVCL_1473,Lung,Male,Female,discordant,,Female,corrected_auto,high,True,False,False,False,False,2.0069838,0.0857074811428571,,X
+ACH-000669,SW 900,CVCL_1731,Lung,Male,Female,discordant,,Female,corrected_auto,high,True,False,False,False,False,1.6937658,0.1098962381428571,,X
+ACH-000835,GCT,CVCL_1229,Soft Tissue,Male,Female,discordant,,Female,corrected_auto,high,True,False,False,False,False,1.0610088,0.19026568,,X
+ACH-001704,VMRC-MELG,CVCL_1789,Skin,Male,Female,discordant,,Female,corrected_auto,medium,True,False,False,False,False,7.1612325,0.0,,conflicting
+ACH-002170,NCI-H1688,CVCL_1487,Lung,Male,Female,discordant,,Female,corrected_auto,high,True,False,False,False,False,3.9615214,0.0,,X
+ACH-002215,BC-3,CVCL_1080,Lymphoid,Male,Female,discordant,,Female,corrected_auto,high,True,False,False,False,False,0.9506849,0.0,,X
