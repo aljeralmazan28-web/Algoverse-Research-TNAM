@@ -1,0 +1,25 @@
+gdsc_name,cosmic_id,Whole Exome Sequencing (WES),Copy Number Alterations (CNA),Gene Expression,Methylation,Drug Response,GDSC Tissue descriptor 1,GDSC Tissue descriptor 2,Cancer Type (matching TCGA label),Microsatellite instability Status (MSI),Screen Medium,Growth Properties
+Ca9-22,753538,Y,Y,Y,Y,Y,aero_dig_tract,head and neck,HNSC,MSS/MSI-L,D/F12,Adherent
+HO-1-u-1,753561,Y,Y,Y,Y,Y,aero_dig_tract,head and neck,HNSC,MSS/MSI-L,D/F12,Adherent
+SAS,909708,Y,Y,Y,Y,Y,aero_dig_tract,head and neck,HNSC,MSS/MSI-L,D/F12,Adherent
+SLVL,1331032,Y,Y,Y,Y,Y,lymphoma,B_cell_lymphoma,DLBC,MSS/MSI-L,R,Suspension
+Mo-T,908149,Y,Y,Y,Y,Y,leukemia,hairy_cell_leukaemia,,MSS/MSI-L,D/F12,Suspension
+P30-OHK,909252,Y,Y,Y,Y,Y,leukemia,lymphoblastic_leukemia,ALL,MSI-H,R,Suspension
+ATN-1,910687,Y,Y,Y,Y,Y,leukemia,lymphoblastic_T_cell_leukaemia,ALL,MSS/MSI-L,R,Suspension
+NOS-1,925345,Y,Y,Y,Y,Y,bone,osteosarcoma,,MSS/MSI-L,R,Adherent
+COLO-824,906812,Y,Y,Y,Y,Y,breast,breast,BRCA,MSS/MSI-L,R,Adherent
+MFM-223,910948,Y,Y,Y,Y,Y,breast,breast,BRCA,MSS/MSI-L,D/F12,Adherent
+TGBC1TKB,909769,Y,Y,Y,Y,Y,digestive_system,biliary_tract,,MSS/MSI-L,D/F12,Adherent
+CaR-1,924108,Y,Y,Y,Y,Y,large_intestine,large_intestine,COAD/READ,MSS/MSI-L,D/F12,Adherent
+H3255,1247873,Y,Y,Y,Y,Y,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,MSS/MSI-L,R,Adherent
+LU-134-A,753588,Y,Y,Y,Y,Y,lung_SCLC,lung_small_cell_carcinoma,SCLC,MSS/MSI-L,R,Suspension
+LU-139,713878,Y,Y,Y,Y,Y,lung_SCLC,lung_small_cell_carcinoma,SCLC,MSS/MSI-L,R,Suspension
+LU-165,753589,Y,Y,Y,Y,Y,lung_SCLC,lung_small_cell_carcinoma,SCLC,MSS/MSI-L,R,Suspension
+NCI-H748,909194,Y,Y,Y,Y,Y,lung_SCLC,lung_small_cell_carcinoma,SCLC,MSS/MSI-L,R,Suspension
+NB69,908440,Y,Y,Y,Y,Y,neuroblastoma,neuroblastoma,NB,MSS/MSI-L,D/F12,Adherent
+PL18,1240208,Y,Y,Y,Y,Y,pancreas,pancreas,PAAD,MSS/MSI-L,D/F12,Adherent
+HMV-II,907058,Y,Y,Y,Y,Y,skin,melanoma,SKCM,MSS/MSI-L,R,Adherent
+RH-1,971773,Y,Y,Y,Y,Y,soft_tissue,rhabdomyosarcoma,,MSS/MSI-L,R,Adherent
+TT,930299,Y,Y,Y,Y,Y,thyroid,thyroid,THCA,MSS/MSI-L,D/F12,Adherent
+SKG-IIIa,930298,Y,Y,Y,Y,Y,urogenital_system,cervix,CESC,MSS/MSI-L,D/F12,Adherent
+KMH-2,1298167,Y,Y,N,Y,Y,thyroid,thyroid,THCA,MSS/MSI-L,R,Adherent
