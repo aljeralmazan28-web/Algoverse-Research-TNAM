@@ -1,0 +1,493 @@
+cell_line_id,cell_line_name,cellosaurus_id,gdsc_tissue,original_split_sex,natasha_model_id,natasha_lineage,natasha_final_sex,natasha_reported_sex,natasha_inferred_sex,natasha_status,label_source,label_confidence,uncertain,problematic_line,exclude_from_sex_analysis,matched_by_cellosaurus_id,sex_changed_from_zip,primary_corrected_sex,sensitivity_corrected_sex,primary_included,sensitivity_included
+SIDM00078,BICR31,CVCL_2312,Head and Neck,Male,ACH-000228,Head and Neck,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00079,SK-OV-3,CVCL_0532,Ovary,Female,ACH-000811,Ovary/Fallopian Tube,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00080,SK-MEL-5,CVCL_0527,Skin,Female,ACH-000730,Skin,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00081,SK-MEL-28,CVCL_0526,Skin,Male,ACH-000615,Skin,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00082,SK-MEL-2,CVCL_0069,Skin,Male,ACH-001190,Skin,Male,Male,Ambiguous_high,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00084,SF295,CVCL_1690,Central Nervous System,Female,ACH-000376,CNS/Brain,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00087,RPMI-8226,CVCL_0014,Haematopoietic and Lymphoid,Male,ACH-000817,Lymphoid,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00090,OVCAR-8,CVCL_1629,Ovary,Female,ACH-000696,Ovary/Fallopian Tube,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00092,OVCAR-4,CVCL_1627,Ovary,Female,ACH-000617,Ovary/Fallopian Tube,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00097,T47D,CVCL_0553,Breast,Female,ACH-000147,Breast,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00116,NCI-H522,CVCL_1567,Lung,Male,ACH-000343,Lung,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00120,DU-145,CVCL_0105,Prostate,Male,ACH-000979,Prostate,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00122,BT-549,CVCL_1092,Breast,Female,ACH-000288,Breast,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00123,ACHN,CVCL_1067,Kidney,Male,ACH-000046,Kidney,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00124,A498,CVCL_1056,Kidney,Male,ACH-000555,Kidney,Female,Conflict,Female,source_conflict,expression_resolved_conflict,high,False,False,False,True,True,Female,Female,True,True
+SIDM00130,CFPAC-1,CVCL_1119,Pancreas,Male,ACH-000138,Pancreas,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00132,BxPC-3,CVCL_0186,Pancreas,Female,ACH-000535,Pancreas,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00135,Hs-578-T,CVCL_0332,Breast,Female,ACH-000148,Breast,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00138,NCI-H23,CVCL_1547,Lung,Male,ACH-000900,Lung,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00139,NCI-H226,CVCL_1544,Lung,Male,ACH-000367,Pleura,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00140,COLO-792,CVCL_1134,Skin,Male,ACH-000968,Skin,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00142,COLO-684,CVCL_1132,Endometrium,Female,ACH-000864,Uterus,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00143,COLO-668,CVCL_1128,Lung,Female,ACH-000803,Lung,Female,Female,Ambiguous_high,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00144,NCI-H460,CVCL_0459,Lung,Male,ACH-000463,Lung,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00146,MDA-MB-231,CVCL_0062,Breast,Female,ACH-000768,Breast,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00148,MCF7,CVCL_0031,Breast,Female,ACH-000019,Breast,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00149,LOXIMVI,CVCL_1381,Skin,Male,ACH-000750,Skin,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00150,KM12,CVCL_1331,Large Intestine,Male,ACH-000969,Bowel,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00151,IGROV-1,CVCL_1304,Ovary,Female,ACH-000966,Ovary/Fallopian Tube,Female,Female,Male,discordant,unresolved,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00193,SNU-81,CVCL_5098,Large Intestine,Male,ACH-000991,Bowel,Male,Male,Ambiguous_high,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00210,A2780,CVCL_0134,Ovary,Female,ACH-000657,Ovary/Fallopian Tube,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00212,CAS-1,CVCL_1117,Central Nervous System,Male,ACH-000464,CNS/Brain,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00213,FTC-133,CVCL_1219,Thyroid,Male,ACH-000903,Thyroid,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00214,SNU-407,CVCL_5058,Large Intestine,Male,ACH-000955,Bowel,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00215,SNU-283,CVCL_5044,Large Intestine,Female,,,,,,NO_CVCL_MATCH,,,True,True,True,False,False,Unknown,Unknown,False,False
+SIDM00216,SNU-175,CVCL_5031,Large Intestine,Female,ACH-000989,Bowel,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00222,MPP-89,CVCL_1427,Lung,Male,ACH-000319,Pleura,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00224,IST-MES1,CVCL_1311,Lung,Female,ACH-000569,Pleura,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00235,RCC10RGB,CVCL_1647,Kidney,Male,ACH-000189,Kidney,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00237,PC-14,CVCL_1640,Lung,Male,ACH-000030,Lung,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,True,True,True,False,Unknown,Unknown,False,False
+SIDM00238,OVK-18,CVCL_3770,Ovary,Female,ACH-000947,Ovary/Fallopian Tube,Female,Female,Female,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00239,OS-RC-2,CVCL_1626,Kidney,Male,ACH-000159,Kidney,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00250,TE-4,CVCL_3337,Esophagus,Female,ACH-000917,Esophagus/Stomach,Unknown,Conflict,Male,uninformative,unresolved,low,True,False,True,True,False,Unknown,Unknown,False,False
+SIDM00251,TGBC11TKB,CVCL_1768,Stomach,Female,ACH-000949,Esophagus/Stomach,Female,Female,Ambiguous_high,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00272,MDA-MB-453,CVCL_0418,Breast,Female,ACH-000910,Breast,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00273,GI-1,CVCL_1231,Central Nervous System,Male,ACH-000756,CNS/Brain,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00274,GCIY,CVCL_1228,Stomach,Female,,,,,,NO_CVCL_MATCH,,,True,True,True,False,False,Unknown,Unknown,False,False
+SIDM00278,EC-GI-10,CVCL_1187,Esophagus,Male,ACH-000305,Esophagus/Stomach,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00279,ECC12,CVCL_1189,Stomach,Male,ACH-000225,Esophagus/Stomach,Male,Male,Ambiguous_high,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00280,ECC10,CVCL_1188,Stomach,Male,ACH-000560,Esophagus/Stomach,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00282,CW-2,CVCL_1151,Large Intestine,Female,ACH-000998,Bowel,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00284,COLO-679,CVCL_1130,Skin,Female,ACH-000805,Skin,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00301,KP-4,CVCL_1338,Pancreas,Male,ACH-000265,Pancreas,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00303,JHOS-4,CVCL_4649,Ovary,Female,ACH-000584,Ovary/Fallopian Tube,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00305,JHOS-2,CVCL_4647,Ovary,Female,ACH-000132,Ovary/Fallopian Tube,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00306,IA-LM,CVCL_1302,Lung,Male,ACH-000672,Lung,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00308,KU812,CVCL_0379,Haematopoietic and Lymphoid,Male,ACH-000074,Myeloid,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00312,L-363,CVCL_1357,Haematopoietic and Lymphoid,Female,ACH-000183,Lymphoid,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00313,L-1236,CVCL_2096,Haematopoietic and Lymphoid,Male,ACH-000702,Lymphoid,Male,Male,Ambiguous_high,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00315,YKG-1,CVCL_1796,Central Nervous System,Female,ACH-000570,CNS/Brain,Female,Female,Female,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00316,YH-13,CVCL_1795,Central Nervous System,Male,ACH-000469,CNS/Brain,Male,Male,Ambiguous_high,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00318,VMRC-RCW,CVCL_1790,Kidney,Male,ACH-000484,Kidney,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00320,VMRC-LCD,CVCL_1787,Lung,Male,,,,,,NO_CVCL_MATCH,,,True,True,True,False,False,Unknown,Unknown,False,False
+SIDM00321,TYK-nu,CVCL_1776,Ovary,Female,ACH-000430,Ovary/Fallopian Tube,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00325,TE-9,CVCL_1767,Esophagus,Male,ACH-000694,Esophagus/Stomach,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00327,L-428,CVCL_1361,Haematopoietic and Lymphoid,Female,ACH-000754,Lymphoid,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00328,TE-6,CVCL_1765,Esophagus,Male,ACH-000605,Esophagus/Stomach,Male,Male,Female,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00329,L-540,CVCL_1362,Haematopoietic and Lymphoid,Female,ACH-000806,Lymphoid,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00333,MFE-319,CVCL_2112,Endometrium,Female,ACH-000988,Uterus,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00334,MFE-296,CVCL_1406,Endometrium,Female,ACH-000879,Uterus,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00335,MFE-280,CVCL_1405,Endometrium,Female,ACH-000192,Uterus,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00336,MEL-JUSO,CVCL_1403,Skin,Female,ACH-000881,Skin,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00337,MEL-HO,CVCL_1402,Skin,Female,ACH-000450,Skin,Female,Female,Female,concordant,reported+expression,high,False,True,True,True,False,Unknown,Unknown,False,False
+SIDM00339,LXF-289,CVCL_1394,Lung,Male,ACH-000787,Lung,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00341,LOU-NH91,CVCL_2104,Lung,Female,ACH-000176,Lung,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00342,LOUCY,CVCL_1380,Haematopoietic and Lymphoid,Female,ACH-000104,Lymphoid,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00344,LCLC-97TM1,CVCL_1376,Lung,Male,ACH-000596,Lung,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00345,LCLC-103H,CVCL_1375,Lung,Male,ACH-000627,Lung,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00347,TE-5,CVCL_1764,Esophagus,Female,ACH-000408,Esophagus/Stomach,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00348,TE-11,CVCL_1761,Esophagus,Male,ACH-000488,Esophagus/Stomach,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00349,TE-10,CVCL_1760,Esophagus,Male,ACH-000318,Esophagus/Stomach,Male,Male,Male,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00352,RMG-I,CVCL_1662,Ovary,Female,ACH-000719,Ovary/Fallopian Tube,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00353,RKN,CVCL_3156,Soft Tissue,Female,ACH-000505,Soft Tissue,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00354,RERF-LC-Sq1,CVCL_1656,Lung,Female,ACH-000442,Lung,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00355,RERF-LC-MS,CVCL_1655,Lung,Male,ACH-000062,Lung,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00356,RERF-LC-KJ,CVCL_1654,Lung,Male,ACH-000482,Lung,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00358,RERF-GC-1B,CVCL_3152,Stomach,Male,ACH-000144,Esophagus/Stomach,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00360,QGP-1,CVCL_3143,Pancreas,Male,ACH-000347,Pancreas,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00368,SBC-5,CVCL_1679,Lung,Male,ACH-000670,Lung,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00373,SNG-M,CVCL_1707,Endometrium,Female,ACH-000974,Uterus,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,True,True,True,False,Unknown,Unknown,False,False
+SIDM00376,MHH-CALL-4,CVCL_1410,Haematopoietic and Lymphoid,Male,,,,,,NO_CVCL_MATCH,,,True,True,True,False,False,Unknown,Unknown,False,False
+SIDM00380,SKM-1,CVCL_0098,Haematopoietic and Lymphoid,Male,ACH-000373,Myeloid,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00382,SF126,CVCL_1688,Central Nervous System,Female,ACH-000609,CNS/Brain,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00386,MHH-ES-1,CVCL_1411,Bone,Male,ACH-000391,Bone,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00387,MHH-NB-11,CVCL_1412,Peripheral Nervous System,Male,ACH-000078,Peripheral Nervous System,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00389,SU-DHL-10,CVCL_1889,Haematopoietic and Lymphoid,Male,ACH-000271,Lymphoid,Male,Male,Ambiguous_high,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00390,SU-DHL-1,CVCL_0538,Haematopoietic and Lymphoid,Male,ACH-000664,Lymphoid,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00392,SK-MEL-30,CVCL_0039,Skin,Male,ACH-000810,Skin,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00395,SIMA,CVCL_1695,Peripheral Nervous System,Male,ACH-000099,Peripheral Nervous System,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00396,SIG-M5,CVCL_1694,Haematopoietic and Lymphoid,Male,ACH-000112,Myeloid,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00402,RT-112,CVCL_1670,Bladder,Female,ACH-000473,Bladder/Urinary Tract,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00403,RPMI-8402,CVCL_1667,Haematopoietic and Lymphoid,Female,ACH-000636,Lymphoid,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00405,SU-DHL-4,CVCL_0539,Haematopoietic and Lymphoid,Male,ACH-000365,Lymphoid,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00407,SU-DHL-6,CVCL_2206,Haematopoietic and Lymphoid,Male,ACH-000611,Lymphoid,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00411,YAPC,CVCL_1794,Pancreas,Male,ACH-000332,Pancreas,Male,Male,Male,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00413,WSU-DLCL2,CVCL_1902,Haematopoietic and Lymphoid,Male,,,,,,NO_CVCL_MATCH,,,True,True,True,False,False,Unknown,Unknown,False,False
+SIDM00418,TT2609-C02,CVCL_2218,Thyroid,Male,ACH-000716,Thyroid,Male,Male,Ambiguous_high,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00420,SW1710,CVCL_1721,Bladder,Female,ACH-000566,Bladder/Urinary Tract,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00421,SUP-M2,CVCL_2209,Haematopoietic and Lymphoid,Female,ACH-000226,Lymphoid,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00422,SUP-HD1,CVCL_2208,Haematopoietic and Lymphoid,Male,,,,,,NO_CVCL_MATCH,,,True,True,True,False,False,Unknown,Unknown,False,False
+SIDM00423,SU-DHL-8,CVCL_2207,Haematopoietic and Lymphoid,Male,ACH-000656,Lymphoid,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00425,OVTOKO,CVCL_3117,Ovary,Female,ACH-000663,Ovary/Fallopian Tube,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00426,RH-41,CVCL_2176,Soft Tissue,Female,ACH-000100,Soft Tissue,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00428,NB4,CVCL_0005,Haematopoietic and Lymphoid,Female,ACH-000294,Myeloid,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00429,NALM-6,CVCL_0092,Haematopoietic and Lymphoid,Male,ACH-000938,Lymphoid,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00431,MOLT-16,CVCL_1424,Haematopoietic and Lymphoid,Female,ACH-000918,Lymphoid,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00433,MOLT-13,CVCL_1422,Haematopoietic and Lymphoid,Female,,,,,,NO_CVCL_MATCH,,,True,True,True,False,False,Unknown,Unknown,False,False
+SIDM00434,MOLP-8,CVCL_2124,Haematopoietic and Lymphoid,Male,ACH-000745,Lymphoid,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00435,MOLM-16,CVCL_2120,Haematopoietic and Lymphoid,Female,ACH-000369,Myeloid,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00437,MOLM-13,CVCL_2119,Haematopoietic and Lymphoid,Male,ACH-000362,Myeloid,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00443,NU-DUL-1,CVCL_1877,Haematopoietic and Lymphoid,Male,ACH-000287,Lymphoid,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00446,OCI-AML2,CVCL_1619,Haematopoietic and Lymphoid,Male,ACH-000113,Myeloid,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00447,REH,CVCL_1650,Haematopoietic and Lymphoid,Female,ACH-000960,Lymphoid,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00449,RCH-ACV,CVCL_1851,Haematopoietic and Lymphoid,Female,ACH-000922,Lymphoid,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00451,PF-382,CVCL_1641,Haematopoietic and Lymphoid,Female,ACH-000937,Lymphoid,Female,Female,Ambiguous_high,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00455,PA-TU-8902,CVCL_1845,Pancreas,Female,ACH-000599,Pancreas,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00457,OPM-2,CVCL_1625,Haematopoietic and Lymphoid,Female,ACH-000024,Lymphoid,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00460,OCI-LY-19,CVCL_1878,Haematopoietic and Lymphoid,Female,ACH-000124,Lymphoid,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00461,OCI-AML5,CVCL_1620,Haematopoietic and Lymphoid,Male,ACH-000065,Myeloid,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00463,P12-ICHIKAWA,CVCL_1630,Haematopoietic and Lymphoid,Male,ACH-000372,Lymphoid,Male,Male,Male,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00466,OVKATE,CVCL_3110,Ovary,Female,ACH-000443,Ovary/Fallopian Tube,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00469,PSN1,CVCL_1644,Pancreas,Male,ACH-000320,Pancreas,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00475,OV-56,CVCL_2673,Ovary,Female,ACH-000091,Ovary/Fallopian Tube,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00477,OE33,CVCL_0471,Esophagus,Female,ACH-000383,Esophagus/Stomach,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00479,OE19,CVCL_1622,Esophagus,Male,ACH-000679,Esophagus/Stomach,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00480,OAW-42,CVCL_1615,Ovary,Female,ACH-000704,Ovary/Fallopian Tube,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00481,OAW-28,CVCL_1614,Ovary,Female,ACH-000116,Ovary/Fallopian Tube,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00486,EBC-1,CVCL_2891,Lung,Male,ACH-000563,Lung,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00487,CCK-81,CVCL_2873,Large Intestine,Female,ACH-000963,Bowel,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00490,Becker,CVCL_1093,Central Nervous System,Male,ACH-001016,CNS/Brain,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00492,AM-38,CVCL_1070,Central Nervous System,Male,ACH-000269,CNS/Brain,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00498,SNU-C5,CVCL_5112,Large Intestine,Female,ACH-000970,Bowel,Female,Female,Ambiguous_high,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00499,22RV1,CVCL_1045,Prostate,Male,ACH-000956,Prostate,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00503,FU97,CVCL_2908,Stomach,Female,ACH-000633,Esophagus/Stomach,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00504,MOG-G-UVW,CVCL_2614,Central Nervous System,Male,,,,,,NO_CVCL_MATCH,,,True,True,True,False,False,Unknown,Unknown,False,False
+SIDM00505,MIA-PaCa-2,CVCL_0428,Pancreas,Male,ACH-000601,Pancreas,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00506,COR-L88,CVCL_1141,Lung,Male,ACH-000508,Lung,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00511,COR-L279,CVCL_1140,Lung,Male,ACH-000257,Lung,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00512,COR-L23,CVCL_1139,Lung,Male,ACH-000662,Lung,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00521,COR-L95,CVCL_2418,Lung,Male,ACH-000743,Lung,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00522,DMS-273,CVCL_1176,Lung,Female,ACH-000749,Lung,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00523,DMS-53,CVCL_1177,Lung,Male,ACH-000698,Lung,Male,Male,Female,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00524,DMS-79,CVCL_1178,Lung,Male,ACH-000703,Lung,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00525,MG-63,CVCL_0426,Bone,Male,ACH-000359,Bone,Male,Male,Ambiguous_high,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00526,MEG-01,CVCL_0425,Haematopoietic and Lymphoid,Male,ACH-000072,Myeloid,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00528,MDA-MB-361,CVCL_0620,Breast,Female,ACH-000934,Breast,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00531,HuP-T4,CVCL_1300,Pancreas,Male,ACH-000213,Pancreas,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00533,HuP-T3,CVCL_1299,Pancreas,Male,ACH-000118,Pancreas,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00545,Mewo,CVCL_0445,Skin,Male,ACH-000987,Skin,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00547,LU-65,CVCL_1392,Lung,Male,ACH-000438,Lung,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00552,KYM-1,CVCL_3007,Soft Tissue,Male,ACH-000607,Kidney,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,True,True,True,False,Unknown,Unknown,False,False
+SIDM00554,KURAMOCHI,CVCL_1345,Ovary,Female,ACH-000524,Ovary/Fallopian Tube,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00556,KP-N-YN,CVCL_1341,Peripheral Nervous System,Male,ACH-000227,Peripheral Nervous System,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00557,KP-N-RT-BM-1,CVCL_1339,Peripheral Nervous System,Female,ACH-000345,Peripheral Nervous System,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00560,MKN7,CVCL_1417,Stomach,Male,ACH-000678,Esophagus/Stomach,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00564,OVISE,CVCL_3116,Ovary,Female,ACH-000527,Ovary/Fallopian Tube,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00567,ONS-76,CVCL_1624,Central Nervous System,Female,ACH-000776,CNS/Brain,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00570,NUGC-4,CVCL_3082,Stomach,Female,ACH-000674,Esophagus/Stomach,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00571,KP-3,CVCL_3005,Pancreas,Male,ACH-000108,Pancreas,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00572,NUGC-3,CVCL_1612,Stomach,Male,ACH-000911,Esophagus/Stomach,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00575,NMC-G1,CVCL_1608,Central Nervous System,Female,ACH-000200,CNS/Brain,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00582,KP-2,CVCL_3004,Pancreas,Female,ACH-000281,Pancreas,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00585,HuH-7,CVCL_0336,Liver,Male,ACH-000480,Liver,Female,Male,Female,discordant,corrected_auto,high,False,False,False,True,True,Female,Female,True,True
+SIDM00587,HuCCT1,CVCL_0324,Biliary Tract,Male,ACH-000976,Biliary Tract,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00588,HSC-4,CVCL_1289,Head and Neck,Male,ACH-000546,Head and Neck,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00589,HSC-3,CVCL_1288,Head and Neck,Male,ACH-000778,Head and Neck,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00590,HSC-2,CVCL_1287,Head and Neck,Male,ACH-000472,Head and Neck,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00594,HEL,CVCL_0001,Haematopoietic and Lymphoid,Male,ACH-000004,Myeloid,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00602,IM-95,CVCL_2961,Stomach,Male,ACH-000919,Esophagus/Stomach,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00606,KNS-62,CVCL_1335,Lung,Male,ACH-000858,Lung,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00607,KNS-42,CVCL_0378,Central Nervous System,Male,ACH-000622,CNS/Brain,Male,Male,Male,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00608,KMS-11,CVCL_2989,Haematopoietic and Lymphoid,Female,ACH-000714,Lymphoid,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00611,KMRC-1,CVCL_2983,Kidney,Male,ACH-000684,Kidney,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00613,KALS-1,CVCL_1323,Central Nervous System,Female,ACH-000231,CNS/Brain,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00614,JHH-7,CVCL_2805,Liver,Male,ACH-000848,Liver,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00615,JHH-6,CVCL_2788,Liver,Female,ACH-000217,Liver,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00616,JHH-4,CVCL_2787,Liver,Male,ACH-000476,Liver,Female,Male,Female,discordant,corrected_auto,high,False,False,False,True,True,Female,Female,True,True
+SIDM00617,JHH-2,CVCL_2786,Liver,Male,ACH-000577,Liver,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00628,MDA-MB-468,CVCL_0419,Breast,Female,ACH-000849,Breast,Female,Female,Ambiguous_high,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00629,MDA-MB-436,CVCL_0623,Breast,Female,ACH-000573,Breast,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00630,MDA-MB-415,CVCL_0621,Breast,Female,ACH-000876,Breast,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00637,MC116,CVCL_1399,Haematopoietic and Lymphoid,Male,ACH-000583,Lymphoid,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00640,MSTO-211H,CVCL_1430,Lung,Male,ACH-000335,Pleura,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00641,NAMALWA,CVCL_0067,Haematopoietic and Lymphoid,Female,ACH-000944,Lymphoid,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00645,NCI-H1355,CVCL_1464,Lung,Male,ACH-000666,Lung,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00646,NCI-H1341,CVCL_1463,Lung,Female,ACH-000129,Cervix,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00649,NCI-H1299,CVCL_0060,Lung,Male,ACH-000510,Lung,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00652,NCI-H1105,CVCL_1455,Lung,Male,ACH-000780,Lung,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00653,NCI-H1092,CVCL_1454,Lung,Male,ACH-000514,Lung,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00654,NCI-H1048,CVCL_1453,Lung,Female,ACH-000866,Lung,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00657,MV-4-11,CVCL_0064,Haematopoietic and Lymphoid,Male,ACH-000045,Myeloid,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00658,NCI-H1435,CVCL_1470,Lung,Female,ACH-000852,Lung,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00660,LS-411N,CVCL_1385,Large Intestine,Male,ACH-000985,Bowel,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00661,HT,CVCL_1290,Haematopoietic and Lymphoid,Male,ACH-000914,Lymphoid,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00664,Hs-766T,CVCL_0334,Pancreas,Male,ACH-000178,Pancreas,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00666,Hs-683,CVCL_0844,Central Nervous System,Male,ACH-000067,CNS/Brain,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00673,HCC70,CVCL_1270,Breast,Female,ACH-000668,Breast,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00675,HCC38,CVCL_1267,Breast,Female,ACH-000276,Breast,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00677,LS-513,CVCL_1386,Large Intestine,Male,ACH-000007,Bowel,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00678,HT-1376,CVCL_1292,Bladder,Female,ACH-000724,Bladder/Urinary Tract,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00680,LS-180,CVCL_0397,Large Intestine,Female,ACH-000957,Bowel,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00681,LS1034,CVCL_1382,Large Intestine,Male,ACH-000252,Bowel,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00683,LNCaP-Clone-FGC,CVCL_1379,Prostate,Male,ACH-000977,Prostate,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00684,LN-229,CVCL_0393,Central Nervous System,Female,ACH-000595,CNS/Brain,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00685,LN-18,CVCL_0392,Central Nervous System,Male,ACH-000819,CNS/Brain,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00686,KLE,CVCL_1329,Endometrium,Female,ACH-000293,Uterus,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00687,KATOIII,CVCL_0371,Stomach,Male,ACH-000793,Esophagus/Stomach,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00693,J82,CVCL_0359,Bladder,Male,ACH-000396,Bladder/Urinary Tract,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00695,HT-144,CVCL_0318,Skin,Male,ACH-000322,Skin,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00697,NCI-H1436,CVCL_1471,Lung,Male,ACH-000830,Lung,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00698,NCI-H146,CVCL_1473,Lung,Male,ACH-000506,Lung,Female,Male,Female,discordant,corrected_auto,high,False,False,False,True,True,Female,Female,True,True
+SIDM00699,NCI-H2141,CVCL_1534,Lung,Male,,,,,,NO_CVCL_MATCH,,,True,True,True,False,False,Unknown,Unknown,False,False
+SIDM00702,NCI-H2122,CVCL_1531,Lung,Female,ACH-000311,Lung,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00704,NCI-H211,CVCL_1529,Lung,Female,ACH-000639,Lung,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00706,NCI-H209,CVCL_1525,Lung,Male,ACH-000290,Lung,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00708,NCI-H2087,CVCL_1524,Lung,Male,ACH-000841,Lung,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00710,NCI-H2081,CVCL_1522,Lung,Female,ACH-000394,Lung,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00711,NCI-H2066,CVCL_1520,Lung,Female,,,,,,NO_CVCL_MATCH,,,True,True,True,False,False,Unknown,Unknown,False,False
+SIDM00713,NCI-H2052,CVCL_1518,Lung,Male,ACH-000153,Pleura,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00715,NCI-H2030,CVCL_1517,Lung,Male,ACH-000521,Lung,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00716,NCI-H2170,CVCL_1535,Lung,Male,ACH-000481,Lung,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00718,NCI-H358,CVCL_1559,Lung,Male,ACH-000860,Lung,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00722,NCI-H2452,CVCL_1553,Lung,Male,ACH-000092,Pleura,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00723,NCI-H2444,CVCL_1552,Lung,Male,ACH-000186,Lung,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00724,NCI-H2405,CVCL_1551,Lung,Male,ACH-000121,Lung,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00726,NCI-H2347,CVCL_1550,Lung,Female,ACH-000875,Lung,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00727,NCI-H2342,CVCL_1549,Lung,Male,ACH-000951,Lung,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00728,NCI-H2291,CVCL_1546,Lung,Male,ACH-000718,Lung,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00729,NCI-H2228,CVCL_1543,Lung,Female,ACH-000447,Lung,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00730,NCI-H2227,CVCL_1542,Lung,Male,ACH-000610,Lung,Male,Male,Ambiguous_high,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00733,NCI-H2171,CVCL_1536,Lung,Male,ACH-000525,Lung,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00734,NCI-H1437,CVCL_1472,Lung,Male,ACH-000589,Lung,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00735,NCI-H2029,CVCL_1516,Lung,Female,ACH-000298,Lung,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00738,NCI-H1755,CVCL_1492,Lung,Female,ACH-000282,Lung,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00739,NCI-H1734,CVCL_1491,Lung,Female,ACH-000675,Lung,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00740,NCI-H1703,CVCL_1490,Lung,Male,ACH-000747,Lung,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00741,NCI-H1694,CVCL_1489,Lung,Male,ACH-000431,Lung,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00742,NCI-H1693,CVCL_1488,Lung,Female,ACH-000021,Lung,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00743,NCI-H1666,CVCL_1485,Lung,Female,ACH-000448,Lung,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00744,NCI-H1651,CVCL_1484,Lung,Male,ACH-000893,Lung,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00745,NCI-H1650,CVCL_1483,Lung,Male,ACH-000035,Lung,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00746,NCI-H1648,CVCL_1482,Lung,Male,ACH-000766,Lung,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00747,NCI-H1623,CVCL_1481,Lung,Male,ACH-000744,Lung,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00748,NCI-H1581,CVCL_1479,Lung,Male,ACH-000015,Lung,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00749,NCI-H1573,CVCL_1478,Lung,Female,ACH-000916,Lung,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00750,NCI-H1568,CVCL_1476,Lung,Female,ACH-000869,Lung,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00751,NCI-H1563,CVCL_1475,Lung,Male,ACH-000892,Lung,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00753,NCI-H2023,CVCL_1515,Lung,Male,ACH-000781,Lung,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00754,NCI-H1781,CVCL_1494,Lung,Female,ACH-000379,Lung,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00755,NCI-H1793,CVCL_1496,Lung,Female,ACH-000888,Lung,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00756,NCI-H2009,CVCL_1514,Lung,Female,ACH-000886,Lung,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00759,NCI-H1975,CVCL_1511,Lung,Female,ACH-000587,Lung,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00760,NCI-H1963,CVCL_1510,Lung,Male,ACH-000729,Lung,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00761,NCI-H196,CVCL_1509,Lung,Male,ACH-000752,Lung,Male,Male,Male,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00762,NCI-H1944,CVCL_1508,Lung,Female,ACH-000414,Lung,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00763,NCI-H1915,CVCL_1505,Lung,Female,ACH-000434,Lung,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00766,NCI-H1876,CVCL_1503,Lung,Male,ACH-000586,Lung,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00769,NCI-H1838,CVCL_1499,Lung,Female,ACH-000733,Lung,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00770,NCI-H1836,CVCL_1498,Lung,Male,ACH-000559,Lung,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00771,NCI-H1792,CVCL_1495,Lung,Male,ACH-000496,Lung,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00772,HCC2218,CVCL_1263,Breast,Female,ACH-000755,Breast,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00774,HCC2157,CVCL_1261,Breast,Female,ACH-000691,Breast,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00776,LS-123,CVCL_1383,Large Intestine,Female,ACH-000501,Bowel,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00777,NCI-H508,CVCL_1564,Large Intestine,Male,ACH-000360,Bowel,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00778,NCI-H747,CVCL_1587,Large Intestine,Male,ACH-000403,Bowel,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00779,NCI-H716,CVCL_1581,Large Intestine,Male,ACH-000491,Bowel,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00782,T84,CVCL_0555,Large Intestine,Male,ACH-000381,Bowel,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00783,HCT-116,CVCL_0291,Large Intestine,Male,ACH-000971,Bowel,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00789,HCT-15,CVCL_0292,Large Intestine,Male,ACH-000997,Bowel,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00791,K-562,CVCL_0004,Haematopoietic and Lymphoid,Female,ACH-000551,Myeloid,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00795,A375,CVCL_0132,Skin,Female,ACH-000219,Skin,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00796,A253,CVCL_1060,Head and Neck,Male,ACH-000740,Head and Neck,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00797,A2058,CVCL_1059,Skin,Male,ACH-000788,Skin,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00798,A204,CVCL_1058,Soft Tissue,Female,ACH-000201,Kidney,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00799,A172,CVCL_0131,Central Nervous System,Male,ACH-000558,CNS/Brain,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00803,769-P,CVCL_1050,Kidney,Female,ACH-000411,Kidney,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00806,HOS,CVCL_0312,Bone,Female,ACH-000613,Bone,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00807,5637,CVCL_0126,Bladder,Male,ACH-000905,Bladder/Urinary Tract,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00812,SW1417,CVCL_1717,Large Intestine,Female,ACH-000236,Bowel,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00828,HT-1080,CVCL_0317,Soft Tissue,Male,ACH-000054,Soft Tissue,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00831,Detroit562,CVCL_1171,Head and Neck,Female,ACH-000207,Head and Neck,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00832,SW948,CVCL_0632,Large Intestine,Female,ACH-000680,Bowel,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00833,SW837,CVCL_1729,Large Intestine,Male,ACH-000421,Bowel,Male,Male,Male,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00834,SW1463,CVCL_1718,Large Intestine,Female,ACH-000470,Bowel,Female,Female,Ambiguous_high,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00835,SW1116,CVCL_0544,Large Intestine,Male,ACH-000489,Bowel,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00837,SW48,CVCL_1724,Large Intestine,Female,ACH-000958,Bowel,Female,Female,Ambiguous_high,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00839,LoVo,CVCL_0399,Large Intestine,Male,ACH-000950,Bowel,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00841,SW620,CVCL_0547,Large Intestine,Male,ACH-000651,Bowel,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00844,Raji,CVCL_0511,Haematopoietic and Lymphoid,Male,ACH-000654,Lymphoid,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00845,Daudi,CVCL_0008,Haematopoietic and Lymphoid,Male,ACH-000786,Lymphoid,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00847,RD,CVCL_1649,Soft Tissue,Female,ACH-000169,Soft Tissue,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00848,A673,CVCL_0080,Bone,Female,ACH-000052,Bone,Female,Female,Female,concordant,reported+expression,high,False,True,True,True,False,Unknown,Unknown,False,False
+SIDM00849,A704,CVCL_1065,Kidney,Male,ACH-000429,Kidney,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00850,AGS,CVCL_0139,Stomach,Female,ACH-000880,Esophagus/Stomach,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00853,GCT,CVCL_1229,Soft Tissue,Male,ACH-000835,Soft Tissue,Female,Male,Female,discordant,corrected_auto,high,False,False,False,True,True,Female,Female,True,True
+SIDM00855,G-402,CVCL_1221,Soft Tissue,Female,ACH-000375,Kidney,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00856,G-401,CVCL_0270,Other tissue,Male,ACH-000096,Kidney,Male,Male,Male,concordant,reported+expression,high,False,True,True,True,False,Unknown,Unknown,False,False
+SIDM00860,FADU,CVCL_1218,Head and Neck,Male,ACH-000846,Head and Neck,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00865,DMS-114,CVCL_1174,Lung,Male,ACH-000530,Lung,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00866,HCC1143,CVCL_1245,Breast,Female,ACH-000374,Breast,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00867,DBTRG-05MG,CVCL_1169,Central Nervous System,Female,ACH-000863,CNS/Brain,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00872,HCC1954,CVCL_1259,Breast,Female,ACH-000859,Breast,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00875,HCC1806,CVCL_1258,Breast,Female,ACH-000624,Breast,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00877,HCC1599,CVCL_1256,Breast,Female,ACH-000196,Breast,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00878,HCC1569,CVCL_1255,Breast,Female,ACH-000930,Breast,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00879,HCC1500,CVCL_1254,Breast,Female,ACH-000349,Breast,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00881,HCC1428,CVCL_1252,Breast,Female,ACH-000352,Breast,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00882,HCC1419,CVCL_1251,Breast,Female,ACH-000277,Breast,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00884,HCC1395,CVCL_1249,Breast,Female,ACH-000699,Breast,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00885,HCC1187,CVCL_1247,Breast,Female,ACH-000111,Breast,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00886,DB,CVCL_1168,Haematopoietic and Lymphoid,Male,ACH-000334,Lymphoid,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00887,Daoy,CVCL_1167,Central Nervous System,Male,ACH-000211,CNS/Brain,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00892,BT-483,CVCL_2319,Breast,Female,ACH-000818,Breast,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00893,BT-20,CVCL_0178,Breast,Female,ACH-000536,Breast,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00898,AU565,CVCL_1074,Breast,Female,ACH-000248,Breast,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00899,AsPC-1,CVCL_0152,Pancreas,Female,ACH-000222,Pancreas,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00901,AN3-CA,CVCL_0028,Endometrium,Female,ACH-000940,Uterus,Female,Female,Female,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00903,A549,CVCL_0023,Lung,Male,ACH-000681,Lung,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00907,CA46,CVCL_1101,Haematopoietic and Lymphoid,Male,ACH-000440,Lymphoid,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00909,COLO-829,CVCL_1137,Skin,Male,ACH-000644,Skin,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00910,CHP-212,CVCL_1125,Peripheral Nervous System,Male,ACH-000120,Peripheral Nervous System,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00918,Caov-4,CVCL_0202,Ovary,Female,ACH-000103,Ovary/Fallopian Tube,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00919,Caov-3,CVCL_0201,Ovary,Female,ACH-000713,Ovary/Fallopian Tube,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00920,CAMA-1,CVCL_1115,Breast,Female,ACH-000783,Breast,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00921,Calu-6,CVCL_0236,Lung,Female,ACH-000264,Lung,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00922,Calu-3,CVCL_0609,Lung,Male,ACH-000392,Lung,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00924,ChaGo-K-1,CVCL_1121,Lung,Male,ACH-000867,Lung,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00925,NCI-H441,CVCL_1561,Lung,Male,ACH-000638,Lung,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00926,NCI-H2172,CVCL_1537,Lung,Female,ACH-000924,Lung,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00929,CAL-78,CVCL_1809,Bone,Male,ACH-000516,Bone,Male,Male,Ambiguous_high,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00931,CAL-62,CVCL_1112,Thyroid,Female,ACH-000174,Thyroid,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00932,CAL-54,CVCL_1111,Kidney,Male,ACH-000457,Kidney,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00933,CAL-51,CVCL_1110,Breast,Female,ACH-000856,Breast,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00934,CAPAN-1,CVCL_0237,Pancreas,Male,ACH-000354,Pancreas,Male,Male,Male,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00936,CAL-29,CVCL_1808,Bladder,Female,ACH-000142,Bladder/Urinary Tract,Female,Female,Female,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00937,CAL-27,CVCL_1107,Head and Neck,Male,ACH-000832,Head and Neck,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00938,CAL-148,CVCL_1106,Breast,Female,ACH-000902,Breast,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00939,CAL-12T,CVCL_1105,Lung,Male,ACH-000826,Lung,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00940,CAL-120,CVCL_1104,Breast,Female,ACH-000212,Breast,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00941,CAKI-1,CVCL_0234,Kidney,Male,ACH-000433,Kidney,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00942,CAL-33,CVCL_1108,Head and Neck,Male,ACH-000518,Head and Neck,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00943,CAPAN-2,CVCL_0026,Pancreas,Male,ACH-000107,Pancreas,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00946,DND-41,CVCL_2022,Haematopoietic and Lymphoid,Male,ACH-000981,Lymphoid,Male,Male,Ambiguous_high,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00947,DK-MG,CVCL_1173,Central Nervous System,Female,ACH-000244,CNS/Brain,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00949,DEL,CVCL_1170,Haematopoietic and Lymphoid,Male,ACH-000233,Lymphoid,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00950,DAN-G,CVCL_0243,Pancreas,Female,ACH-000243,Pancreas,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00953,CPC-N,CVCL_1146,Lung,Male,,,,,,NO_CVCL_MATCH,,,True,True,True,False,False,Unknown,Unknown,False,False
+SIDM00955,COLO-783,CVCL_1997,Skin,Female,ACH-000812,Skin,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00956,COLO-680N,CVCL_1131,Esophagus,Female,ACH-000717,Esophagus/Stomach,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00958,CML-T1,CVCL_1126,Haematopoietic and Lymphoid,Female,ACH-000920,Myeloid,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00961,CADO-ES1,CVCL_1103,Bone,Female,ACH-000210,Bone,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00962,BV-173,CVCL_0181,Haematopoietic and Lymphoid,Male,ACH-000432,Lymphoid,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00963,BT-474,CVCL_0179,Breast,Female,ACH-000927,Breast,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00965,NCI-H446,CVCL_1562,Lung,Male,ACH-000800,Lung,Male,Male,Ambiguous_high,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00971,ZR-75-30,CVCL_1661,Breast,Female,ACH-000828,Breast,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00981,DOHH-2,CVCL_1179,Haematopoietic and Lymphoid,Male,ACH-000056,Lymphoid,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00982,42-MG-BA,CVCL_1798,Central Nervous System,Male,ACH-000323,CNS/Brain,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00983,647-V,CVCL_1049,Bladder,Male,ACH-000896,Bladder/Urinary Tract,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00985,BL-41,CVCL_1087,Haematopoietic and Lymphoid,Male,ACH-000245,Lymphoid,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00986,BHY,CVCL_1086,Head and Neck,Male,ACH-000548,Head and Neck,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00988,BFTC-909,CVCL_1084,Kidney,Male,ACH-000792,Kidney,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00989,BFTC-905,CVCL_1083,Bladder,Female,ACH-000802,Bladder/Urinary Tract,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00990,BEN,CVCL_1082,Lung,Male,ACH-000603,Lung,Male,Male,Ambiguous_high,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM00992,B-CPAP,CVCL_0153,Thyroid,Female,ACH-000456,Thyroid,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00993,AMO-1,CVCL_1806,Haematopoietic and Lymphoid,Female,ACH-000838,Lymphoid,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00994,ALL-SIL,CVCL_1805,Haematopoietic and Lymphoid,Male,ACH-000105,Lymphoid,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM00996,8505C,CVCL_1054,Thyroid,Female,ACH-001307,Thyroid,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00997,8305C,CVCL_1053,Thyroid,Female,ACH-001306,Thyroid,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM00998,8-MG-BA,CVCL_1052,Central Nervous System,Female,ACH-000137,CNS/Brain,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM00999,639-V,CVCL_1048,Bladder,Male,ACH-000973,Bladder/Urinary Tract,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM01000,WM-115,CVCL_0040,Skin,Female,ACH-000304,Skin,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM01001,DU-4475,CVCL_1183,Breast,Female,ACH-000258,Breast,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM01002,EFM-192A,CVCL_1812,Breast,Female,ACH-000117,Breast,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM01003,KE-37,CVCL_1327,Haematopoietic and Lymphoid,Male,ACH-000101,Lymphoid,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM01004,KCL-22,CVCL_2091,Haematopoietic and Lymphoid,Female,ACH-000983,Myeloid,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM01005,KASUMI-1,CVCL_0589,Haematopoietic and Lymphoid,Male,ACH-000263,Myeloid,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM01006,KARPAS-620,CVCL_1823,Haematopoietic and Lymphoid,Female,ACH-000193,Lymphoid,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM01010,KARPAS-299,CVCL_1324,Haematopoietic and Lymphoid,Male,ACH-000053,Lymphoid,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM01012,JVM-3,CVCL_1320,Haematopoietic and Lymphoid,Male,ACH-000346,Lymphoid,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM01013,JVM-2,CVCL_1319,Haematopoietic and Lymphoid,Female,ACH-000106,Lymphoid,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM01020,KMS-12-BM,CVCL_1334,Haematopoietic and Lymphoid,Female,ACH-000380,Lymphoid,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM01023,MONO-MAC-6,CVCL_1426,Haematopoietic and Lymphoid,Male,ACH-000006,Myeloid,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM01024,KYSE-70,CVCL_1356,Esophagus,Male,ACH-000784,Esophagus/Stomach,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM01025,KYSE-520,CVCL_1355,Esophagus,Female,ACH-000637,Esophagus/Stomach,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM01026,KYSE-510,CVCL_1354,Esophagus,Female,ACH-000824,Esophagus/Stomach,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM01027,KYSE-450,CVCL_1353,Esophagus,Male,ACH-000865,Esophagus/Stomach,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM01028,KYSE-410,CVCL_1352,Esophagus,Male,ACH-000809,Esophagus/Stomach,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM01029,KYSE-270,CVCL_1350,Esophagus,Male,ACH-000873,Esophagus/Stomach,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM01030,KYSE-180,CVCL_1349,Esophagus,Male,ACH-000693,Esophagus/Stomach,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM01031,KYSE-150,CVCL_1348,Esophagus,Female,ACH-000855,Esophagus/Stomach,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM01032,KYSE-140,CVCL_1347,Esophagus,Male,ACH-000823,Esophagus/Stomach,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM01033,KU-19-19,CVCL_1344,Bladder,Male,ACH-000486,Bladder/Urinary Tract,Male,Conflict,Male,source_conflict,expression_resolved_conflict,medium,False,False,False,True,False,Male,Male,True,True
+SIDM01034,KOPN-8,CVCL_1866,Haematopoietic and Lymphoid,Female,ACH-001106,Lymphoid,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM01036,JJN-3,CVCL_2078,Haematopoietic and Lymphoid,Female,ACH-000653,Lymphoid,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM01037,JIMT-1,CVCL_2077,Breast,Female,ACH-000711,Breast,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM01038,JEKO-1,CVCL_1865,Haematopoietic and Lymphoid,Female,ACH-000357,Lymphoid,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM01040,FU-OV-1,CVCL_2047,Ovary,Female,ACH-000574,Ovary/Fallopian Tube,Female,Female,Female,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM01042,EVSA-T,CVCL_1207,Breast,Female,,,,,,NO_CVCL_MATCH,,,True,True,True,False,False,Unknown,Unknown,False,False
+SIDM01043,ESS-1,CVCL_1205,Soft Tissue,Female,ACH-000913,Uterus,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM01044,EPLC-272H,CVCL_1197,Lung,Male,ACH-000585,Lung,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM01045,EN,CVCL_2034,Endometrium,Female,ACH-000978,Uterus,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM01047,EM-2,CVCL_1196,Haematopoietic and Lymphoid,Female,ACH-000295,Myeloid,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM01048,EJM,CVCL_2030,Haematopoietic and Lymphoid,Female,ACH-000821,Lymphoid,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM01051,EFO-27,CVCL_1192,Ovary,Female,ACH-000936,Ovary/Fallopian Tube,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM01052,EFO-21,CVCL_0029,Ovary,Female,ACH-000308,Ovary/Fallopian Tube,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM01055,GAMG,CVCL_1226,Central Nervous System,Female,ACH-000098,CNS/Brain,Female,Female,Ambiguous_high,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM01056,EFM-19,CVCL_0253,Breast,Female,ACH-000330,Breast,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM01057,GDM-1,CVCL_1230,Haematopoietic and Lymphoid,Female,ACH-000081,Myeloid,Female,Female,Female,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM01058,GRANTA-519,CVCL_1818,Haematopoietic and Lymphoid,Female,ACH-000073,Lymphoid,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM01059,IPC-298,CVCL_1307,Skin,Female,ACH-000915,Skin,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM01064,HDLM-2,CVCL_0009,Haematopoietic and Lymphoid,Male,ACH-000267,Lymphoid,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM01066,IGR-37,CVCL_2075,Skin,Male,ACH-000650,Skin,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM01067,HCC-827,CVCL_2063,Lung,Female,ACH-000012,Lung,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM01068,HCC-78,CVCL_2061,Lung,Male,ACH-000562,Lung,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM01070,HCC-366,CVCL_2059,Lung,Female,ACH-000840,Lung,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM01071,HCC-33,CVCL_2058,Lung,Male,ACH-000515,Lung,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM01072,HCC-15,CVCL_2057,Lung,Male,ACH-000878,Lung,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM01076,697,CVCL_0079,Haematopoietic and Lymphoid,Male,ACH-000070,Lymphoid,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM01077,VCaP,CVCL_2235,Prostate,Male,ACH-000115,Prostate,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM01078,SHP-77,CVCL_1693,Lung,Male,ACH-000790,Lung,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM01080,SCC-9,CVCL_1685,Head and Neck,Male,ACH-000181,Head and Neck,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM01081,SCC-4,CVCL_1684,Head and Neck,Male,ACH-000238,Head and Neck,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM01082,SCC-25,CVCL_1682,Head and Neck,Male,ACH-000188,Head and Neck,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM01083,SCC-15,CVCL_1681,Head and Neck,Male,ACH-000254,Head and Neck,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM01085,RT4,CVCL_0036,Bladder,Male,ACH-000242,Bladder/Urinary Tract,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM01087,RPMI-7951,CVCL_1666,Skin,Female,ACH-000348,Skin,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM01088,RL95-2,CVCL_0505,Endometrium,Female,ACH-000965,Uterus,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM01089,RL,CVCL_1660,Haematopoietic and Lymphoid,Male,ACH-000371,Lymphoid,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM01096,SK-CO-1,CVCL_0626,Large Intestine,Male,ACH-000400,Bowel,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM01098,SK-N-SH,CVCL_0531,Peripheral Nervous System,Female,ACH-000149,Peripheral Nervous System,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM01099,SK-N-FI,CVCL_1702,Peripheral Nervous System,Male,ACH-000341,Peripheral Nervous System,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM01100,SK-N-DZ,CVCL_1701,Peripheral Nervous System,Female,ACH-000366,Peripheral Nervous System,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM01101,SK-N-AS,CVCL_1700,Peripheral Nervous System,Female,ACH-000260,Peripheral Nervous System,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM01103,SK-MES-1,CVCL_0630,Lung,Male,ACH-000665,Lung,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM01105,SK-MEL-3,CVCL_0550,Skin,Female,ACH-000423,Skin,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM01106,SK-MEL-24,CVCL_0599,Skin,Male,ACH-000822,Skin,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM01107,SK-MEL-1,CVCL_0068,Skin,Male,ACH-000465,Skin,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM01108,SK-LU-1,CVCL_0629,Lung,Female,,,,,,NO_CVCL_MATCH,,,True,True,True,False,False,Unknown,Unknown,False,False
+SIDM01109,SK-LMS-1,CVCL_0628,Soft Tissue,Female,ACH-000145,Soft Tissue,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM01110,SK-HEP-1,CVCL_0525,Liver,Male,ACH-000361,Liver,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,True,True,True,False,Unknown,Unknown,False,False
+SIDM01111,SK-ES-1,CVCL_0627,Bone,Male,ACH-000087,Bone,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM01112,SJSA-1,CVCL_1697,Bone,Male,ACH-000748,Bone,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM01113,SK-UT-1,CVCL_0533,Soft Tissue,Female,ACH-000939,Uterus,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM01116,NCI-H810,CVCL_1590,Lung,Male,ACH-000789,Lung,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM01119,NCI-H727,CVCL_1584,Lung,Female,ACH-000775,Lung,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM01121,NCI-H69,CVCL_1579,Lung,Male,ACH-000358,Lung,Male,Male,Male,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM01122,NCI-H661,CVCL_1577,Lung,Male,ACH-000853,Lung,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM01123,NCI-H660,CVCL_1576,Prostate,Male,,,,,,NO_CVCL_MATCH,,,True,True,True,False,False,Unknown,Unknown,False,False
+SIDM01124,NCI-H650,CVCL_1575,Lung,Male,ACH-000945,Lung,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM01125,NCI-H647,CVCL_1574,Lung,Male,ACH-000378,Lung,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM01127,NCI-H596,CVCL_1571,Lung,Male,ACH-000628,Lung,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM01128,NCI-H526,CVCL_1569,Lung,Male,ACH-000767,Lung,Male,Male,Ambiguous_high,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM01129,NCI-H524,CVCL_1568,Lung,Male,ACH-000816,Lung,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM01130,NCI-H520,CVCL_1566,Lung,Male,ACH-000395,Lung,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM01131,NCI-H82,CVCL_1591,Lung,Male,ACH-000355,Lung,Male,Male,Female,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM01141,OV-90,CVCL_3768,Ovary,Female,ACH-000291,Ovary/Fallopian Tube,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM01144,SNU-5,CVCL_0078,Stomach,Female,ACH-000303,Esophagus/Stomach,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM01146,SNU-1,CVCL_0099,Stomach,Male,ACH-000932,Esophagus/Stomach,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM01147,NCI-N87,CVCL_1603,Stomach,Male,ACH-000427,Esophagus/Stomach,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM01148,NCI-H929,CVCL_1600,Haematopoietic and Lymphoid,Female,ACH-000050,Lymphoid,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM01150,NCI-H838,CVCL_1594,Lung,Male,ACH-000416,Lung,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM01155,SW1088,CVCL_1715,Central Nervous System,Male,ACH-000437,CNS/Brain,Male,Male,Ambiguous_high,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM01156,SW1271,CVCL_1716,Lung,Male,ACH-000890,Lung,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM01160,SW780,CVCL_1728,Bladder,Female,ACH-000384,Bladder/Urinary Tract,Female,Female,Ambiguous_high,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM01163,SW1573,CVCL_1720,Lung,Female,ACH-000677,Lung,Female,Female,Male,discordant,unresolved,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM01164,SW1783,CVCL_1722,Central Nervous System,Male,ACH-000883,CNS/Brain,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM01165,SW1990,CVCL_1723,Pancreas,Male,ACH-000155,Pancreas,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM01169,TOV-21G,CVCL_3613,Ovary,Female,ACH-000885,Ovary/Fallopian Tube,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM01171,T98G,CVCL_0556,Central Nervous System,Male,ACH-000571,CNS/Brain,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM01172,THP-1,CVCL_0006,Haematopoietic and Lymphoid,Male,ACH-000146,Myeloid,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM01176,SUP-B15,CVCL_0103,Haematopoietic and Lymphoid,Male,ACH-000059,Lymphoid,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM01180,SNU-387,CVCL_0250,Liver,Female,ACH-000478,Liver,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM01181,SNU-398,CVCL_0077,Liver,Male,ACH-000221,Liver,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM01182,UM-UC-3,CVCL_1783,Bladder,Male,ACH-000522,Bladder/Urinary Tract,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM01186,UACC-893,CVCL_1782,Breast,Female,ACH-000554,Breast,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM01187,UACC-812,CVCL_1781,Breast,Female,ACH-000568,Breast,Female,Female,Female,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM01191,U-2-OS,CVCL_0042,Bone,Female,ACH-000364,Bone,Female,Female,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Female,False,True
+SIDM01194,SNU-449,CVCL_0454,Liver,Male,ACH-000420,Liver,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM01199,SNU-423,CVCL_0366,Liver,Male,ACH-000493,Liver,Male,Male,Male,concordant,reported+expression,high,False,False,False,True,False,Male,Male,True,True
+SIDM01228,CHL-1,CVCL_1122,Skin,Female,ACH-001024,Skin,Female,Female,Female,concordant,reported+expression,high,False,False,False,True,False,Female,Female,True,True
+SIDM01233,C2BBe1,CVCL_1096,Large Intestine,Male,ACH-000009,Bowel,Male,Male,Ambiguous_low,uninformative,reported_only,low,True,False,False,True,False,Unknown,Male,False,True
+SIDM01248,CGTH-W-1,CVCL_1120,Thyroid,Male,,,,,,NO_CVCL_MATCH,,,True,True,True,False,False,Unknown,Unknown,False,False

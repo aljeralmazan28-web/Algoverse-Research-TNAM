@@ -1,0 +1,272 @@
+cell_line_id,tissue,reference_526_split,zip_492_split
+SIDM00079,Ovary,val,train
+SIDM00080,Skin,test,train
+SIDM00081,Skin,test,train
+SIDM00082,Skin,test,train
+SIDM00084,Central Nervous System,train,test
+SIDM00087,Haematopoietic and Lymphoid,train,val
+SIDM00090,Ovary,val,train
+SIDM00092,Ovary,val,train
+SIDM00097,Breast,test,train
+SIDM00122,Breast,test,train
+SIDM00130,Pancreas,val,train
+SIDM00132,Pancreas,val,train
+SIDM00135,Breast,test,train
+SIDM00140,Skin,test,train
+SIDM00142,Endometrium,train,test
+SIDM00146,Breast,test,train
+SIDM00148,Breast,test,train
+SIDM00149,Skin,test,train
+SIDM00150,Large Intestine,val,test
+SIDM00151,Ovary,val,train
+SIDM00193,Large Intestine,val,test
+SIDM00210,Ovary,val,train
+SIDM00212,Central Nervous System,train,test
+SIDM00214,Large Intestine,val,test
+SIDM00215,Large Intestine,val,test
+SIDM00216,Large Intestine,val,test
+SIDM00238,Ovary,val,train
+SIDM00251,Stomach,test,train
+SIDM00272,Breast,test,train
+SIDM00273,Central Nervous System,train,test
+SIDM00274,Stomach,test,train
+SIDM00279,Stomach,test,train
+SIDM00280,Stomach,test,train
+SIDM00282,Large Intestine,val,test
+SIDM00284,Skin,test,train
+SIDM00301,Pancreas,val,train
+SIDM00303,Ovary,val,train
+SIDM00305,Ovary,val,train
+SIDM00308,Haematopoietic and Lymphoid,train,val
+SIDM00312,Haematopoietic and Lymphoid,train,val
+SIDM00313,Haematopoietic and Lymphoid,train,val
+SIDM00315,Central Nervous System,train,test
+SIDM00316,Central Nervous System,train,test
+SIDM00321,Ovary,val,train
+SIDM00327,Haematopoietic and Lymphoid,train,val
+SIDM00329,Haematopoietic and Lymphoid,train,val
+SIDM00333,Endometrium,train,test
+SIDM00334,Endometrium,train,test
+SIDM00335,Endometrium,train,test
+SIDM00336,Skin,test,train
+SIDM00337,Skin,test,train
+SIDM00342,Haematopoietic and Lymphoid,train,val
+SIDM00352,Ovary,val,train
+SIDM00358,Stomach,test,train
+SIDM00360,Pancreas,val,train
+SIDM00373,Endometrium,train,test
+SIDM00376,Haematopoietic and Lymphoid,train,val
+SIDM00380,Haematopoietic and Lymphoid,train,val
+SIDM00382,Central Nervous System,train,test
+SIDM00387,Peripheral Nervous System,train,val
+SIDM00389,Haematopoietic and Lymphoid,train,val
+SIDM00390,Haematopoietic and Lymphoid,train,val
+SIDM00392,Skin,test,train
+SIDM00395,Peripheral Nervous System,train,val
+SIDM00396,Haematopoietic and Lymphoid,train,val
+SIDM00403,Haematopoietic and Lymphoid,train,val
+SIDM00405,Haematopoietic and Lymphoid,train,val
+SIDM00407,Haematopoietic and Lymphoid,train,val
+SIDM00411,Pancreas,val,train
+SIDM00413,Haematopoietic and Lymphoid,train,val
+SIDM00421,Haematopoietic and Lymphoid,train,val
+SIDM00422,Haematopoietic and Lymphoid,train,val
+SIDM00423,Haematopoietic and Lymphoid,train,val
+SIDM00425,Ovary,val,train
+SIDM00428,Haematopoietic and Lymphoid,train,val
+SIDM00429,Haematopoietic and Lymphoid,train,val
+SIDM00431,Haematopoietic and Lymphoid,train,val
+SIDM00433,Haematopoietic and Lymphoid,train,val
+SIDM00434,Haematopoietic and Lymphoid,train,val
+SIDM00435,Haematopoietic and Lymphoid,train,val
+SIDM00437,Haematopoietic and Lymphoid,train,val
+SIDM00443,Haematopoietic and Lymphoid,train,val
+SIDM00446,Haematopoietic and Lymphoid,train,val
+SIDM00447,Haematopoietic and Lymphoid,train,val
+SIDM00449,Haematopoietic and Lymphoid,train,val
+SIDM00451,Haematopoietic and Lymphoid,train,val
+SIDM00455,Pancreas,val,train
+SIDM00457,Haematopoietic and Lymphoid,train,val
+SIDM00460,Haematopoietic and Lymphoid,train,val
+SIDM00461,Haematopoietic and Lymphoid,train,val
+SIDM00463,Haematopoietic and Lymphoid,train,val
+SIDM00466,Ovary,val,train
+SIDM00469,Pancreas,val,train
+SIDM00475,Ovary,val,train
+SIDM00480,Ovary,val,train
+SIDM00481,Ovary,val,train
+SIDM00487,Large Intestine,val,test
+SIDM00490,Central Nervous System,train,test
+SIDM00492,Central Nervous System,train,test
+SIDM00498,Large Intestine,val,test
+SIDM00503,Stomach,test,train
+SIDM00504,Central Nervous System,train,test
+SIDM00505,Pancreas,val,train
+SIDM00526,Haematopoietic and Lymphoid,train,val
+SIDM00528,Breast,test,train
+SIDM00531,Pancreas,val,train
+SIDM00533,Pancreas,val,train
+SIDM00545,Skin,test,train
+SIDM00554,Ovary,val,train
+SIDM00556,Peripheral Nervous System,train,val
+SIDM00557,Peripheral Nervous System,train,val
+SIDM00560,Stomach,test,train
+SIDM00564,Ovary,val,train
+SIDM00567,Central Nervous System,train,test
+SIDM00570,Stomach,test,train
+SIDM00571,Pancreas,val,train
+SIDM00572,Stomach,test,train
+SIDM00575,Central Nervous System,train,test
+SIDM00582,Pancreas,val,train
+SIDM00594,Haematopoietic and Lymphoid,train,val
+SIDM00602,Stomach,test,train
+SIDM00607,Central Nervous System,train,test
+SIDM00608,Haematopoietic and Lymphoid,train,val
+SIDM00613,Central Nervous System,train,test
+SIDM00628,Breast,test,train
+SIDM00629,Breast,test,train
+SIDM00630,Breast,test,train
+SIDM00637,Haematopoietic and Lymphoid,train,val
+SIDM00641,Haematopoietic and Lymphoid,train,val
+SIDM00657,Haematopoietic and Lymphoid,train,val
+SIDM00660,Large Intestine,val,test
+SIDM00661,Haematopoietic and Lymphoid,train,val
+SIDM00664,Pancreas,val,train
+SIDM00666,Central Nervous System,train,test
+SIDM00673,Breast,test,train
+SIDM00675,Breast,test,train
+SIDM00677,Large Intestine,val,test
+SIDM00680,Large Intestine,val,test
+SIDM00681,Large Intestine,val,test
+SIDM00684,Central Nervous System,train,test
+SIDM00685,Central Nervous System,train,test
+SIDM00686,Endometrium,train,test
+SIDM00687,Stomach,test,train
+SIDM00695,Skin,test,train
+SIDM00772,Breast,test,train
+SIDM00774,Breast,test,train
+SIDM00776,Large Intestine,val,test
+SIDM00777,Large Intestine,val,test
+SIDM00778,Large Intestine,val,test
+SIDM00779,Large Intestine,val,test
+SIDM00782,Large Intestine,val,test
+SIDM00783,Large Intestine,val,test
+SIDM00789,Large Intestine,val,test
+SIDM00791,Haematopoietic and Lymphoid,train,val
+SIDM00795,Skin,test,train
+SIDM00797,Skin,test,train
+SIDM00799,Central Nervous System,train,test
+SIDM00812,Large Intestine,val,test
+SIDM00832,Large Intestine,val,test
+SIDM00833,Large Intestine,val,test
+SIDM00834,Large Intestine,val,test
+SIDM00835,Large Intestine,val,test
+SIDM00837,Large Intestine,val,test
+SIDM00839,Large Intestine,val,test
+SIDM00841,Large Intestine,val,test
+SIDM00844,Haematopoietic and Lymphoid,train,val
+SIDM00845,Haematopoietic and Lymphoid,train,val
+SIDM00850,Stomach,test,train
+SIDM00856,Other tissue,train,val
+SIDM00866,Breast,test,train
+SIDM00867,Central Nervous System,train,test
+SIDM00872,Breast,test,train
+SIDM00875,Breast,test,train
+SIDM00877,Breast,test,train
+SIDM00878,Breast,test,train
+SIDM00879,Breast,test,train
+SIDM00881,Breast,test,train
+SIDM00882,Breast,test,train
+SIDM00884,Breast,test,train
+SIDM00885,Breast,test,train
+SIDM00886,Haematopoietic and Lymphoid,train,val
+SIDM00887,Central Nervous System,train,test
+SIDM00892,Breast,test,train
+SIDM00893,Breast,test,train
+SIDM00898,Breast,test,train
+SIDM00899,Pancreas,val,train
+SIDM00901,Endometrium,train,test
+SIDM00907,Haematopoietic and Lymphoid,train,val
+SIDM00909,Skin,test,train
+SIDM00910,Peripheral Nervous System,train,val
+SIDM00918,Ovary,val,train
+SIDM00919,Ovary,val,train
+SIDM00920,Breast,test,train
+SIDM00933,Breast,test,train
+SIDM00934,Pancreas,val,train
+SIDM00938,Breast,test,train
+SIDM00940,Breast,test,train
+SIDM00943,Pancreas,val,train
+SIDM00946,Haematopoietic and Lymphoid,train,val
+SIDM00947,Central Nervous System,train,test
+SIDM00949,Haematopoietic and Lymphoid,train,val
+SIDM00950,Pancreas,val,train
+SIDM00955,Skin,test,train
+SIDM00958,Haematopoietic and Lymphoid,train,val
+SIDM00962,Haematopoietic and Lymphoid,train,val
+SIDM00963,Breast,test,train
+SIDM00971,Breast,test,train
+SIDM00981,Haematopoietic and Lymphoid,train,val
+SIDM00982,Central Nervous System,train,test
+SIDM00985,Haematopoietic and Lymphoid,train,val
+SIDM00993,Haematopoietic and Lymphoid,train,val
+SIDM00994,Haematopoietic and Lymphoid,train,val
+SIDM00998,Central Nervous System,train,test
+SIDM01000,Skin,test,train
+SIDM01001,Breast,test,train
+SIDM01002,Breast,test,train
+SIDM01003,Haematopoietic and Lymphoid,train,val
+SIDM01004,Haematopoietic and Lymphoid,train,val
+SIDM01005,Haematopoietic and Lymphoid,train,val
+SIDM01006,Haematopoietic and Lymphoid,train,val
+SIDM01010,Haematopoietic and Lymphoid,train,val
+SIDM01012,Haematopoietic and Lymphoid,train,val
+SIDM01013,Haematopoietic and Lymphoid,train,val
+SIDM01020,Haematopoietic and Lymphoid,train,val
+SIDM01023,Haematopoietic and Lymphoid,train,val
+SIDM01034,Haematopoietic and Lymphoid,train,val
+SIDM01036,Haematopoietic and Lymphoid,train,val
+SIDM01037,Breast,test,train
+SIDM01038,Haematopoietic and Lymphoid,train,val
+SIDM01040,Ovary,val,train
+SIDM01042,Breast,test,train
+SIDM01045,Endometrium,train,test
+SIDM01047,Haematopoietic and Lymphoid,train,val
+SIDM01048,Haematopoietic and Lymphoid,train,val
+SIDM01051,Ovary,val,train
+SIDM01052,Ovary,val,train
+SIDM01055,Central Nervous System,train,test
+SIDM01056,Breast,test,train
+SIDM01057,Haematopoietic and Lymphoid,train,val
+SIDM01058,Haematopoietic and Lymphoid,train,val
+SIDM01059,Skin,test,train
+SIDM01064,Haematopoietic and Lymphoid,train,val
+SIDM01066,Skin,test,train
+SIDM01076,Haematopoietic and Lymphoid,train,val
+SIDM01087,Skin,test,train
+SIDM01088,Endometrium,train,test
+SIDM01089,Haematopoietic and Lymphoid,train,val
+SIDM01096,Large Intestine,val,test
+SIDM01098,Peripheral Nervous System,train,val
+SIDM01099,Peripheral Nervous System,train,val
+SIDM01100,Peripheral Nervous System,train,val
+SIDM01101,Peripheral Nervous System,train,val
+SIDM01105,Skin,test,train
+SIDM01106,Skin,test,train
+SIDM01107,Skin,test,train
+SIDM01141,Ovary,val,train
+SIDM01144,Stomach,test,train
+SIDM01146,Stomach,test,train
+SIDM01147,Stomach,test,train
+SIDM01148,Haematopoietic and Lymphoid,train,val
+SIDM01155,Central Nervous System,train,test
+SIDM01164,Central Nervous System,train,test
+SIDM01165,Pancreas,val,train
+SIDM01169,Ovary,val,train
+SIDM01171,Central Nervous System,train,test
+SIDM01172,Haematopoietic and Lymphoid,train,val
+SIDM01176,Haematopoietic and Lymphoid,train,val
+SIDM01186,Breast,test,train
+SIDM01187,Breast,test,train
+SIDM01228,Skin,test,train
+SIDM01233,Large Intestine,val,test

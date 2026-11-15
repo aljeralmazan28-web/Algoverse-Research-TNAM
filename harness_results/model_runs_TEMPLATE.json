@@ -1,0 +1,4 @@
+{
+  "instructions": "OPTIONAL. Copy this to model_runs.json. Only add entries that Aljer can document from actual training logs. Do not copy expected frozen SHA values and claim the model used them without verification.",
+  "runs": []
+}

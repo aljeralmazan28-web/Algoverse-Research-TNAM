@@ -1,0 +1,69 @@
+{
+  "project": "Using Sex-Stratification and Multi-Omics Data to Predict Drug Response",
+  "package_note": "Organized copy of uploaded GDSC2 ZIP data; no repartitioning or new random split generation performed",
+  "source_zip": "final_gdsc2_splits (1).zip",
+  "original_manifest_status": "FROZEN_REAL_DATA",
+  "seed_from_original_manifest": 42,
+  "target_ratios_from_original_manifest": {
+    "train": 0.7,
+    "val": 0.15,
+    "test": 0.15
+  },
+  "observed_cohort": {
+    "dataset": "GDSC2 only",
+    "drug_response_observations": 125360,
+    "cell_lines": 492,
+    "drugs": 295,
+    "tissues": 22,
+    "sex_labels": "Cellosaurus reported donor sex in shipped data; Natasha corrected labels not independently verified"
+  },
+  "split_designs": {
+    "unseen_cell_lines": {
+      "source_assignment_file": "unseen_lines.csv",
+      "group_by": "cell_line_id",
+      "train_file": "splits/unseen_cell_lines/train.csv",
+      "val_file": "splits/unseen_cell_lines/val.csv",
+      "test_file": "splits/unseen_cell_lines/test.csv",
+      "requested_sex_tissue_stratification": "desired; actual margins measured in split_partition_summary.csv and sex_tissue_distribution.csv",
+      "split_generation_algorithm": "not provided in original ZIP; preserve frozen outputs",
+      "original_file_sha256": "f0beab021e6f3caea865c9954d19bc03ee03544d355f8686688bd82cad5c4511",
+      "zero_group_leakage_verified": true
+    },
+    "unseen_drugs": {
+      "source_assignment_file": "unseen_drugs.csv",
+      "group_by": "drug_id",
+      "train_file": "splits/unseen_drugs/train.csv",
+      "val_file": "splits/unseen_drugs/val.csv",
+      "test_file": "splits/unseen_drugs/test.csv",
+      "requested_sex_tissue_stratification": "desired; actual margins measured in split_partition_summary.csv and sex_tissue_distribution.csv",
+      "split_generation_algorithm": "not provided in original ZIP; preserve frozen outputs",
+      "original_file_sha256": "27cbd0e645ceb4c2c333b9d6daa7d5157ff46e8f1777202735170c30443b5583",
+      "zero_group_leakage_verified": true
+    },
+    "unseen_tissues": {
+      "source_assignment_file": "unseen_tissues.csv",
+      "group_by": "tissue",
+      "train_file": "splits/unseen_tissues/train.csv",
+      "val_file": "splits/unseen_tissues/val.csv",
+      "test_file": "splits/unseen_tissues/test.csv",
+      "requested_sex_tissue_stratification": "desired; actual margins measured in split_partition_summary.csv and sex_tissue_distribution.csv",
+      "split_generation_algorithm": "not provided in original ZIP; preserve frozen outputs",
+      "original_file_sha256": "286c8bde5f19e12fc5b6b76bdb068dab99dab051b636a41f7075bff38f575041",
+      "zero_group_leakage_verified": true
+    }
+  },
+  "original_source_hashes_from_manifest_not_all_raw_files_available": {
+    "inputs/cell_line_crosswalk.csv": "477b6eba3ea7ba3919e45c46f557fb7d7efdb89a80b28cfb8ab45578791e2627",
+    "GDSC2_fitted_dose_response_27Oct23.xlsx": "f950a7027be265f8a7a74220a27fd18cbd368485349bd8c2048e88bb1cd07560",
+    "cellosaurus.txt": "3b5a9fc56b49854230ae90fb7cee57a3bf9f961df98be215a634203526f476ef",
+    "final_gdsc2_splits/eligible_drug_response_cohort.csv": "1637ccb5812fc05226634a29df5a0dcdd127f213f8e6d656b707a821842a2e47"
+  },
+  "source_manifest": "source_manifest.json",
+  "key_review_items": [
+    "The original 526-cell-line standalone split files disagree with ZIP assignments for overlapping cell lines",
+    "The ZIP includes 492 eligible cell lines; 34 of the original 526 do not appear in the eligible cohort",
+    "The ZIP contains GDSC2 response only, no GDSC1",
+    "Reported sex labels in the ZIP are not proven to be Natasha final corrected labels",
+    "All raw source files and generation algorithm are not included, so regeneration from original sources is not fully reproducible"
+  ]
+}

@@ -1,0 +1,35 @@
+cell_line_id,cell_line_name,tissue,cellosaurus_id,match_status,reported_donor_sex,requires_manual_review
+SIDM00088,PC-3,Prostate,,ambiguous,Unknown,True
+SIDM00107,UACC-62,Skin,CVCL_1780,unique,Unknown,False
+SIDM00108,UACC-257,Skin,CVCL_1779,unique,Unknown,False
+SIDM00136,HT-29,Large Intestine,,ambiguous,Unknown,True
+SIDM00290,HGC-27,Stomach,CVCL_1279,unique,Unknown,False
+SIDM00317,VMRC-RCZ,Kidney,CVCL_1791,unique,Unknown,False
+SIDM00326,TE-8,Esophagus,,ambiguous,Unknown,True
+SIDM00340,LP-1,Haematopoietic and Lymphoid,,ambiguous,Unknown,True
+SIDM00369,TE-1,Esophagus,,ambiguous,Unknown,True
+SIDM00419,TC-71,Bone,,ambiguous,Unknown,True
+SIDM00450,PL-21,Haematopoietic and Lymphoid,,ambiguous,Unknown,True
+SIDM00458,OCI-M1,Haematopoietic and Lymphoid,CVCL_2149,unique,Unknown,False
+SIDM00494,ABC-1,Lung,,ambiguous,Unknown,True
+SIDM00527,MDST8,Large Intestine,CVCL_2588,unique,Unknown,False
+SIDM00532,MOG-G-CCM,Central Nervous System,CVCL_2613,unique,Unknown,False
+SIDM00534,HT-115,Large Intestine,CVCL_2520,unique,Unknown,False
+SIDM00541,HT55,Large Intestine,,ambiguous,Unknown,True
+SIDM00548,LK-2,Lung,,ambiguous,Unknown,True
+SIDM00568,OCUM-1,Stomach,,ambiguous,Unknown,True
+SIDM00578,NB1,Peripheral Nervous System,,ambiguous,Unknown,True
+SIDM00609,KMRC-20,Kidney,CVCL_2986,unique,Unknown,False
+SIDM00618,JHH-1,Liver,CVCL_2785,unique,Unknown,False
+SIDM00689,JM1,Haematopoietic and Lymphoid,,ambiguous,Unknown,True
+SIDM00703,NCI-H2110,Lung,CVCL_1530,unique,Unknown,False
+SIDM00785,KG-1,Haematopoietic and Lymphoid,,ambiguous,Unknown,True
+SIDM00826,COLO-205,Large Intestine,,ambiguous,Unknown,True
+SIDM00852,H4,Central Nervous System,,ambiguous,Unknown,True
+SIDM00857,G-361,Skin,,ambiguous,Unknown,True
+SIDM00861,ES-2,Ovary,,ambiguous,Unknown,True
+SIDM00863,EB2,Haematopoietic and Lymphoid,CVCL_1186,unique,Female,True
+SIDM00944,CL-11,Large Intestine,,ambiguous,Unknown,True
+SIDM01079,SH-4,Skin,,ambiguous,Unknown,True
+SIDM01090,RKO,Large Intestine,CVCL_0504,unique,Unknown,False
+SIDM01196,SNU-475,Liver,CVCL_0497,unique,Male,False

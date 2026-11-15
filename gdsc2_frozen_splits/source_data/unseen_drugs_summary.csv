@@ -1,0 +1,4 @@
+split,observations,cell_lines,drugs,tissues,female_observations,male_observations,female_cell_lines,male_cell_lines,held_out_group_col
+train,87702,492,207,22,39808,47894,221,271,drug_id
+val,18851,492,44,22,8562,10289,221,271,drug_id
+test,18807,492,44,22,8541,10266,221,271,drug_id

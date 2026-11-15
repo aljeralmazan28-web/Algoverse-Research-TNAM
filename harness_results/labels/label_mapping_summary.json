@@ -1,0 +1,156 @@
+{
+  "input_file": "sex_labels_final.csv",
+  "input_rows": 717,
+  "mapping_method": "Exact Cellosaurus CVCL accession (Natasha cvcl_final -> GDSC mapping audit cellosaurus_id -> SIDM cell_line_id)",
+  "eligible_GDSC2_cell_lines": 492,
+  "exact_accession_matched_lines": 477,
+  "unmatched_lines": 15,
+  "changed_valid_sex_labels_vs_original": 5,
+  "primary_rule": "final_sex Male/Female AND label_confidence high or medium AND uncertain false AND problematic_line false AND exclude_from_sex_analysis false",
+  "primary_sex_counts": {
+    "Unknown": 256,
+    "Female": 99,
+    "Male": 137
+  },
+  "sensitivity_rule": "final_sex Male/Female AND problematic_line false AND exclude_from_sex_analysis false (includes low-confidence reported-only; exploratory)",
+  "sensitivity_sex_counts": {
+    "Male": 253,
+    "Female": 216,
+    "Unknown": 23
+  },
+  "original_frozen_split_files_modified": false,
+  "test_partitions": {
+    "unseen_cell_lines": {
+      "train": {
+        "observations": 87905,
+        "cell_lines": 344,
+        "primary_sex_counts_cell_lines": {
+          "Unknown": 189,
+          "Male": 93,
+          "Female": 62
+        },
+        "sensitivity_sex_counts_cell_lines": {
+          "Male": 182,
+          "Unknown": 17,
+          "Female": 145
+        }
+      },
+      "val": {
+        "observations": 18833,
+        "cell_lines": 74,
+        "primary_sex_counts_cell_lines": {
+          "Male": 23,
+          "Unknown": 33,
+          "Female": 18
+        },
+        "sensitivity_sex_counts_cell_lines": {
+          "Male": 37,
+          "Female": 34,
+          "Unknown": 3
+        }
+      },
+      "test": {
+        "observations": 18622,
+        "cell_lines": 74,
+        "primary_sex_counts_cell_lines": {
+          "Male": 21,
+          "Unknown": 34,
+          "Female": 19
+        },
+        "sensitivity_sex_counts_cell_lines": {
+          "Male": 34,
+          "Female": 37,
+          "Unknown": 3
+        }
+      }
+    },
+    "unseen_drugs": {
+      "train": {
+        "observations": 87702,
+        "cell_lines": 492,
+        "primary_sex_counts_cell_lines": {
+          "Unknown": 256,
+          "Male": 137,
+          "Female": 99
+        },
+        "sensitivity_sex_counts_cell_lines": {
+          "Male": 253,
+          "Unknown": 23,
+          "Female": 216
+        }
+      },
+      "val": {
+        "observations": 18851,
+        "cell_lines": 492,
+        "primary_sex_counts_cell_lines": {
+          "Unknown": 256,
+          "Male": 137,
+          "Female": 99
+        },
+        "sensitivity_sex_counts_cell_lines": {
+          "Male": 253,
+          "Unknown": 23,
+          "Female": 216
+        }
+      },
+      "test": {
+        "observations": 18807,
+        "cell_lines": 492,
+        "primary_sex_counts_cell_lines": {
+          "Unknown": 256,
+          "Male": 137,
+          "Female": 99
+        },
+        "sensitivity_sex_counts_cell_lines": {
+          "Male": 253,
+          "Unknown": 23,
+          "Female": 216
+        }
+      }
+    },
+    "unseen_tissues": {
+      "train": {
+        "observations": 87025,
+        "cell_lines": 341,
+        "primary_sex_counts_cell_lines": {
+          "Male": 84,
+          "Unknown": 190,
+          "Female": 67
+        },
+        "sensitivity_sex_counts_cell_lines": {
+          "Male": 174,
+          "Female": 152,
+          "Unknown": 15
+        }
+      },
+      "val": {
+        "observations": 21543,
+        "cell_lines": 87,
+        "primary_sex_counts_cell_lines": {
+          "Male": 34,
+          "Unknown": 33,
+          "Female": 20
+        },
+        "sensitivity_sex_counts_cell_lines": {
+          "Male": 47,
+          "Female": 35,
+          "Unknown": 5
+        }
+      },
+      "test": {
+        "observations": 16792,
+        "cell_lines": 64,
+        "primary_sex_counts_cell_lines": {
+          "Unknown": 33,
+          "Female": 12,
+          "Male": 19
+        },
+        "sensitivity_sex_counts_cell_lines": {
+          "Male": 32,
+          "Female": 29,
+          "Unknown": 3
+        }
+      }
+    }
+  }
+}

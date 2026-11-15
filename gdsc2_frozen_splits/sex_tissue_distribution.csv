@@ -1,0 +1,148 @@
+split_design,partition,tissue,observations,female_observations,male_observations,female_cell_lines,male_cell_lines
+unseen_cell_lines,train,Biliary Tract,280,0,280,0,1
+unseen_cell_lines,train,Bladder,2325,1041,1284,4,5
+unseen_cell_lines,train,Bone,1985,853,1132,3,4
+unseen_cell_lines,train,Breast,7352,7352,0,27,0
+unseen_cell_lines,train,Central Nervous System,5240,2218,3022,9,12
+unseen_cell_lines,train,Endometrium,1953,1953,0,7,0
+unseen_cell_lines,train,Esophagus,3277,959,2318,4,9
+unseen_cell_lines,train,Haematopoietic and Lymphoid,12890,5341,7549,21,31
+unseen_cell_lines,train,Head and Neck,2592,279,2313,1,9
+unseen_cell_lines,train,Kidney,1745,0,1745,0,7
+unseen_cell_lines,train,Large Intestine,6159,2412,3747,9,14
+unseen_cell_lines,train,Liver,1955,557,1398,2,5
+unseen_cell_lines,train,Lung,19161,5076,14085,20,57
+unseen_cell_lines,train,Other tissue,279,0,279,0,1
+unseen_cell_lines,train,Ovary,3767,3767,0,16,0
+unseen_cell_lines,train,Pancreas,3951,838,3113,3,12
+unseen_cell_lines,train,Peripheral Nervous System,1456,728,728,3,3
+unseen_cell_lines,train,Prostate,838,0,838,0,3
+unseen_cell_lines,train,Skin,4274,2190,2084,9,9
+unseen_cell_lines,train,Soft Tissue,1955,1676,279,6,1
+unseen_cell_lines,train,Stomach,2905,1040,1865,4,7
+unseen_cell_lines,train,Thyroid,1566,1117,449,4,2
+unseen_cell_lines,val,Bladder,557,279,278,1,1
+unseen_cell_lines,val,Bone,450,280,170,1,1
+unseen_cell_lines,val,Breast,1211,1211,0,5,0
+unseen_cell_lines,val,Central Nervous System,736,179,557,1,2
+unseen_cell_lines,val,Endometrium,279,279,0,1,0
+unseen_cell_lines,val,Esophagus,1397,840,557,3,2
+unseen_cell_lines,val,Haematopoietic and Lymphoid,3677,1840,1837,7,7
+unseen_cell_lines,val,Head and Neck,557,0,557,0,2
+unseen_cell_lines,val,Kidney,560,280,280,1,1
+unseen_cell_lines,val,Large Intestine,562,281,281,1,1
+unseen_cell_lines,val,Lung,4835,2122,2713,8,12
+unseen_cell_lines,val,Ovary,558,558,0,2,0
+unseen_cell_lines,val,Pancreas,537,278,259,1,1
+unseen_cell_lines,val,Peripheral Nervous System,170,0,170,0,1
+unseen_cell_lines,val,Prostate,179,0,179,0,1
+unseen_cell_lines,val,Skin,835,0,835,0,3
+unseen_cell_lines,val,Soft Tissue,838,279,559,1,2
+unseen_cell_lines,val,Stomach,629,170,459,1,2
+unseen_cell_lines,val,Thyroid,266,0,266,0,1
+unseen_cell_lines,test,Bladder,559,280,279,1,1
+unseen_cell_lines,test,Breast,1937,1937,0,8,0
+unseen_cell_lines,test,Central Nervous System,457,278,179,1,1
+unseen_cell_lines,test,Endometrium,279,279,0,1,0
+unseen_cell_lines,test,Esophagus,280,0,280,0,1
+unseen_cell_lines,test,Haematopoietic and Lymphoid,2639,1013,1626,4,7
+unseen_cell_lines,test,Head and Neck,459,0,459,0,2
+unseen_cell_lines,test,Kidney,458,0,458,0,2
+unseen_cell_lines,test,Large Intestine,1127,281,846,1,3
+unseen_cell_lines,test,Liver,837,0,837,0,3
+unseen_cell_lines,test,Lung,6011,1524,4487,7,17
+unseen_cell_lines,test,Ovary,1557,1557,0,6,0
+unseen_cell_lines,test,Pancreas,279,279,0,1,0
+unseen_cell_lines,test,Peripheral Nervous System,432,179,253,1,1
+unseen_cell_lines,test,Prostate,280,0,280,0,1
+unseen_cell_lines,test,Skin,473,473,0,2,0
+unseen_cell_lines,test,Soft Tissue,279,279,0,1,0
+unseen_cell_lines,test,Stomach,279,279,0,1,0
+unseen_drugs,train,Biliary Tract,195,0,195,0,1
+unseen_drugs,train,Bladder,2397,1114,1283,6,7
+unseen_drugs,train,Bone,1700,792,908,4,5
+unseen_drugs,train,Breast,7348,7348,0,40,0
+unseen_drugs,train,Central Nervous System,4504,1880,2624,11,15
+unseen_drugs,train,Endometrium,1752,1752,0,9,0
+unseen_drugs,train,Esophagus,3465,1257,2208,7,12
+unseen_drugs,train,Haematopoietic and Lymphoid,13473,5740,7733,32,45
+unseen_drugs,train,Head and Neck,2528,195,2333,1,13
+unseen_drugs,train,Kidney,1933,195,1738,1,10
+unseen_drugs,train,Large Intestine,5491,2078,3413,11,18
+unseen_drugs,train,Liver,1947,388,1559,2,8
+unseen_drugs,train,Lung,20987,6095,14892,35,86
+unseen_drugs,train,Other tissue,195,0,195,0,1
+unseen_drugs,train,Ovary,4116,4116,0,24,0
+unseen_drugs,train,Pancreas,3327,975,2352,5,13
+unseen_drugs,train,Peripheral Nervous System,1437,633,804,4,5
+unseen_drugs,train,Prostate,907,0,907,0,5
+unseen_drugs,train,Skin,3916,1877,2039,11,12
+unseen_drugs,train,Soft Tissue,2143,1558,585,8,3
+unseen_drugs,train,Stomach,2666,1035,1631,6,9
+unseen_drugs,train,Thyroid,1275,780,495,4,3
+unseen_drugs,val,Biliary Tract,42,0,42,0,1
+unseen_drugs,val,Bladder,517,240,277,6,7
+unseen_drugs,val,Bone,365,170,195,4,5
+unseen_drugs,val,Breast,1590,1590,0,40,0
+unseen_drugs,val,Central Nervous System,965,402,563,11,15
+unseen_drugs,val,Endometrium,378,378,0,9,0
+unseen_drugs,val,Esophagus,744,270,474,7,12
+unseen_drugs,val,Haematopoietic and Lymphoid,2896,1234,1662,32,45
+unseen_drugs,val,Head and Neck,543,42,501,1,13
+unseen_drugs,val,Kidney,414,42,372,1,10
+unseen_drugs,val,Large Intestine,1176,444,732,11,18
+unseen_drugs,val,Liver,420,84,336,2,8
+unseen_drugs,val,Lung,4511,1311,3200,35,86
+unseen_drugs,val,Other tissue,42,0,42,0,1
+unseen_drugs,val,Ovary,882,882,0,24,0
+unseen_drugs,val,Pancreas,716,210,506,5,13
+unseen_drugs,val,Peripheral Nervous System,309,136,173,4,5
+unseen_drugs,val,Prostate,195,0,195,0,5
+unseen_drugs,val,Skin,839,401,438,11,12
+unseen_drugs,val,Soft Tissue,462,336,126,8,3
+unseen_drugs,val,Stomach,571,223,348,6,9
+unseen_drugs,val,Thyroid,274,167,107,4,3
+unseen_drugs,test,Biliary Tract,43,0,43,0,1
+unseen_drugs,test,Bladder,527,246,281,6,7
+unseen_drugs,test,Bone,370,171,199,4,5
+unseen_drugs,test,Breast,1562,1562,0,40,0
+unseen_drugs,test,Central Nervous System,964,393,571,11,15
+unseen_drugs,test,Endometrium,381,381,0,9,0
+unseen_drugs,test,Esophagus,745,272,473,7,12
+unseen_drugs,test,Haematopoietic and Lymphoid,2837,1220,1617,32,45
+unseen_drugs,test,Head and Neck,537,42,495,1,13
+unseen_drugs,test,Kidney,416,43,373,1,10
+unseen_drugs,test,Large Intestine,1181,452,729,11,18
+unseen_drugs,test,Liver,425,85,340,2,8
+unseen_drugs,test,Lung,4509,1316,3193,35,86
+unseen_drugs,test,Other tissue,42,0,42,0,1
+unseen_drugs,test,Ovary,884,884,0,24,0
+unseen_drugs,test,Pancreas,724,210,514,5,13
+unseen_drugs,test,Peripheral Nervous System,312,138,174,4,5
+unseen_drugs,test,Prostate,195,0,195,0,5
+unseen_drugs,test,Skin,827,385,442,11,12
+unseen_drugs,test,Soft Tissue,467,340,127,8,3
+unseen_drugs,test,Stomach,576,231,345,6,9
+unseen_drugs,test,Thyroid,283,170,113,4,3
+unseen_tissues,train,Biliary Tract,280,0,280,0,1
+unseen_tissues,train,Bladder,3441,1600,1841,6,7
+unseen_tissues,train,Bone,2435,1133,1302,4,5
+unseen_tissues,train,Breast,10500,10500,0,40,0
+unseen_tissues,train,Esophagus,4954,1799,3155,7,12
+unseen_tissues,train,Head and Neck,3608,279,3329,1,13
+unseen_tissues,train,Kidney,2763,280,2483,1,10
+unseen_tissues,train,Liver,2792,557,2235,2,8
+unseen_tissues,train,Lung,30007,8722,21285,35,86
+unseen_tissues,train,Ovary,5882,5882,0,24,0
+unseen_tissues,train,Pancreas,4767,1395,3372,5,13
+unseen_tissues,train,Prostate,1297,0,1297,0,5
+unseen_tissues,train,Skin,5582,2663,2919,11,12
+unseen_tissues,train,Soft Tissue,3072,2234,838,8,3
+unseen_tissues,train,Stomach,3813,1489,2324,6,9
+unseen_tissues,train,Thyroid,1832,1117,715,4,3
+unseen_tissues,val,Haematopoietic and Lymphoid,19206,8194,11012,32,45
+unseen_tissues,val,Other tissue,279,0,279,0,1
+unseen_tissues,val,Peripheral Nervous System,2058,907,1151,4,5
+unseen_tissues,test,Central Nervous System,6433,2675,3758,11,15
+unseen_tissues,test,Endometrium,2511,2511,0,9,0
+unseen_tissues,test,Large Intestine,7848,2974,4874,11,18
