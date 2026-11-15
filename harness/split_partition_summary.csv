@@ -1,0 +1,10 @@
+split_design,partition,observations,distinct_cell_lines,distinct_drugs,distinct_tissues,held_out_group,held_out_group_count,female_observations,male_observations,female_cell_lines,male_cell_lines,female_observation_pct
+unseen_cell_lines,train,87905,344,295,22,cell_line_id,344,39397,48508,152,192,44.82
+unseen_cell_lines,val,18833,74,295,19,cell_line_id,74,8876,9957,34,40,47.13
+unseen_cell_lines,test,18622,74,295,18,cell_line_id,74,8638,9984,35,39,46.39
+unseen_drugs,train,87702,492,207,22,drug_id,207,39808,47894,221,271,45.39
+unseen_drugs,val,18851,492,44,22,drug_id,44,8562,10289,221,271,45.42
+unseen_drugs,test,18807,492,44,22,drug_id,44,8541,10266,221,271,45.41
+unseen_tissues,train,87025,341,295,16,tissue,16,39650,47375,154,187,45.56
+unseen_tissues,val,21543,87,295,3,tissue,3,9101,12442,36,51,42.25
+unseen_tissues,test,16792,64,295,3,tissue,3,8160,8632,31,33,48.59

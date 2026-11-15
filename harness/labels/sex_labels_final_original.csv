@@ -1,0 +1,718 @@
+ModelID,CellLineName,cvcl_final,OncotreeLineage,reported_sex,inferred_sex,status,review_decision,final_sex,label_source,label_confidence,mislabeled,recovered,uncertain,problematic_line,exclude_from_sex_analysis,xist_score,y_score,y_cn,amelogenin
+ACH-000001,NIH:OVCAR-3,CVCL_0465,Ovary/Fallopian Tube,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,6.719074,0.0928943545714285,,X
+ACH-000002,HL-60,CVCL_0002,Myeloid,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,4.668545,0.2558977678571428,,X
+ACH-000004,HEL,CVCL_0001,Myeloid,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.28658313,6.157637771428573,,conflicting
+ACH-000006,MONO-MAC-6,CVCL_1426,Myeloid,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.44782355,0.0976539802857143,,X
+ACH-000007,LS513,CVCL_1386,Bowel,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.16373573,4.396100142857143,,"X,Y"
+ACH-000008,A101D,CVCL_1057,Skin,Male,Female,discordant,,Female,corrected_auto,high,True,False,False,False,False,5.7379303,0.1638399108571428,,X
+ACH-000009,C2BBe1,CVCL_1096,Bowel,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.13031018,0.1237894465714285,,X
+ACH-000012,HCC-827,CVCL_2063,Lung,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,6.2296495,0.1337296034285714,,X
+ACH-000015,NCI-H1581,CVCL_1479,Lung,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.11762324,0.0779466844285714,,conflicting
+ACH-000018,T24,CVCL_0554,Bladder/Urinary Tract,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,7.075319,0.0795167612857142,,X
+ACH-000019,MCF-7,CVCL_0031,Breast,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,2.0678556,0.1213733124285714,,X
+ACH-000020,MHH-CALL-2,CVCL_1409,Lymphoid,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,9.279682,0.0929312612857142,,X
+ACH-000021,NCI-H1693,CVCL_1488,Lung,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.37420264,0.1028298314285714,,X
+ACH-000023,PA-TU-8988T,CVCL_1847,Pancreas,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,6.6288977,0.0587181281428571,,X
+ACH-000024,OPM-2,CVCL_1625,Lymphoid,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,8.145106,0.0986250488571428,,X
+ACH-000030,PC-14,CVCL_1640,Lung,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,True,True,0.21330994,0.0570908785714285,,X
+ACH-000035,NCI-H1650,CVCL_1483,Lung,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.31023192,0.086169448,,X
+ACH-000038,EHEB,CVCL_1194,Lymphoid,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,True,True,0.32062793,0.1923150805714285,,X
+ACH-000040,U-118 MG,CVCL_0633,CNS/Brain,Male,Male,concordant,,Male,reported+expression,high,False,False,False,True,True,0.19347656,4.271599514285714,,"X,Y"
+ACH-000042,Panc 02.03,CVCL_1633,Pancreas,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,6.8897414,0.1450179244285714,,X
+ACH-000045,MV4-11,CVCL_0064,Myeloid,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.11338712,4.338634937142857,,"X,Y"
+ACH-000046,ACHN,CVCL_1067,Kidney,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.15941735,0.1216386661428571,,X
+ACH-000048,TOV-112D,CVCL_3612,Ovary/Fallopian Tube,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.20019798,0.1161141033285714,,X
+ACH-000050,NCI-H929,CVCL_1600,Lymphoid,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.17582987,0.1002398274285714,,X
+ACH-000052,A-673,CVCL_0080,Bone,Female,Female,concordant,,Female,reported+expression,high,False,False,False,True,True,7.623179,0.1178290988571428,,X
+ACH-000053,KARPAS-299,CVCL_1324,Lymphoid,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.24430743,3.971659112857143,,"X,Y"
+ACH-000054,HT-1080,CVCL_0317,Soft Tissue,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.11348715,4.878902971428571,,"X,Y"
+ACH-000055,D283 Med,CVCL_1155,CNS/Brain,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.23699339,5.168971457142858,,"X,Y"
+ACH-000056,DOHH-2,CVCL_1179,Lymphoid,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.32529315,5.139244814285713,,"X,Y"
+ACH-000058,ML-1,CVCL_H525,Thyroid,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,7.7427745,0.112302557,,X
+ACH-000059,SUP-B15,CVCL_0103,Lymphoid,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.34733456,5.437217742857142,,"X,Y"
+ACH-000060,Panc 10.05,CVCL_1639,Pancreas,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.29054117,0.0656075264285714,,X
+ACH-000061,HH,CVCL_1280,Lymphoid,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.09727772,0.0876345805285714,,X
+ACH-000062,RERF-LC-MS,CVCL_1655,Lung,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.34865394,5.747512085714285,,"X,Y"
+ACH-000065,OCI-AML5,CVCL_1620,Myeloid,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.26265684,4.898109314285714,,"X,Y"
+ACH-000067,Hs 683,CVCL_0844,CNS/Brain,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.557414,5.080966200000001,,"X,Y"
+ACH-000070,697,CVCL_0079,Lymphoid,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.13115615,5.047893157142857,,"X,Y"
+ACH-000072,MEG-01,CVCL_0425,Myeloid,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.07056931,6.483150771428571,,"X,Y"
+ACH-000073,GRANTA-519,CVCL_1818,Lymphoid,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,8.608455,0.1163408372857142,,X
+ACH-000074,KU812,CVCL_0379,Myeloid,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.12091059,6.195186171428572,,"X,Y"
+ACH-000075,U-87 MG,CVCL_0022,CNS/Brain,Male,Male,concordant,,Male,reported+expression,high,False,False,False,True,True,0.17867513,0.8482643342857142,,conflicting
+ACH-000078,MHH-NB-11,CVCL_1412,Peripheral Nervous System,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.2668333,5.406254971428572,,"X,Y"
+ACH-000081,GDM-1,CVCL_1230,Myeloid,Female,Female,uninformative,,Female,reported_only,low,False,False,True,False,False,8.056681,0.2839548992857142,,X
+ACH-000082,"G-292, clone A141B1",CVCL_2909,Bone,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.2116801,0.1203282616428571,,X
+ACH-000087,SK-ES-1,CVCL_0627,Bone,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.20911145,4.893767771428571,,"X,Y"
+ACH-000090,PC-3,CVCL_0035,Prostate,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.14390275,0.1044057908571428,,X
+ACH-000091,OV56,CVCL_2673,Ovary/Fallopian Tube,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,8.009179,0.1053912039285714,,X
+ACH-000092,NCI-H2452,CVCL_1553,Pleura,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.2627771,5.072206228571429,,"X,Y"
+ACH-000094,HPAF-II,CVCL_0313,Pancreas,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.5146586,0.14687703,,X
+ACH-000096,G-401,CVCL_0270,Kidney,Male,Male,concordant,,Male,reported+expression,high,False,False,False,True,True,0.050876383,5.424232357142857,,"X,Y"
+ACH-000098,GAMG,CVCL_1226,CNS/Brain,Female,Ambiguous_high,uninformative,,Female,reported_only,low,False,False,True,False,False,7.0743556,0.99318346,,X
+ACH-000099,SIMA,CVCL_1695,Peripheral Nervous System,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.22910304,4.1784699142857145,,"X,Y"
+ACH-000100,RH-41,CVCL_2176,Soft Tissue,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,6.8698344,0.1431833434285714,,X
+ACH-000101,KE-37,CVCL_1327,Lymphoid,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.24536909,5.576671728571428,,"X,Y"
+ACH-000102,GMS-10,CVCL_1233,CNS/Brain,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.117711,5.317865642857143,,"X,Y"
+ACH-000103,Caov-4,CVCL_0202,Ovary/Fallopian Tube,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.26283482,0.1302656499999999,,X
+ACH-000104,Loucy,CVCL_1380,Lymphoid,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.10852847,0.1138514371428571,,X
+ACH-000105,ALL-SIL,CVCL_1805,Lymphoid,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.15672149,5.101803642857143,,"X,Y"
+ACH-000106,JVM-2,CVCL_1319,Lymphoid,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,7.7601676,0.1520788671428571,,X
+ACH-000107,Capan-2,CVCL_0026,Pancreas,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.16714466,0.1688366797142857,,X
+ACH-000108,KP-3,CVCL_3005,Pancreas,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.21003594,0.0746910347142857,,X
+ACH-000111,HCC1187,CVCL_1247,Breast,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,6.975596,0.1721444867142857,,X
+ACH-000112,SIG-M5,CVCL_1694,Myeloid,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.089317806,0.1034940945142857,,X
+ACH-000113,OCI-AML2,CVCL_1619,Myeloid,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.21501254,4.829277251428572,,"X,Y"
+ACH-000114,SU.86.86,CVCL_3881,Pancreas,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,6.855392,0.1531860331428571,,X
+ACH-000115,VCaP,CVCL_2235,Prostate,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.19490653,5.476651757142856,,"X,Y"
+ACH-000116,OAW28,CVCL_1614,Ovary/Fallopian Tube,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.15333062,0.1062148209142857,,X
+ACH-000117,EFM-192A,CVCL_1812,Breast,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,4.943617,0.1496203367142857,,X
+ACH-000118,HUP-T3,CVCL_1299,Pancreas,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.090755895,3.971441500000001,,"X,Y"
+ACH-000120,CHP-212,CVCL_1125,Peripheral Nervous System,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.09337763,5.311328485714286,,"X,Y"
+ACH-000121,NCI-H2405,CVCL_1551,Lung,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.29528105,1.8021271577142857,,"X,Y"
+ACH-000124,OCI-LY-19,CVCL_1878,Lymphoid,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,6.4944763,0.0653069193857142,,X
+ACH-000129,NCI-H1341,CVCL_1463,Cervix,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,7.966067,0.1043727292142857,,X
+ACH-000132,JHOS-2,CVCL_4647,Ovary/Fallopian Tube,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,7.6483645,0.1499154552857143,,X
+ACH-000135,Hs 940.T,CVCL_1038,Fibroblast,Male,Male,concordant,,Male,reported+expression,high,False,False,False,True,True,0.15824136,4.918577642857143,,"X,Y"
+ACH-000136,CHP-126,CVCL_1123,Peripheral Nervous System,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.1647039,0.2944810951428571,,X
+ACH-000137,8-MG-BA,CVCL_1052,CNS/Brain,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.46998283,0.097838956,,X
+ACH-000138,CFPAC-1,CVCL_1119,Pancreas,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.19825777,2.240570021071428,,"X,Y"
+ACH-000139,Panc 03.27,CVCL_1635,Pancreas,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.20897415,0.1301671168142857,,X
+ACH-000142,CAL-29,CVCL_1808,Bladder/Urinary Tract,Female,Female,uninformative,,Female,reported_only,low,False,False,True,False,False,7.0476146,0.3125006495714285,,X
+ACH-000144,RERF-GC-1B,CVCL_3152,Esophagus/Stomach,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.27980527,0.1316408157142857,,X
+ACH-000145,SK-LMS-1,CVCL_0628,Soft Tissue,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.2547839,0.0663986582142857,,X
+ACH-000146,THP-1,CVCL_0006,Myeloid,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.29602858,5.034342071428571,,"X,Y"
+ACH-000147,T-47D,CVCL_0553,Breast,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.11028974,0.0418765535714285,,X
+ACH-000148,Hs 578T,CVCL_0332,Breast,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.30637774,0.1010636799999999,,X
+ACH-000149,SK-N-SH,CVCL_0531,Peripheral Nervous System,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,7.26091,0.241910824,,X
+ACH-000151,JM1,CVCL_3532,Lymphoid,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.14980954,5.0072252285714285,,"X,Y"
+ACH-000153,NCI-H2052,CVCL_1518,Pleura,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.40872598,0.1504864858571428,,X
+ACH-000155,SW 1990,CVCL_1723,Pancreas,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.101186134,0.1136281234285714,,X
+ACH-000157,A4/Fuk,CVCL_1064,Lymphoid,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,7.428159,0.1356146098571428,,X
+ACH-000159,OS-RC-2,CVCL_1626,Kidney,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.2175335,5.195243585714286,,"X,Y"
+ACH-000161,COR-L105,CVCL_1138,Lung,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.17911609,4.075364985714286,,"X,Y"
+ACH-000162,GA-10,CVCL_1222,Lymphoid,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.56908566,5.335720371428571,,"X,Y"
+ACH-000168,NOMO-1,CVCL_1609,Myeloid,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,7.475652,0.0807421282857142,,X
+ACH-000169,RD,CVCL_1649,Soft Tissue,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.124783374,0.1320514394285714,,X
+ACH-000171,VMRC-RCZ,CVCL_1791,Kidney,Unknown,Ambiguous_high,uninformative,,Unknown,unresolved,low,False,False,True,False,True,7.638682,0.3659461624285715,,X
+ACH-000174,CAL-62,CVCL_1112,Thyroid,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.1772213,0.0844087827142857,,X
+ACH-000176,LOU-NH91,CVCL_2104,Lung,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,7.768621,0.1461583254285714,,X
+ACH-000178,Hs 766T,CVCL_0334,Pancreas,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.37067428,0.1125226695285714,,X
+ACH-000181,SCC-9,CVCL_1685,Head and Neck,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.1537794,3.6678999781428567,,"X,Y"
+ACH-000183,L-363,CVCL_1357,Lymphoid,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.1251763,0.1597695151428571,,X
+ACH-000186,NCI-H2444,CVCL_1552,Lung,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.13711394,0.0995785311428571,,X
+ACH-000187,COR-L311,CVCL_2412,Lung,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.14646493,0.4685832968428571,,X
+ACH-000188,SCC-25,CVCL_1682,Head and Neck,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.13744056,0.0735812147,,X
+ACH-000189,RCC10RGB,CVCL_1647,Kidney,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.51601917,0.1235500528571428,,X
+ACH-000190,HD-MY-Z,CVCL_1273,Myeloid,Male,Male,concordant,,Male,reported+expression,high,False,False,False,True,True,0.10074088,5.789288471428571,,"X,Y"
+ACH-000191,BHT-101,CVCL_1085,Thyroid,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.32479793,0.1963947067142857,,X
+ACH-000192,MFE-280,CVCL_1405,Uterus,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,7.403123,0.1299313694285714,,X
+ACH-000193,KARPAS-620,CVCL_1823,Lymphoid,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.21357125,0.1750711324285714,,X
+ACH-000196,HCC1599,CVCL_1256,Breast,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.11570315,0.1257694604285714,,X
+ACH-000197,TALL-1,CVCL_1736,Lymphoid,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.35410908,5.718303085714287,,conflicting
+ACH-000198,EOL-1,CVCL_0258,Myeloid,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.16468589,5.18719437142857,,"X,Y"
+ACH-000200,NMC-G1,CVCL_1608,CNS/Brain,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,7.7266607,0.1354146427142857,,X
+ACH-000201,A-204,CVCL_1058,Kidney,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,6.7215366,0.2262547485714285,,X
+ACH-000204,LP-1,CVCL_0012,Lymphoid,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.17274351,0.1184922828571428,,X
+ACH-000207,Detroit 562,CVCL_1171,Head and Neck,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.23464969,0.1724771384285714,,X
+ACH-000210,CADO-ES1,CVCL_1103,Bone,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,8.171082,0.1342815868571428,,X
+ACH-000211,Daoy,CVCL_1167,CNS/Brain,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.3646901,0.9429649565714284,,X
+ACH-000212,CAL-120,CVCL_1104,Breast,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.11437369,0.0906370555714285,,X
+ACH-000213,HUP-T4,CVCL_1300,Pancreas,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.30463955,0.0528931941428571,,X
+ACH-000217,JHH-6,CVCL_2788,Liver,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.37790334,0.0704755162857142,,X
+ACH-000218,PL-21,CVCL_2161,Myeloid,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.11971208,4.493324526857143,,"X,Y"
+ACH-000219,A-375,CVCL_0132,Skin,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,6.3754077,0.14136549,,X
+ACH-000221,SNU-398,CVCL_0077,Liver,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.34172052,1.7333784107142858,,"X,Y"
+ACH-000222,AsPC-1,CVCL_0152,Pancreas,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.23714884,0.0692103251428571,,X
+ACH-000223,HCC1937,CVCL_0290,Breast,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.20107047,0.0622369875857142,,X
+ACH-000225,ECC12,CVCL_1189,Esophagus/Stomach,Male,Ambiguous_high,uninformative,,Male,reported_only,low,False,False,True,False,False,2.4997284,6.424561828571429,,"X,Y"
+ACH-000226,SUP-M2,CVCL_2209,Lymphoid,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,6.3712068,0.0677616478571428,,X
+ACH-000227,KP-N-YN,CVCL_1341,Peripheral Nervous System,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.35649654,5.331779057142858,,"X,Y"
+ACH-000228,BICR 31,CVCL_2312,Head and Neck,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.39557287,0.153483937,,X
+ACH-000231,KALS-1,CVCL_1323,CNS/Brain,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,6.9500365,0.0943796019999999,,X
+ACH-000232,U-251 MG,CVCL_0021,CNS/Brain,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.2280084,4.585521757142857,,conflicting
+ACH-000233,DEL,CVCL_1170,Lymphoid,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.14099063,4.603101571428572,,"X,Y"
+ACH-000235,Panc 04.03,CVCL_1636,Pancreas,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.27888757,0.0894429795714285,,X
+ACH-000236,SW1417,CVCL_1717,Bowel,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.604894,0.2363961271428571,,X
+ACH-000238,SCC-4,CVCL_1684,Head and Neck,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.09750023,3.106014649714286,,"X,Y"
+ACH-000242,RT4,CVCL_0036,Bladder/Urinary Tract,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.0640178,5.305664800000001,,"X,Y"
+ACH-000243,DAN-G,CVCL_0243,Pancreas,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.07991259,0.1109146591857142,,X
+ACH-000244,DK-MG,CVCL_1173,CNS/Brain,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,7.98827,0.2464944675714285,,X
+ACH-000245,BL-41,CVCL_1087,Lymphoid,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.17487042,5.114422057142858,,"X,Y"
+ACH-000247,OCUM-1,CVCL_3084,Esophagus/Stomach,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,6.468018,0.086717501,,X
+ACH-000248,AU565,CVCL_1074,Breast,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,7.39538,0.0923192135714285,,X
+ACH-000249,CL-11,CVCL_1978,Bowel,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.50832623,3.410243264285714,,"X,Y"
+ACH-000250,KMRC-20,CVCL_2986,Kidney,Unknown,Female,missing,,Female,expression_only,high,False,True,False,False,False,7.5977473,0.1779475262857142,,X
+ACH-000252,LS1034,CVCL_1382,Bowel,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.1772749,4.680220985714286,,"X,Y"
+ACH-000254,SCC-15,CVCL_1681,Head and Neck,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.14529921,4.635538842857143,,"X,Y"
+ACH-000257,COR-L279,CVCL_1140,Lung,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.13604698,4.6856085,,"X,Y"
+ACH-000258,Du4475,CVCL_1183,Breast,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,7.1067357,0.1273790019285714,,X
+ACH-000259,KELLY,CVCL_2092,Peripheral Nervous System,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.2925992,0.1239531431428571,,X
+ACH-000260,SK-N-AS,CVCL_1700,Peripheral Nervous System,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,4.7674694,0.1266550233571428,,X
+ACH-000263,KASUMI-1,CVCL_0589,Myeloid,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.246267,0.1325903461428571,,X
+ACH-000264,Calu-6,CVCL_0236,Lung,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.16422376,0.1277146944285714,,X
+ACH-000265,KP-4,CVCL_1338,Pancreas,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.20341167,0.1100528818571428,,X
+ACH-000267,HDLM-2,CVCL_0009,Lymphoid,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.20470291,5.187287485714285,,"X,Y"
+ACH-000269,AM-38,CVCL_1070,CNS/Brain,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.15744218,2.951922954285714,,"X,Y"
+ACH-000270,HPAC,CVCL_3517,Pancreas,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.30496773,0.1206317648571428,,X
+ACH-000271,SU-DHL-10,CVCL_1889,Lymphoid,Male,Ambiguous_high,uninformative,,Male,reported_only,low,False,False,True,False,False,0.81095225,4.882713571428572,,"X,Y"
+ACH-000273,SF539,CVCL_1691,CNS/Brain,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.22906981,0.14331561,,X
+ACH-000276,HCC38,CVCL_1267,Breast,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,7.9158435,0.1147230332857142,,X
+ACH-000277,HCC1419,CVCL_1251,Breast,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.22901565,0.1054256762857142,,X
+ACH-000281,KP-2,CVCL_3004,Pancreas,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,8.150077,0.0562167227571428,,X
+ACH-000282,NCI-H1755,CVCL_1492,Lung,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,6.7037234,0.1458546151428571,,X
+ACH-000287,NU-DUL-1,CVCL_1877,Lymphoid,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.19796349,0.1721754838571428,,X
+ACH-000288,BT-549,CVCL_1092,Breast,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.23363164,0.2287117307142857,,X
+ACH-000290,NCI-H209,CVCL_1525,Lung,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.24659172,5.490333257142857,,conflicting
+ACH-000291,OV-90,CVCL_3768,Ovary/Fallopian Tube,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,6.785093,0.0587119471428571,,X
+ACH-000292,NCI-H841,CVCL_1595,Lung,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.20429474,4.7944026428571425,,"X,Y"
+ACH-000293,KLE,CVCL_1329,Uterus,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,4.0706296,0.2089558078571428,,X
+ACH-000294,NB-4,CVCL_0005,Myeloid,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.31570882,0.0986638871142857,,X
+ACH-000295,EM-2,CVCL_1196,Myeloid,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.13547839,0.2094779691428571,,X
+ACH-000298,NCI-H2029,CVCL_1516,Lung,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.27454317,0.0833951372857142,,X
+ACH-000301,LAMA-84,CVCL_0388,Myeloid,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,7.0921865,0.0789659358571428,,X
+ACH-000303,SNU-5,CVCL_0078,Esophagus/Stomach,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.51161885,0.1523167477142857,,X
+ACH-000304,WM-115,CVCL_0040,Skin,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.25823066,0.1898250878,,X
+ACH-000305,EC-GI-10,CVCL_1187,Esophagus/Stomach,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.22276624,1.1851369037142856,,"X,Y"
+ACH-000308,EFO-21,CVCL_0029,Ovary/Fallopian Tube,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,2.001305,0.1584151438571428,,X
+ACH-000311,NCI-H2122,CVCL_1531,Lung,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,6.5202823,0.0812243322857142,,X
+ACH-000315,KARPAS-422,CVCL_1325,Lymphoid,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,7.315412,0.1476679032857142,,X
+ACH-000318,TE-10,CVCL_1760,Esophagus/Stomach,Male,Male,uninformative,,Male,reported_only,low,False,False,True,False,False,0.574524,0.44055864,,X
+ACH-000319,MPP 89,CVCL_1427,Pleura,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.13268211,5.790166300000001,,"X,Y"
+ACH-000320,PSN1,CVCL_1644,Pancreas,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.14984596,0.0993801541428571,,X
+ACH-000322,HT-144,CVCL_0318,Skin,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.31578648,2.0021871350857148,,"X,Y"
+ACH-000323,42-MG-BA,CVCL_1798,CNS/Brain,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.19711304,0.091938992,,X
+ACH-000326,JURL-MK1,CVCL_2086,Myeloid,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.35605365,5.324715014285714,,"X,Y"
+ACH-000327,NCI-H1395,CVCL_1467,Lung,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.4737142,0.1856776027285714,,X
+ACH-000329,CCF-STTG1,CVCL_1118,CNS/Brain,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,7.539965,0.2261784891428571,,X
+ACH-000330,EFM-19,CVCL_0253,Breast,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.1993413,0.1112642595714285,,X
+ACH-000332,YAPC,CVCL_1794,Pancreas,Male,Male,uninformative,,Male,reported_only,low,False,False,True,False,False,0.6535269,5.231818728571428,,"X,Y"
+ACH-000334,DB,CVCL_1168,Lymphoid,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.085237,5.867850314285714,,"X,Y"
+ACH-000335,MSTO-211H,CVCL_1430,Pleura,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.23767263,5.228370085714286,,"X,Y"
+ACH-000336,OCI-AML3,CVCL_1844,Myeloid,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.09278792,0.7322670805714286,,X
+ACH-000337,NCI-H3122,CVCL_5160,Lung,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.16165555,0.0,,X
+ACH-000338,SR-786,CVCL_1711,Lymphoid,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.5370933,0.3025552505714285,,conflicting
+ACH-000341,SK-N-FI,CVCL_1702,Peripheral Nervous System,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.33285227,5.050101585714286,,"X,Y"
+ACH-000343,NCI-H522,CVCL_1567,Lung,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.24371172,0.5293767008571428,,X
+ACH-000345,KP-N-RT-BM-1,CVCL_1339,Peripheral Nervous System,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,3.6920254,0.2376024854285714,,X
+ACH-000346,JVM-3,CVCL_1320,Lymphoid,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.41362765,5.0774636,,"X,Y"
+ACH-000347,QGP-1,CVCL_3143,Pancreas,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.112223715,0.1077273198571428,,X
+ACH-000348,RPMI-7951,CVCL_1666,Skin,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,1.4063897,0.1912162784285714,,X
+ACH-000349,HCC1500,CVCL_1254,Breast,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.20473295,0.168298926,,X
+ACH-000350,COLO-678,CVCL_1129,Bowel,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.12778382,0.1696660451428571,,X
+ACH-000351,MKN1,CVCL_1415,Esophagus/Stomach,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.3182937,0.2545486799285715,,X
+ACH-000352,HCC1428,CVCL_1252,Breast,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,7.46332,0.181468775,,X
+ACH-000353,TE-15,CVCL_1763,Esophagus/Stomach,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.5019425,0.1343488839999999,,X
+ACH-000354,Capan-1,CVCL_0237,Pancreas,Male,Male,uninformative,,Male,reported_only,low,False,False,True,False,False,0.13608898,0.3708335937142857,,X
+ACH-000355,NCI-H82,CVCL_1591,Lung,Male,Female,uninformative,,Male,reported_only,low,False,False,True,False,False,0.75644267,0.0563240183857143,,X
+ACH-000356,MKN-45,CVCL_0434,Esophagus/Stomach,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,7.136827,0.1260878494285714,,X
+ACH-000357,JeKo-1,CVCL_1865,Lymphoid,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,6.406198,0.1280976199,,X
+ACH-000358,NCI-H69,CVCL_1579,Lung,Male,Male,uninformative,,Male,reported_only,low,False,False,True,False,False,0.59847957,5.368629342857143,,conflicting
+ACH-000359,MG-63,CVCL_0426,Bone,Male,Ambiguous_high,uninformative,,Male,reported_only,low,False,False,True,False,False,0.80485153,5.4414177428571415,,"X,Y"
+ACH-000360,NCI-H508,CVCL_1564,Bowel,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.4664862,0.064467315,,X
+ACH-000361,SK-HEP-1,CVCL_0525,Liver,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,True,True,0.3152532,0.1086527527142857,,X
+ACH-000362,MOLM-13,CVCL_2119,Myeloid,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.13576731,4.558332452857143,,"X,Y"
+ACH-000363,SK-MM-2,CVCL_1699,Lymphoid,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.19488889,0.0604270450571428,,X
+ACH-000364,U-2 OS,CVCL_0042,Bone,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.16735664,0.1021225352857142,,X
+ACH-000365,SU-DHL-4,CVCL_0539,Lymphoid,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.2377913,4.633333471428571,,"X,Y"
+ACH-000366,SK-N-DZ,CVCL_1701,Peripheral Nervous System,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,7.1648464,0.1212746002857142,,X
+ACH-000367,NCI-H226,CVCL_1544,Pleura,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.19944055,4.978631042857143,,"X,Y"
+ACH-000369,MOLM-16,CVCL_2120,Myeloid,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,6.3687367,0.0839920472857142,,X
+ACH-000371,RL,CVCL_1660,Lymphoid,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.043260504,4.250284042857143,,"X,Y"
+ACH-000372,P12-ICHIKAWA,CVCL_1630,Lymphoid,Male,Male,uninformative,,Male,reported_only,low,False,False,True,False,False,0.3188455,0.3656864854285714,,X
+ACH-000373,SKM-1,CVCL_0098,Myeloid,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.14592522,2.9265553428571423,,conflicting
+ACH-000374,HCC1143,CVCL_1245,Breast,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,3.117878,0.0610165815714285,,X
+ACH-000375,G-402,CVCL_1221,Kidney,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,6.7801266,0.1081829854285714,,X
+ACH-000376,SF-295,CVCL_1690,CNS/Brain,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,6.945713,0.0931824544285714,,X
+ACH-000378,NCI-H647,CVCL_1574,Lung,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.69587004,0.1151601198571428,,X
+ACH-000379,NCI-H1781,CVCL_1494,Lung,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.14951302,0.0990550913571428,,X
+ACH-000380,KMS-12-BM,CVCL_1334,Lymphoid,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.10655335,0.0624996432857142,,X
+ACH-000381,T84,CVCL_0555,Bowel,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.06046249,0.0485014046714285,,X
+ACH-000383,OE33,CVCL_0471,Esophagus/Stomach,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.1423886,0.070716125,,X
+ACH-000384,SW 780,CVCL_1728,Bladder/Urinary Tract,Female,Ambiguous_high,uninformative,,Female,reported_only,low,False,False,True,False,False,8.68357,0.3812089314285714,,X
+ACH-000386,KG-1,CVCL_0374,Myeloid,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.254906,5.968221900000001,,"X,Y"
+ACH-000389,H4,CVCL_1239,CNS/Brain,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.3117507,5.183991814285714,,"X,Y"
+ACH-000391,MHH-ES-1,CVCL_1411,Bone,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.23933572,0.1203610550857142,,X
+ACH-000392,Calu-3,CVCL_0609,Lung,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.1625001,0.1479967704285714,,X
+ACH-000394,NCI-H2081,CVCL_1522,Lung,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,8.419219,0.1258583445714285,,X
+ACH-000395,NCI-H520,CVCL_1566,Lung,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.30083713,0.1182905353714285,,X
+ACH-000396,J82,CVCL_0359,Bladder/Urinary Tract,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.30007803,4.715042042857143,,"X,Y"
+ACH-000399,NCI-H2196,CVCL_1539,Lung,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.21771836,6.193035399999999,,"X,Y"
+ACH-000400,SK-CO-1,CVCL_0626,Bowel,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.14865823,3.244993334285714,,conflicting
+ACH-000401,COLO-800,CVCL_1135,Skin,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.22766346,5.439020357142858,,"X,Y"
+ACH-000403,NCI-H747,CVCL_1587,Bowel,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.5401384,4.035492142857143,,"X,Y"
+ACH-000408,TE-5,CVCL_1764,Esophagus/Stomach,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.22831878,0.1909894158571428,,X
+ACH-000410,Saos-2,CVCL_0548,Bone,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,8.1414585,0.1210443522857142,,X
+ACH-000411,769-P,CVCL_1050,Kidney,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,6.7420063,0.1037149632857142,,X
+ACH-000414,NCI-H1944,CVCL_1508,Lung,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,7.3750653,0.1000400822857142,,X
+ACH-000416,NCI-H838,CVCL_1594,Lung,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.18663746,0.0496114198142857,,X
+ACH-000417,Panc 08.13,CVCL_1638,Pancreas,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.30442694,0.1078675842857143,,X
+ACH-000420,SNU-449,CVCL_0454,Liver,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.28607562,1.3808442942857142,,conflicting
+ACH-000421,SW837,CVCL_1729,Bowel,Male,Male,uninformative,,Male,reported_only,low,False,False,True,False,False,0.64051634,0.5992996774285714,,X
+ACH-000422,SNU-475,CVCL_0497,Liver,Male,Ambiguous_high,uninformative,,Male,reported_only,low,False,False,True,False,False,0.8722914,3.8661358495714286,,"X,Y"
+ACH-000423,SK-MEL-3,CVCL_0550,Skin,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.23227148,0.1196368915714285,,X
+ACH-000424,TC-71,CVCL_2213,Bone,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.19560714,4.558875614285715,,conflicting
+ACH-000425,UACC-62,CVCL_1780,Skin,Unknown,Female,missing,,Female,expression_only,high,False,True,False,False,False,7.246883,0.2573839332857143,,X
+ACH-000427,NCI-N87,CVCL_1603,Esophagus/Stomach,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.10288518,4.945932028571428,,"X,Y"
+ACH-000428,UO-31,CVCL_1911,Kidney,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.47410372,0.2206571238571428,,X
+ACH-000429,A-704,CVCL_1065,Kidney,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.257695,5.146277157142857,,"X,Y"
+ACH-000430,TYK-nu,CVCL_1776,Ovary/Fallopian Tube,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.23547097,0.0930123333142857,,X
+ACH-000431,NCI-H1694,CVCL_1489,Lung,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.21930051,0.1080385028571428,,X
+ACH-000432,BV-173,CVCL_0181,Lymphoid,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.33373284,0.1683985902857143,,X
+ACH-000433,Caki-1,CVCL_0234,Kidney,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.20794281,0.0847141625714285,,X
+ACH-000434,NCI-H1915,CVCL_1505,Lung,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.40987208,0.0911977195714285,,X
+ACH-000437,SW 1088,CVCL_1715,CNS/Brain,Male,Ambiguous_high,uninformative,,Male,reported_only,low,False,False,True,False,False,0.8651373,5.141525871428572,,"X,Y"
+ACH-000438,Lu-65,CVCL_1392,Lung,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.12923554,0.1337057009999999,,X
+ACH-000439,ME-1,CVCL_2110,Myeloid,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.07180385,4.510286971428571,,"X,Y"
+ACH-000440,CA46,CVCL_1101,Lymphoid,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.14045541,0.1985186891857143,,X
+ACH-000441,SH-4,CVCL_1692,Skin,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.21577923,0.1360101347142857,,X
+ACH-000442,RERF-LC-Sq1,CVCL_1656,Lung,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,7.570539,0.2628233671428571,,X
+ACH-000443,OVKATE,CVCL_3110,Ovary/Fallopian Tube,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.20462905,0.180307002,,X
+ACH-000447,NCI-H2228,CVCL_1543,Lung,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.16614082,0.1892013092857143,,X
+ACH-000448,NCI-H1666,CVCL_1485,Lung,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,6.635078,0.1156161101428571,,X
+ACH-000449,MES-SA,CVCL_1404,Uterus,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,6.5812383,0.1303829213571428,,X
+ACH-000450,MEL-HO,CVCL_1402,Skin,Female,Female,concordant,,Female,reported+expression,high,False,False,False,True,True,5.9148083,0.0816064709999999,,X
+ACH-000451,NCI-H2085,CVCL_1523,Lung,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.19784401,5.519406257142856,,"X,Y"
+ACH-000452,TE-8,CVCL_1766,Esophagus/Stomach,Male,Ambiguous_high,uninformative,,Male,reported_only,low,False,False,True,False,False,0.7417388,0.5099354592857143,,X
+ACH-000456,B-CPAP,CVCL_0153,Thyroid,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.53304696,0.1973180225714285,,X
+ACH-000457,CAL-54,CVCL_1111,Kidney,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.09227375,0.1656016277142857,,X
+ACH-000463,NCI-H460,CVCL_0459,Lung,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.08306356,4.903983228571429,,"X,Y"
+ACH-000464,CAS-1,CVCL_1117,CNS/Brain,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.38755664,4.4537521571428575,,"X,Y"
+ACH-000465,SK-MEL-1,CVCL_0068,Skin,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.13650116,5.1912055142857145,,"X,Y"
+ACH-000467,HCC-56,CVCL_2917,Bowel,Male,Female,discordant,,Female,corrected_auto,high,True,False,False,True,True,6.531679,0.1063385897142857,,X
+ACH-000469,YH-13,CVCL_1795,CNS/Brain,Male,Ambiguous_high,uninformative,,Male,reported_only,low,False,False,True,False,False,1.3316709,0.6819778614285713,,X
+ACH-000470,SW1463,CVCL_1718,Bowel,Female,Ambiguous_high,uninformative,,Female,reported_only,low,False,False,True,False,False,6.9927344,0.6727500471428571,,X
+ACH-000472,HSC-2,CVCL_1287,Head and Neck,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.17318885,2.5759684285714286,,conflicting
+ACH-000473,RT-112,CVCL_1670,Bladder/Urinary Tract,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,7.057797,0.0985878838571428,,X
+ACH-000475,huH-1,CVCL_2956,Liver,Male,Ambiguous_high,uninformative,,Male,reported_only,low,False,False,True,False,False,2.0192072,4.2730584857142855,,"X,Y"
+ACH-000476,JHH-4,CVCL_2787,Liver,Male,Female,discordant,,Female,corrected_auto,high,True,False,False,False,False,6.2732472,0.0838564459999999,,X
+ACH-000478,SNU-387,CVCL_0250,Liver,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,6.255893,0.1555317389999999,,X
+ACH-000480,HuH-7,CVCL_0336,Liver,Male,Female,discordant,,Female,corrected_auto,high,True,False,False,False,False,6.6662736,0.1725864724285714,,X
+ACH-000481,NCI-H2170,CVCL_1535,Lung,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.27405646,0.0784625462857142,,X
+ACH-000482,RERF-LC-KJ,CVCL_1654,Lung,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.12706533,5.713771214285714,,"X,Y"
+ACH-000483,SNU-182,CVCL_0090,Liver,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.3007095,5.228819799999999,,"X,Y"
+ACH-000484,VMRC-RCW,CVCL_1790,Kidney,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.50104266,5.1648029428571425,,"X,Y"
+ACH-000486,KU-19-19,CVCL_1344,Bladder/Urinary Tract,Conflict,Male,source_conflict,,Male,expression_resolved_conflict,medium,False,False,False,False,False,0.24669264,0.4246856122857143,,X
+ACH-000488,TE-11,CVCL_1761,Esophagus/Stomach,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.10255467,0.0403621208714285,,X
+ACH-000489,SW1116,CVCL_0544,Bowel,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.4589552,2.6899892999999997,,"X,Y"
+ACH-000491,NCI-H716,CVCL_1581,Bowel,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.4216278,0.1067290601428571,,X
+ACH-000493,SNU-423,CVCL_0366,Liver,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.20196877,3.777778321428572,,"X,Y"
+ACH-000496,NCI-H1792,CVCL_1495,Lung,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.30840048,0.1128105974285714,,X
+ACH-000501,LS123,CVCL_1383,Bowel,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,6.540872,0.0980534748571428,,X
+ACH-000504,SNB75,CVCL_1706,CNS/Brain,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.12321458,0.1708972277142857,,X
+ACH-000505,RKN,CVCL_3156,Soft Tissue,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.26561093,0.1321232629571428,,X
+ACH-000506,NCI-H146,CVCL_1473,Lung,Male,Female,discordant,,Female,corrected_auto,high,True,False,False,False,False,2.0069838,0.0857074811428571,,X
+ACH-000508,COR-L88,CVCL_1141,Lung,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.2569442,0.2932427571428571,,X
+ACH-000510,NCI-H1299,CVCL_0060,Lung,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.10644347,0.0768853581428571,,X
+ACH-000514,NCI-H1092,CVCL_1454,Lung,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.20203902,4.754785171428572,,"X,Y"
+ACH-000515,HCC-33,CVCL_2058,Lung,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.1468963,0.1206176245714285,,X
+ACH-000516,CAL-78,CVCL_1809,Bone,Male,Ambiguous_high,uninformative,,Male,reported_only,low,False,False,True,False,False,0.78876925,4.543272428571429,,X
+ACH-000518,CAL-33,CVCL_1108,Head and Neck,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.14250362,5.759768957142858,,"X,Y"
+ACH-000521,NCI-H2030,CVCL_1517,Lung,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.14985375,2.156684323714286,,X
+ACH-000522,UM-UC-3,CVCL_1783,Bladder/Urinary Tract,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.35344186,0.2602926185714286,,X
+ACH-000524,KURAMOCHI,CVCL_1345,Ovary/Fallopian Tube,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.34395126,0.113342123,,X
+ACH-000525,NCI-H2171,CVCL_1536,Lung,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.3801232,5.4207351,,"X,Y"
+ACH-000527,OVISE,CVCL_3116,Ovary/Fallopian Tube,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.13489251,0.1499986283285714,,X
+ACH-000528,ABC-1,CVCL_1066,Lung,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.17269488,0.101812886,,X
+ACH-000530,DMS 114,CVCL_1174,Lung,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.07781996,1.9738352871428568,,X
+ACH-000532,SNU-61,CVCL_5078,Bowel,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.0,0.3202808078571428,,conflicting
+ACH-000535,BxPC-3,CVCL_0186,Pancreas,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.14850725,0.1244170555285714,,X
+ACH-000536,BT-20,CVCL_0178,Breast,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.16742472,0.0889106242857142,,X
+ACH-000538,HUTU80,CVCL_1301,Bowel,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.12575953,5.0766620571428565,,"X,Y"
+ACH-000544,OE21,CVCL_2661,Esophagus/Stomach,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.13323997,2.216441557142857,,conflicting
+ACH-000545,VM-CUB1,CVCL_1786,Bladder/Urinary Tract,Male,Male,uninformative,,Male,reported_only,low,False,False,True,False,False,0.6040514,0.6010871642857143,,X
+ACH-000546,HSC-4,CVCL_1289,Head and Neck,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.58666,0.3278078514285714,,X
+ACH-000547,HT-1197,CVCL_1291,Bladder/Urinary Tract,Male,Ambiguous_high,uninformative,,Male,reported_only,low,False,False,True,False,False,6.009009,4.814290837142857,,"X,Y"
+ACH-000548,BHY,CVCL_1086,Head and Neck,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.20710446,4.390791328571429,,"X,Y"
+ACH-000551,K-562,CVCL_0004,Myeloid,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,6.662063,0.1316778658571428,,X
+ACH-000552,HT-29,CVCL_0320,Bowel,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,6.239799,0.1178266322857142,,X
+ACH-000554,UACC-893,CVCL_1782,Breast,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,6.527477,0.1648661744285714,,X
+ACH-000555,A-498,CVCL_1056,Kidney,Conflict,Female,source_conflict,,Female,expression_resolved_conflict,high,False,False,False,False,False,5.3225017,0.0899640715714285,,X
+ACH-000556,SIHA,CVCL_0032,Cervix,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,8.688761,0.0,,X
+ACH-000558,A-172,CVCL_0131,CNS/Brain,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.25244835,5.206045828571428,,"X,Y"
+ACH-000559,NCI-H1836,CVCL_1498,Lung,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.4623183,1.6371091365714283,,X
+ACH-000560,ECC10,CVCL_1188,Esophagus/Stomach,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.17617211,0.1668936395714285,,X
+ACH-000561,T.T,CVCL_3174,Esophagus/Stomach,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.18867564,1.7308763716000002,,"X,Y"
+ACH-000562,HCC-78,CVCL_2061,Lung,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.18704432,5.010721371428572,,"X,Y"
+ACH-000563,EBC-1,CVCL_2891,Lung,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.2606243,0.1617538841428571,,X
+ACH-000565,RCM-1,CVCL_1648,Bowel,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,7.3000045,0.1183303019999999,,X
+ACH-000566,SW-1710,CVCL_1721,Bladder/Urinary Tract,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.47605813,0.2576952607142857,,X
+ACH-000567,ST486,CVCL_1712,Lymphoid,Female,Ambiguous_high,uninformative,,Female,reported_only,low,False,False,True,False,False,7.055076,0.4853251848571428,,X
+ACH-000568,UACC-812,CVCL_1781,Breast,Female,Female,uninformative,,Female,reported_only,low,False,False,True,False,False,7.3697805,0.3040452068571428,,X
+ACH-000569,IST-MES1,CVCL_1311,Pleura,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,6.004526,0.0888053811428571,,X
+ACH-000570,YKG1,CVCL_1796,CNS/Brain,Female,Female,uninformative,,Female,reported_only,low,False,False,True,False,False,7.6760206,0.3044464857142857,,X
+ACH-000571,T98G,CVCL_0556,CNS/Brain,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.46198216,4.739470128571428,,"X,Y"
+ACH-000572,G-361,CVCL_1220,Skin,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.096051306,0.1139870715714285,,X
+ACH-000573,MDA-MB-436,CVCL_0623,Breast,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,6.560967,0.0958325127142857,,X
+ACH-000574,FU-OV-1,CVCL_2047,Ovary/Fallopian Tube,Female,Female,uninformative,,Female,reported_only,low,False,False,True,False,False,0.71089655,0.1555871325714285,,X
+ACH-000577,JHH-2,CVCL_2786,Liver,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.20240141,5.368876585714285,,"X,Y"
+ACH-000579,UACC-257,CVCL_1779,Skin,Unknown,Ambiguous_low,uninformative,,Unknown,unresolved,low,False,False,True,False,True,0.10905025,0.0354295273571428,,X
+ACH-000580,C32,CVCL_1097,Skin,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.17234798,4.9785007,,"X,Y"
+ACH-000581,SNU-16,CVCL_0076,Esophagus/Stomach,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,7.1518383,0.0456120479999999,,X
+ACH-000583,MC116,CVCL_1399,Lymphoid,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.27345383,4.212353751428571,,"X,Y"
+ACH-000584,JHOS-4,CVCL_4649,Ovary/Fallopian Tube,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,6.303534,0.2096536277142857,,X
+ACH-000585,EPLC-272H,CVCL_1197,Lung,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.088077806,0.1458972021428571,,X
+ACH-000586,NCI-H1876,CVCL_1503,Lung,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.49658915,5.1551176,,"X,Y"
+ACH-000587,NCI-H1975,CVCL_1511,Lung,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.23278598,0.0504546195,,X
+ACH-000589,NCI-H1437,CVCL_1472,Lung,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.299383,0.123037336,,X
+ACH-000595,LN-229,CVCL_0393,CNS/Brain,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,6.214855,0.137893349,,X
+ACH-000596,LCLC-97TM1,CVCL_1376,Lung,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.09517909,2.0154344214285715,,X
+ACH-000599,PA-TU-8902,CVCL_1845,Pancreas,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.13848685,0.0673320062857143,,X
+ACH-000601,MIA PaCa-2,CVCL_0428,Pancreas,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.23040348,0.0962854222571428,,X
+ACH-000603,BEN,CVCL_1082,Lung,Male,Ambiguous_high,uninformative,,Male,reported_only,low,False,False,True,False,False,4.69313,1.2850052454285714,,conflicting
+ACH-000605,TE-6,CVCL_1765,Esophagus/Stomach,Male,Female,uninformative,,Male,reported_only,low,False,False,True,False,False,1.1031082,0.2962445728571428,,X
+ACH-000607,KYM-1,CVCL_3007,Kidney,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,True,True,0.3301155,0.1221690358571428,,X
+ACH-000609,SF126,CVCL_1688,CNS/Brain,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,6.1110315,0.1035824594285714,,X
+ACH-000610,NCI-H2227,CVCL_1542,Lung,Male,Ambiguous_high,uninformative,,Male,reported_only,low,False,False,True,False,False,8.399308,1.5684978477142857,,X
+ACH-000611,SU-DHL-6,CVCL_2206,Lymphoid,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.40214476,0.3360973991428572,,X
+ACH-000613,HOS,CVCL_0312,Bone,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.26649272,0.1056258532142857,,X
+ACH-000614,RVH-421,CVCL_1672,Skin,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.224475,4.550285671428571,,"X,Y"
+ACH-000615,SK-MEL-28,CVCL_0526,Skin,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.3397702,2.234400768285714,,"X,Y"
+ACH-000616,Hs 746T,CVCL_0333,Esophagus/Stomach,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.19751945,3.9184460285714287,,"X,Y"
+ACH-000617,OVCAR-4,CVCL_1627,Ovary/Fallopian Tube,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,6.186958,0.1124834,,X
+ACH-000619,PE/CA-PJ15,CVCL_2678,Head and Neck,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.24729076,3.901223685714286,,"X,Y"
+ACH-000620,JHH-1,CVCL_2785,Liver,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,True,True,0.41024667,0.0887804321428571,,X
+ACH-000621,MDA-MB-157,CVCL_0618,Breast,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,8.230746,0.1100822608571428,,X
+ACH-000622,KNS-42,CVCL_0378,CNS/Brain,Male,Male,uninformative,,Male,reported_only,low,False,False,True,False,False,0.2448968,0.391142072142857,,X
+ACH-000624,HCC1806,CVCL_1258,Breast,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.114116445,0.1491919746857142,,X
+ACH-000625,Hep 3B2.1-7,CVCL_0326,Liver,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.18998012,0.0920698215714285,,X
+ACH-000626,U266B1,CVCL_0566,Lymphoid,Male,Ambiguous_high,uninformative,,Male,reported_only,low,False,False,True,False,False,5.7877903,5.446455200000001,,"X,Y"
+ACH-000627,LCLC-103H,CVCL_1375,Lung,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.45394737,4.03301792857143,,conflicting
+ACH-000628,NCI-H596,CVCL_1571,Lung,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.24327058,0.1726386647142857,,X
+ACH-000631,KS-1,CVCL_1343,CNS/Brain,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.25395417,0.0823510878571428,,X
+ACH-000633,FU97,CVCL_2908,Esophagus/Stomach,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,6.2964134,0.124125457,,X
+ACH-000636,RPMI-8402,CVCL_1667,Lymphoid,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,6.2282724,0.1798496457142857,,X
+ACH-000637,KYSE-520,CVCL_1355,Esophagus/Stomach,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.16159621,0.0989382224285714,,X
+ACH-000638,NCI-H441,CVCL_1561,Lung,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.20363343,1.9568697428571424,,"X,Y"
+ACH-000639,NCI-H211,CVCL_1529,Lung,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.3770782,0.121392528,,X
+ACH-000640,SK-MEL-31,CVCL_0600,Skin,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,7.2425356,0.2434534942857142,,X
+ACH-000641,CMK,CVCL_0216,Myeloid,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.3690443,5.601454214285715,,"X,Y"
+ACH-000643,HDQ-P1,CVCL_2067,Breast,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.1503075,0.0735971642142857,,X
+ACH-000644,COLO 829,CVCL_1137,Skin,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.13721365,0.1753358675714285,,X
+ACH-000647,TE-1,CVCL_1759,Esophagus/Stomach,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.14546879,0.1180371161428571,,X
+ACH-000648,NCI-H28,CVCL_1555,Pleura,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.3667245,4.7031886285714295,,"X,Y"
+ACH-000649,786-O,CVCL_1051,Kidney,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.1604349,5.302114542857143,,"X,Y"
+ACH-000650,IGR-37,CVCL_2075,Skin,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.07527522,5.084767785714285,,"X,Y"
+ACH-000651,SW 620,CVCL_0547,Bowel,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.14090689,0.1011194005714285,,X
+ACH-000652,SUIT-2,CVCL_3172,Pancreas,Male,Ambiguous_high,uninformative,,Male,reported_only,low,False,False,True,False,False,1.0256596,0.531174687,,X
+ACH-000653,JJN-3,CVCL_2078,Lymphoid,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.3079169,0.1278591765714285,,X
+ACH-000654,Raji,CVCL_0511,Lymphoid,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.21052353,5.394423971428571,,"X,Y"
+ACH-000655,SF268,CVCL_1689,CNS/Brain,Conflict,Male,source_conflict,,Male,expression_resolved_conflict,high,False,False,False,True,True,0.40144697,3.938384371428571,,"X,Y"
+ACH-000656,SU-DHL-8,CVCL_2207,Lymphoid,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.14839141,0.1493525808571428,,X
+ACH-000657,A2780,CVCL_0134,Ovary/Fallopian Tube,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,6.2670374,0.0633196125714285,,X
+ACH-000660,SU-DHL-5,CVCL_1735,Lymphoid,Female,Ambiguous_high,uninformative,,Female,reported_only,low,False,False,True,False,False,6.9489512,0.5489963321428573,,X
+ACH-000662,COR-L23,CVCL_1139,Lung,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.13243866,0.2860239705714286,,conflicting
+ACH-000663,OVTOKO,CVCL_3117,Ovary/Fallopian Tube,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.13290845,0.0764256175714285,,X
+ACH-000664,SU-DHL-1,CVCL_0538,Lymphoid,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.18980306,4.1819683,,"X,Y"
+ACH-000665,SK-MES-1,CVCL_0630,Lung,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.24539952,2.2769811185714284,,"X,Y"
+ACH-000666,NCI-H1355,CVCL_1464,Lung,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.22979462,0.1474081986714285,,X
+ACH-000667,HCC-44,CVCL_2060,Lung,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.084936425,0.0675117535714285,,X
+ACH-000668,HCC70,CVCL_1270,Breast,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,5.5563927,0.0755329180714285,,X
+ACH-000669,SW 900,CVCL_1731,Lung,Male,Female,discordant,,Female,corrected_auto,high,True,False,False,False,False,1.6937658,0.1098962381428571,,X
+ACH-000670,SBC-5,CVCL_1679,Lung,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.24042425,3.827883228685715,,"X,Y"
+ACH-000672,IA-LM,CVCL_1302,Lung,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.18802485,1.793147679142857,,X
+ACH-000674,NUGC-4,CVCL_3082,Esophagus/Stomach,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,2.0932896,0.0940013971428571,,X
+ACH-000675,NCI-H1734,CVCL_1491,Lung,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.39023623,0.1401391797142857,,X
+ACH-000677,SW 1573,CVCL_1720,Lung,Female,Male,discordant,,Female,unresolved,low,False,False,True,False,False,0.44412848,0.5465815954285714,,X
+ACH-000678,MKN7,CVCL_1417,Esophagus/Stomach,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.27827743,0.0715891218571428,,X
+ACH-000679,OE-19,CVCL_1622,Esophagus/Stomach,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.1911457,0.0786086312857142,,X
+ACH-000680,SW948,CVCL_0632,Bowel,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,8.194521,0.1181184735,,X
+ACH-000681,A549,CVCL_0023,Lung,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.09172962,4.522371742857143,,"X,Y"
+ACH-000684,KMRC-1,CVCL_2983,Kidney,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.19800878,0.1408799128571428,,X
+ACH-000688,OV7,CVCL_2675,Ovary/Fallopian Tube,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,4.2734637,0.1148970511428571,,X
+ACH-000689,RH-18,CVCL_1659,Soft Tissue,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.16732581,0.1087796677142857,,X
+ACH-000691,HCC2157,CVCL_1261,Breast,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.21704331,0.1287311502857143,,X
+ACH-000693,KYSE-180,CVCL_1349,Esophagus/Stomach,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.12596712,0.0770267117142857,,X
+ACH-000694,TE-9,CVCL_1767,Esophagus/Stomach,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.14059937,0.1552293617142857,,X
+ACH-000696,OVCAR-8,CVCL_1629,Ovary/Fallopian Tube,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.20806772,0.1042824124,,X
+ACH-000697,A3/KAW,CVCL_1062,Lymphoid,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,8.122471,0.0981331658571428,,X
+ACH-000698,DMS 53,CVCL_1177,Lung,Male,Female,uninformative,,Male,reported_only,low,False,False,True,False,False,0.7377283,0.1448372911428571,,X
+ACH-000699,HCC1395,CVCL_1249,Breast,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.30769897,0.1605100214285714,,X
+ACH-000702,L-1236,CVCL_2096,Lymphoid,Male,Ambiguous_high,uninformative,,Male,reported_only,low,False,False,True,False,False,0.71552527,1.4837944097142857,,"X,Y"
+ACH-000703,DMS 79,CVCL_1178,Lung,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.17911099,4.838214814285714,,"X,Y"
+ACH-000704,OAW42,CVCL_1615,Ovary/Fallopian Tube,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,3.8040123,0.0795230254285714,,X
+ACH-000706,EKVX,CVCL_1195,Lung,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.13336362,3.515473475714285,,"X,Y"
+ACH-000711,JIMT-1,CVCL_2077,Breast,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.12286087,0.1014028118571428,,X
+ACH-000713,Caov-3,CVCL_0201,Ovary/Fallopian Tube,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.5033487,0.1115047963571428,,X
+ACH-000714,KMS-11,CVCL_2989,Lymphoid,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.16942735,0.1634793254285714,,X
+ACH-000716,TT2609-C02,CVCL_2218,Thyroid,Male,Ambiguous_high,uninformative,,Male,reported_only,low,False,False,True,False,False,0.77083415,4.9253817714285715,,"X,Y"
+ACH-000717,COLO-680N,CVCL_1131,Esophagus/Stomach,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.2451208,0.0869532827571428,,X
+ACH-000718,NCI-H2291,CVCL_1546,Lung,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.43675566,3.3715439362857142,,"X,Y"
+ACH-000719,RMG-I,CVCL_1662,Ovary/Fallopian Tube,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.1530465,0.0685225439428571,,X
+ACH-000720,TCCSUP,CVCL_1738,Bladder/Urinary Tract,Female,Female,uninformative,,Female,reported_only,low,False,False,True,False,False,0.80568373,0.118810952,,X
+ACH-000722,SNU-C1,CVCL_1708,Bowel,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.06505111,0.1144476335285714,,X
+ACH-000724,HT-1376,CVCL_1292,Bladder/Urinary Tract,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.31842443,0.0892119615714285,,X
+ACH-000725,HCC202,CVCL_2062,Breast,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,8.624861,0.1386800814285714,,X
+ACH-000729,NCI-H1963,CVCL_1510,Lung,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.5182148,4.288915281428571,,conflicting
+ACH-000730,SK-MEL-5,CVCL_0527,Skin,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.16885765,0.0771318684285714,,X
+ACH-000733,NCI-H1838,CVCL_1499,Lung,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,6.2391863,0.1702283966428571,,X
+ACH-000738,GB-1,CVCL_1227,CNS/Brain,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.28038505,0.8349295514285713,,X
+ACH-000740,A-253,CVCL_1060,Head and Neck,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.23396043,0.0733808548571428,,X
+ACH-000743,COR-L95,CVCL_2418,Lung,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.32834935,5.100303214285715,,"X,Y"
+ACH-000744,NCI-H1623,CVCL_1481,Lung,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.18251306,0.119894811,,X
+ACH-000745,MOLP-8,CVCL_2124,Lymphoid,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.42471036,0.0879568479428571,,X
+ACH-000747,NCI-H1703,CVCL_1490,Lung,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.2584152,4.6904574285714284,,"X,Y"
+ACH-000748,SJSA-1,CVCL_1697,Bone,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.28721696,5.119758314285714,,"X,Y"
+ACH-000749,DMS 273,CVCL_1176,Lung,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,6.4735904,0.126562759,,X
+ACH-000750,LOX IMVI,CVCL_1381,Skin,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.15310748,0.1199189588571428,,X
+ACH-000751,OCI-M1,CVCL_2149,Myeloid,Unknown,Ambiguous_low,uninformative,,Unknown,unresolved,low,False,False,True,False,True,0.09020712,0.0852676919999999,,X
+ACH-000752,NCI-H196,CVCL_1509,Lung,Male,Male,uninformative,,Male,reported_only,low,False,False,True,False,False,0.6564506,4.759085857142857,,"X,Y"
+ACH-000754,L-428,CVCL_1361,Lymphoid,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,6.6281466,0.1469374494285714,,X
+ACH-000755,HCC2218,CVCL_1263,Breast,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,6.139435,0.0272978618285714,,X
+ACH-000756,GI-1,CVCL_1231,CNS/Brain,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.2931986,5.227556228571428,,"X,Y"
+ACH-000757,A427,CVCL_1055,Lung,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.22624093,2.389731987142857,,"X,Y"
+ACH-000759,MDA-MB-175-VII,CVCL_1400,Breast,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,6.0798836,0.1991972698571428,,X
+ACH-000763,MM1-S,CVCL_8792,Lymphoid,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,7.3625665,0.0100442909285714,,X
+ACH-000766,NCI-H1648,CVCL_1482,Lung,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.257882,4.792943385714286,,"X,Y"
+ACH-000767,NCI-H526,CVCL_1569,Lung,Male,Ambiguous_high,uninformative,,Male,reported_only,low,False,False,True,False,False,1.0154904,4.324793057142856,,"X,Y"
+ACH-000768,MDA-MB-231,CVCL_0062,Breast,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.38779375,0.118963378,,X
+ACH-000769,LK-2,CVCL_1377,Lung,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.40485737,0.0806482875714285,,X
+ACH-000770,P31/FUJ,CVCL_1632,Myeloid,Male,Ambiguous_high,uninformative,,Male,reported_only,low,False,False,True,False,False,1.3143833,5.068138642857143,,"X,Y"
+ACH-000772,TE 441.T,CVCL_1754,Soft Tissue,Female,Ambiguous_high,uninformative,,Female,reported_only,low,False,False,True,False,False,7.604835,0.515231849,,X
+ACH-000775,NCI-H727,CVCL_1584,Lung,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.2041645,0.1482904123571428,,X
+ACH-000776,ONS-76,CVCL_1624,CNS/Brain,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.5078677,0.0644106904285714,,X
+ACH-000778,HSC-3,CVCL_1288,Head and Neck,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.197449,4.4494229,,"X,Y"
+ACH-000780,NCI-H1105,CVCL_1455,Lung,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.18783107,0.1234373884285714,,X
+ACH-000781,NCI-H2023,CVCL_1515,Lung,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.50201076,0.1686137177571428,,X
+ACH-000783,CAMA-1,CVCL_1115,Breast,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.22599918,0.1469283321428571,,X
+ACH-000784,KYSE-70,CVCL_1356,Esophagus/Stomach,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.12228839,0.1018721697142857,,X
+ACH-000786,Daudi,CVCL_0008,Lymphoid,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.21603388,5.550863757142857,,"X,Y"
+ACH-000787,LXF-289,CVCL_1394,Lung,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.12484688,3.454847477142857,,"X,Y"
+ACH-000788,A2058,CVCL_1059,Skin,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.20153224,4.757456357142857,,"X,Y"
+ACH-000789,NCI-H810,CVCL_1590,Lung,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.4455106,4.332668166942858,,"X,Y"
+ACH-000790,SHP-77,CVCL_1693,Lung,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.23528959,0.1162503918571428,,X
+ACH-000792,BFTC-909,CVCL_1084,Kidney,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.36839178,0.1489100005714285,,X
+ACH-000793,KATO III,CVCL_0371,Esophagus/Stomach,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.049933214,0.110337659,,X
+ACH-000794,BICR 22,CVCL_2310,Head and Neck,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.12596446,0.1202087847142857,,X
+ACH-000798,CL-40,CVCL_1982,Bowel,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,4.8961606,0.1728584674285714,,X
+ACH-000800,NCI-H446,CVCL_1562,Lung,Male,Ambiguous_high,uninformative,,Male,reported_only,low,False,False,True,False,False,3.6190138,4.345970185714285,,"X,Y"
+ACH-000802,BFTC-905,CVCL_1083,Bladder/Urinary Tract,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.5213543,0.1053775578571428,,X
+ACH-000803,COLO 668,CVCL_1128,Lung,Female,Ambiguous_high,uninformative,,Female,reported_only,low,False,False,True,False,False,1.770736,0.4160422165714286,,X
+ACH-000804,NB-1,CVCL_1440,Peripheral Nervous System,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.16538459,0.1243132553714285,,X
+ACH-000805,COLO-679,CVCL_1130,Skin,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,6.7556086,0.1984680334285714,,X
+ACH-000806,L-540,CVCL_1362,Lymphoid,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,7.310395,0.2009408355714285,,X
+ACH-000809,KYSE-410,CVCL_1352,Esophagus/Stomach,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.01997513,0.1340013832857143,,X
+ACH-000810,SK-MEL-30,CVCL_0039,Skin,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.12926191,3.822821114285714,,"X,Y"
+ACH-000811,SK-OV-3,CVCL_0532,Ovary/Fallopian Tube,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,6.5270157,0.1184500028571428,,X
+ACH-000812,COLO-783,CVCL_1997,Skin,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,6.1888795,0.1114038665714285,,X
+ACH-000814,Hs 939.T,CVCL_1036,Skin,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,6.3857727,0.0946708894285714,,X
+ACH-000815,KM-H2,CVCL_1330,Lymphoid,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.117534146,0.1969657947142857,,X
+ACH-000816,NCI-H524,CVCL_1568,Lung,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.46167943,0.0542305888571428,,X
+ACH-000817,RPMI 8226,CVCL_0014,Lymphoid,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.26093978,4.433952385714286,,conflicting
+ACH-000818,BT-483,CVCL_2319,Breast,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,6.8530974,0.1813368858571428,,X
+ACH-000819,LN-18,CVCL_0392,CNS/Brain,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.20915139,4.940814242857143,,"X,Y"
+ACH-000821,EJM,CVCL_2030,Lymphoid,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.41093695,0.0811471499999999,,X
+ACH-000822,SK-MEL-24,CVCL_0599,Skin,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.13102837,4.972575214285714,,"X,Y"
+ACH-000823,KYSE-140,CVCL_1347,Esophagus/Stomach,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.17007118,0.1246797511428571,,X
+ACH-000824,KYSE-510,CVCL_1354,Esophagus/Stomach,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.552918,0.1086780458571428,,X
+ACH-000825,HOP-92,CVCL_1286,Lung,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.11369917,0.1932542235714285,,X
+ACH-000826,CAL-12T,CVCL_1105,Lung,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.38409403,1.1258043014285717,,X
+ACH-000827,WM793,CVCL_8787,Skin,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.24566725,4.211969142857144,,conflicting
+ACH-000828,ZR-75-30,CVCL_1661,Breast,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,7.6584473,0.0658668184285714,,X
+ACH-000830,NCI-H1436,CVCL_1471,Lung,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.2367767,0.0986301782857142,,X
+ACH-000832,CAL 27,CVCL_1107,Head and Neck,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.2406465,0.2994116727142857,,X
+ACH-000835,GCT,CVCL_1229,Soft Tissue,Male,Female,discordant,,Female,corrected_auto,high,True,False,False,False,False,1.0610088,0.19026568,,X
+ACH-000838,AMO-1,CVCL_1806,Lymphoid,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.24449377,0.0679438301428571,,X
+ACH-000840,HCC-366,CVCL_2059,Lung,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.28249317,0.0640767542857142,,X
+ACH-000841,NCI-H2087,CVCL_1524,Lung,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.3087721,0.1080031928571428,,X
+ACH-000843,HARA,CVCL_2914,Lung,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.33767685,4.390485257142857,,"X,Y"
+ACH-000846,FaDu,CVCL_1218,Head and Neck,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.1902811,0.2123432081428571,,X
+ACH-000847,HGC-27,CVCL_1279,Esophagus/Stomach,Unknown,Ambiguous_low,uninformative,,Unknown,unresolved,low,False,False,True,False,True,0.12199014,0.0676533077142857,,X
+ACH-000848,JHH-7,CVCL_2805,Liver,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.23636281,4.2076823388571425,,"X,Y"
+ACH-000849,MDA-MB-468,CVCL_0419,Breast,Female,Ambiguous_high,uninformative,,Female,reported_only,low,False,False,True,False,False,0.9477387,0.4127241571428572,,X
+ACH-000852,NCI-H1435,CVCL_1470,Lung,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,7.1519704,0.1040299852857142,,X
+ACH-000853,NCI-H661,CVCL_1577,Lung,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.35211328,5.57426072857143,,"X,Y"
+ACH-000855,KYSE-150,CVCL_1348,Esophagus/Stomach,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.6586667,0.1633174741428571,,X
+ACH-000856,CAL-51,CVCL_1110,Breast,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.34320086,0.1596990874285714,,X
+ACH-000857,CAL-85-1,CVCL_1114,Breast,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,4.7442956,0.098531838,,X
+ACH-000858,KNS-62,CVCL_1335,Lung,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.31000268,0.261265918,,X
+ACH-000859,HCC1954,CVCL_1259,Breast,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.3345534,0.328740368,,X
+ACH-000860,NCI-H358,CVCL_1559,Lung,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.20312347,4.332228542857143,,"X,Y"
+ACH-000861,HOP-62,CVCL_1285,Lung,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.18953489,0.0834349431428571,,X
+ACH-000863,DBTRG-05MG,CVCL_1169,CNS/Brain,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,5.833386,0.1499841874285714,,X
+ACH-000864,COLO 684,CVCL_1132,Uterus,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,4.9696984,0.0981672302857142,,X
+ACH-000865,KYSE-450,CVCL_1353,Esophagus/Stomach,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.1288701,0.0882035989999999,,X
+ACH-000866,NCI-H1048,CVCL_1453,Lung,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,6.4109583,0.083723157,,X
+ACH-000867,ChaGo-K-1,CVCL_1121,Lung,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.22473799,4.954473373857143,,"X,Y"
+ACH-000869,NCI-H1568,CVCL_1476,Lung,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.21577302,0.0862899722857142,,X
+ACH-000871,NCI-H510,CVCL_1565,Lung,Male,Ambiguous_high,uninformative,,Male,reported_only,low,False,False,True,False,False,3.1771173,1.6094667862285714,,X
+ACH-000873,KYSE-270,CVCL_1350,Esophagus/Stomach,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.08868166,3.9732354428571424,,"X,Y"
+ACH-000874,RS4;11,CVCL_0093,Lymphoid,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,6.908813,0.0975402538571428,,X
+ACH-000875,NCI-H2347,CVCL_1550,Lung,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,5.6955986,0.0554301896714285,,X
+ACH-000876,MDA-MB-415,CVCL_0621,Breast,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,8.032233,0.128247418,,X
+ACH-000878,HCC-15,CVCL_2057,Lung,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.14365725,1.751902896142857,,"X,Y"
+ACH-000879,MFE-296,CVCL_1406,Uterus,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.22596341,0.0767852215142857,,X
+ACH-000880,AGS,CVCL_0139,Esophagus/Stomach,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,6.8278823,0.1112689044285714,,X
+ACH-000881,MEL-JUSO,CVCL_1403,Skin,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,5.928001,0.1970768508571428,,X
+ACH-000882,IGR-1,CVCL_1303,Skin,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.17942187,5.084883085714286,,"X,Y"
+ACH-000883,SW 1783,CVCL_1722,CNS/Brain,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.24263543,4.941441628571428,,"X,Y"
+ACH-000885,TOV-21G,CVCL_3613,Ovary/Fallopian Tube,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.26551852,0.0993381631428571,,X
+ACH-000886,NCI-H2009,CVCL_1514,Lung,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.1308808,0.068662827,,X
+ACH-000888,NCI-H1793,CVCL_1496,Lung,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.2440699,0.1106639152857142,,X
+ACH-000890,SW 1271,CVCL_1716,Lung,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.35098034,0.1485816731428571,,X
+ACH-000892,NCI-H1563,CVCL_1475,Lung,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.20752807,5.415062528571428,,"X,Y"
+ACH-000893,NCI-H1651,CVCL_1484,Lung,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.19398616,3.809513271428571,,X
+ACH-000894,NCI-H1869,CVCL_1500,Lung,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.21238755,0.0809493751428571,,X
+ACH-000895,CL-34,CVCL_1980,Bowel,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,4.302436,0.1947946944285714,,X
+ACH-000896,647-V,CVCL_1049,Bladder/Urinary Tract,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.12276017,4.456744928571429,,"X,Y"
+ACH-000900,NCI-H23,CVCL_1547,Lung,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.2290452,0.0806038274714285,,X
+ACH-000902,CAL-148,CVCL_1106,Breast,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,5.404593,0.1344092971428571,,X
+ACH-000903,FTC-133,CVCL_1219,Thyroid,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.24221103,0.1431406309,,X
+ACH-000905,5637,CVCL_0126,Bladder/Urinary Tract,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.104944475,3.470320714285714,,"X,Y"
+ACH-000906,ES-2,CVCL_3509,Ovary/Fallopian Tube,Female,Female,concordant,,Female,reported+expression,high,False,False,False,True,True,4.0871997,0.0853765788571428,,X
+ACH-000910,MDA-MB-453,CVCL_0418,Breast,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,5.6072354,0.0606643467142857,,X
+ACH-000911,NUGC-3,CVCL_1612,Esophagus/Stomach,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.115816325,0.1192886865714285,,X
+ACH-000913,ESS-1,CVCL_1205,Uterus,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.35360447,0.2185094751428571,,X
+ACH-000914,HT,CVCL_1290,Lymphoid,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.14573875,5.488110085714285,,"X,Y"
+ACH-000915,IPC-298,CVCL_1307,Skin,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.18703417,0.114487206,,X
+ACH-000916,NCI-H1573,CVCL_1478,Lung,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.34222704,0.0856029195714285,,X
+ACH-000917,TE-4,CVCL_3337,Esophagus/Stomach,Conflict,Male,uninformative,,Unknown,unresolved,low,False,False,True,False,True,0.6752487,2.179304287142857,,X
+ACH-000918,MOLT-16,CVCL_1424,Lymphoid,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,8.180571,0.1305251143428571,,X
+ACH-000919,IM95,CVCL_2961,Esophagus/Stomach,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.11981299,0.0677166432857142,,X
+ACH-000920,CML-T1,CVCL_1126,Myeloid,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,8.599712,0.1357490201428571,,X
+ACH-000922,RCH-ACV,CVCL_1851,Lymphoid,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,6.2066355,0.1056680372857142,,X
+ACH-000924,NCI-H2172,CVCL_1537,Lung,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.46244398,0.1238295559999999,,X
+ACH-000926,HT-55,CVCL_1294,Bowel,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,6.703862,0.1154551037142857,,X
+ACH-000927,BT-474,CVCL_0179,Breast,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.15824783,0.0667376492857143,,X
+ACH-000929,NCI-H2110,CVCL_1530,Lung,Unknown,Ambiguous_low,uninformative,,Unknown,unresolved,low,False,False,True,False,True,0.17192799,0.0872183089999999,,X
+ACH-000930,HCC1569,CVCL_1255,Breast,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.27706352,0.1653852288571428,,X
+ACH-000932,SNU-1,CVCL_0099,Esophagus/Stomach,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.08895161,5.0375267428571435,,"X,Y"
+ACH-000934,MDA-MB-361,CVCL_0620,Breast,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,4.200959,0.2411676068571428,,X
+ACH-000935,MDST8,CVCL_2588,Bowel,Unknown,Ambiguous_low,uninformative,,Unknown,unresolved,low,False,False,True,False,True,0.21239004,0.2994281371428571,,X
+ACH-000936,EFO-27,CVCL_1192,Ovary/Fallopian Tube,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,6.6217456,0.1058103732857143,,X
+ACH-000937,PF-382,CVCL_1641,Lymphoid,Female,Ambiguous_high,uninformative,,Female,reported_only,low,False,False,True,False,False,6.265388,0.4056077392857142,,X
+ACH-000938,NALM-6,CVCL_0092,Lymphoid,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.16774714,4.981152332857143,,"X,Y"
+ACH-000939,SK-UT-1,CVCL_0533,Uterus,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,4.8682027,0.1277526239999999,,X
+ACH-000940,AN3 CA,CVCL_0028,Uterus,Female,Female,uninformative,,Female,reported_only,low,False,False,True,False,False,0.77525204,0.0976668071428571,,X
+ACH-000943,RKO,CVCL_0504,Bowel,Unknown,Female,missing,,Female,expression_only,high,False,True,False,False,False,7.687432,0.0753522372857142,,X
+ACH-000944,NAMALWA,CVCL_0067,Lymphoid,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.23979883,0.0916487603428571,,X
+ACH-000945,NCI-H650,CVCL_1575,Lung,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.17634958,0.0950645548571428,,X
+ACH-000947,OVK18,CVCL_3770,Ovary/Fallopian Tube,Female,Female,uninformative,,Female,reported_only,low,False,False,True,False,False,5.3962007,0.3225085818571428,,X
+ACH-000948,23132/87,CVCL_1046,Esophagus/Stomach,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.16463055,4.819029971428572,,"X,Y"
+ACH-000949,TGBC11TKB,CVCL_1768,Esophagus/Stomach,Female,Ambiguous_high,uninformative,,Female,reported_only,low,False,False,True,False,False,0.8723308,0.7573450057142859,,X
+ACH-000950,LoVo,CVCL_0399,Bowel,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.11947172,4.644134257142857,,"X,Y"
+ACH-000951,NCI-H2342,CVCL_1549,Lung,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.10847361,3.5422473128571426,,"X,Y"
+ACH-000953,SUP-T1,CVCL_1714,Lymphoid,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.1873269,4.650036457142858,,conflicting
+ACH-000955,SNU-407,CVCL_5058,Bowel,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.16614468,5.148852100000001,,"X,Y"
+ACH-000956,22Rv1,CVCL_1045,Prostate,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.1779637,5.2111070857142865,,"X,Y"
+ACH-000957,LS 180,CVCL_0397,Bowel,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.05620477,0.0489600837857142,,X
+ACH-000958,SW48,CVCL_1724,Bowel,Female,Ambiguous_high,uninformative,,Female,reported_only,low,False,False,True,False,False,6.5354075,0.6113537888571429,,X
+ACH-000960,Reh,CVCL_1650,Lymphoid,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.24504775,0.1258211891428571,,X
+ACH-000962,OC 314,CVCL_1616,Ovary/Fallopian Tube,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,6.650571,0.1231970251428571,,X
+ACH-000963,CCK-81,CVCL_2873,Bowel,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.50534624,0.0905036664714285,,X
+ACH-000965,RL95-2,CVCL_0505,Uterus,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.11758866,0.1244131875714285,,X
+ACH-000966,IGROV1,CVCL_1304,Ovary/Fallopian Tube,Female,Male,discordant,,Female,unresolved,low,False,False,True,False,False,0.119688176,0.5066775285714286,,X
+ACH-000968,COLO 792,CVCL_1134,Skin,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.22585362,4.029297952857143,,"X,Y"
+ACH-000969,KM12,CVCL_1331,Bowel,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.23858145,0.0556152916142857,,X
+ACH-000970,SNU-C5,CVCL_5112,Bowel,Female,Ambiguous_high,uninformative,,Female,reported_only,low,False,False,True,False,False,0.8395372,0.3880910124285714,,X
+ACH-000971,HCT 116,CVCL_0291,Bowel,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.1998752,3.4253143285714285,,conflicting
+ACH-000973,639-V,CVCL_1048,Bladder/Urinary Tract,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.22902304,0.0925521791428571,,X
+ACH-000974,SNG-M,CVCL_1707,Uterus,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,True,True,0.1348071,0.1124852922857142,,X
+ACH-000976,HuCCT1,CVCL_0324,Biliary Tract,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.14377217,3.370269114285714,,"X,Y"
+ACH-000977,LNCaP clone FGC,CVCL_1379,Prostate,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.17751347,5.656009485714286,,"X,Y"
+ACH-000978,EN,CVCL_2034,Uterus,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.34609568,0.1580398937142857,,X
+ACH-000979,DU 145,CVCL_0105,Prostate,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.0,3.4638774000000003,,"X,Y"
+ACH-000980,NCI-H1155,CVCL_1456,Lung,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.2380164,0.0996801314285714,,X
+ACH-000981,DND-41,CVCL_2022,Lymphoid,Male,Ambiguous_high,uninformative,,Male,reported_only,low,False,False,True,False,False,0.8554444,4.960262885714285,,"X,Y"
+ACH-000983,KCL-22,CVCL_2091,Myeloid,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,7.83382,0.1127758359999999,,X
+ACH-000985,LS411N,CVCL_1385,Bowel,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.18055272,0.0741431994285714,,X
+ACH-000986,HT115,CVCL_2520,Bowel,Unknown,Ambiguous_low,uninformative,,Unknown,unresolved,low,False,False,True,False,True,0.19142242,0.0742292111428571,,X
+ACH-000987,MeWo,CVCL_0445,Skin,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.14245918,5.189103742857143,,"X,Y"
+ACH-000988,MFE-319,CVCL_2112,Uterus,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.1942409,0.0855978887857142,,X
+ACH-000989,SNU-175,CVCL_5031,Bowel,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.109237514,0.0777659989999999,,X
+ACH-000991,SNU-81,CVCL_5098,Bowel,Male,Ambiguous_high,uninformative,,Male,reported_only,low,False,False,True,False,False,0.85079783,0.5338712167142857,,conflicting
+ACH-000995,JURKAT,CVCL_0065,Lymphoid,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.30196568,4.214219957142857,,"X,Y"
+ACH-000997,HCT-15,CVCL_0292,Bowel,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.2025594,3.822147828571429,,"X,Y"
+ACH-000998,CW-2,CVCL_1151,Bowel,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.1910168,0.3039512514285714,,X
+ACH-000999,SNU-1040,CVCL_5003,Bowel,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.21594071,4.6730220000000005,,"X,Y"
+ACH-001016,Becker,CVCL_1093,CNS/Brain,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.0296225,4.1314353285714285,,"X,Y"
+ACH-001021,C3A,CVCL_1098,Liver,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.0,3.039012732,,"X,Y"
+ACH-001024,CHL-1,CVCL_1122,Skin,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,2.435658,0.0159108442857142,,X
+ACH-001064,EB-2,CVCL_1186,Lymphoid,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,8.840189,0.0,,X
+ACH-001075,NCI-H292,CVCL_0455,Lung,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,1.010121,0.0945770115714286,,X
+ACH-001086,HeLa,CVCL_0030,Cervix,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.18106946,0.0949077427142857,,X
+ACH-001106,KOPN-8,CVCL_1866,Lymphoid,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,5.3272204,0.1255400861428571,,X
+ACH-001131,MS-1,CVCL_E995,Skin,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,5.96733,0.0,,X
+ACH-001151,OVCAR-5,CVCL_1628,Ovary/Fallopian Tube,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,True,True,0.0,0.0,,X
+ACH-001190,SK-MEL-2,CVCL_0069,Skin,Male,Ambiguous_high,uninformative,,Male,reported_only,low,False,False,True,False,False,0.71960926,4.616362014285714,,"X,Y"
+ACH-001193,SK-PN-DW,CVCL_1703,Bone,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.0783352,0.1126645771428571,,X
+ACH-001227,UPCI-SCC-090,CVCL_1899,Head and Neck,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.0,2.7408985571428572,,"X,Y"
+ACH-001274,SW982,CVCL_1734,Soft Tissue,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,5.0669546,0.0482964788571428,,X
+ACH-001306,8305C,CVCL_1053,Thyroid,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,5.2317166,0.1082726408142857,,X
+ACH-001307,8505C,CVCL_1054,Thyroid,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.16855219,0.1921185858571428,,X
+ACH-001328,A-431,CVCL_0037,Skin,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,5.260763,0.0843244734285714,,conflicting
+ACH-001332,BICR 78,CVCL_2315,Head and Neck,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.34467286,0.0159550822857142,,X
+ACH-001333,C-33 A,CVCL_1094,Cervix,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.035874423,0.0219129097571428,,X
+ACH-001334,C-4 I,CVCL_2253,Cervix,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,7.368873,0.0,,X
+ACH-001336,Ca Ski,CVCL_1100,Cervix,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.05925143,0.0311979221428571,,X
+ACH-001338,CHP-134,CVCL_1124,Peripheral Nervous System,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.028829379,4.656676485714286,,"X,Y"
+ACH-001341,DoTc2 4510,CVCL_1181,Cervix,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,5.3156605,0.0083323614571428,,X
+ACH-001344,GI-ME-N,CVCL_1232,Peripheral Nervous System,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.26041594,0.0355022302,,X
+ACH-001345,GP5d,CVCL_1235,Bowel,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,3.9385586,0.0232905535714285,,X
+ACH-001350,HTC-C3,CVCL_1295,Thyroid,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,4.8694963,0.0,,X
+ACH-001355,LAN-6,CVCL_1363,Peripheral Nervous System,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.0,0.0,,X
+ACH-001360,MS751,CVCL_4996,Cervix,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,7.9153357,0.0120462067142857,,X
+ACH-001362,NCI-H1770,CVCL_1493,Lung,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.006657082,0.0,,X
+ACH-001368,OAC-M5.1,CVCL_1842,Esophagus/Stomach,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,4.5705056,0.1977279784285714,,X
+ACH-001373,OV17R,CVCL_2672,Ovary/Fallopian Tube,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.09847076,0.0393626607142857,,X
+ACH-001374,PA-1 [PA1],CVCL_0479,Ovary/Fallopian Tube,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,6.608561,0.0559389972571428,,X
+ACH-001384,RO82-W-1,CVCL_0582,Thyroid,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.010036462,0.0,,X
+ACH-001385,RPMI 2650,CVCL_1664,Head and Neck,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.0,3.140851471428572,,"X,Y"
+ACH-001398,SW 156,CVCL_1719,Kidney,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.05272471,0.0,,X
+ACH-001399,SW 626,CVCL_1725,Bowel,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,True,True,0.015429058,0.0270814299,,X
+ACH-001400,SW 954,CVCL_1732,Vulva/Vagina,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,8.73026,0.0,,X
+ACH-001401,SW-13,CVCL_0542,Adrenal Gland,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,5.8997703,0.0320620132428571,,X
+ACH-001402,SW756,CVCL_1727,Cervix,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,7.136417,0.0129584750428571,,X
+ACH-001418,UWB1.289,CVCL_B079,Ovary/Fallopian Tube,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.011109151,0.0059885722857142,,X
+ACH-001442,A388,CVCL_1063,Skin,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.0051872507,0.0,,X
+ACH-001443,ASH-3,CVCL_2856,Thyroid,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,3.8935757,0.0,,X
+ACH-001453,BPH-1,CVCL_1091,Prostate,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.026927507,5.193645885714285,,"X,Y"
+ACH-001489,COR-L32,CVCL_2413,Lung,Unknown,Ambiguous_low,uninformative,,Unknown,unresolved,low,False,False,True,False,True,0.0057980665,0.0,,X
+ACH-001494,EGI-1,CVCL_1193,Biliary Tract,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.0,4.1338581,,"X,Y"
+ACH-001496,ESO26,CVCL_2035,Esophagus/Stomach,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.112275764,4.856955999999999,,"X,Y"
+ACH-001497,ESO51,CVCL_2036,Esophagus/Stomach,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.029406238,0.0424580377142857,,conflicting
+ACH-001498,Farage,CVCL_3302,Lymphoid,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,5.8050756,0.0,,X
+ACH-001500,FLO-1,CVCL_2045,Esophagus/Stomach,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.27510244,0.0811063747142857,,X
+ACH-001517,HEC-1,CVCL_1274,Uterus,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.029464195,0.0,,X
+ACH-001519,H-EMC-SS,CVCL_1238,Bone,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,6.499699,0.0,,X
+ACH-001525,HT-3,CVCL_1293,Cervix,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,6.898523,0.0,,X
+ACH-001526,HuO9,CVCL_1298,Bone,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,5.1485476,0.0008506687142857,,X
+ACH-001528,IHH-4,CVCL_2960,Thyroid,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.01263017,4.995598342857143,,"X,Y"
+ACH-001529,JAR,CVCL_0360,Uterus,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.0031661242,3.810559085714286,,"X,Y"
+ACH-001530,JEG-3,CVCL_0363,Uterus,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.003410824,4.2760922,,"X,Y"
+ACH-001542,KON,CVCL_3001,Head and Neck,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.0,0.0193169028571428,,X
+ACH-001543,KOSC-2,CVCL_1337,Head and Neck,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.0,0.0,,X
+ACH-001549,Lu-135,CVCL_1389,Lung,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.0,3.7823344142857143,,"X,Y"
+ACH-001591,NCI-H1417,CVCL_1469,Lung,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,6.096485,0.0,,X
+ACH-001603,NH-12,CVCL_1605,Peripheral Nervous System,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.14295055,4.919094728571429,,"X,Y"
+ACH-001605,no.10,CVCL_3075,CNS/Brain,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.0,4.221082528571428,,"X,Y"
+ACH-001606,no.11,CVCL_3076,CNS/Brain,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,2.9814947,0.0,,X
+ACH-001617,OCI-LY7,CVCL_1881,Lymphoid,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.0,5.5145894,,"X,Y"
+ACH-001625,OSC-19,CVCL_3086,Head and Neck,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.0053884895,1.8354376285714284,,"X,Y"
+ACH-001626,OSC-20,CVCL_3087,Head and Neck,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.0,0.0,,X
+ACH-001630,PEO1,CVCL_2686,Ovary/Fallopian Tube,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.0,0.0,,X
+ACH-001638,RC-K8,CVCL_1883,Lymphoid,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.0,5.137933614285714,,"X,Y"
+ACH-001641,SAT,CVCL_3160,Head and Neck,Unknown,Ambiguous_low,uninformative,,Unknown,unresolved,low,False,False,True,False,True,0.0,0.0011847505714285,,X
+ACH-001642,SCC-3,CVCL_1683,Lymphoid,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,7.7662044,0.0019658501428571,,X
+ACH-001650,SISO,CVCL_2193,Cervix,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,6.22039,0.0364768137571428,,X
+ACH-001653,SK-GT-2,CVCL_2194,Esophagus/Stomach,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.38189134,0.0,,X
+ACH-001654,SK-GT-4,CVCL_2195,Esophagus/Stomach,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.02322696,0.059929815,,X
+ACH-001655,SKN,CVCL_3167,Uterus,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.04765285,0.0,,X
+ACH-001674,TGW,CVCL_1771,Peripheral Nervous System,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.10003438,0.0,,X
+ACH-001680,U-698-M,CVCL_0017,Lymphoid,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.23732753,5.856595257142857,,"X,Y"
+ACH-001702,VA-ES-BJ,CVCL_1785,Soft Tissue,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.01404958,0.0,,X
+ACH-001703,VAL,CVCL_1819,Lymphoid,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,6.6445627,0.0078345047142857,,X
+ACH-001704,VMRC-MELG,CVCL_1789,Skin,Male,Female,discordant,,Female,corrected_auto,medium,True,False,False,False,False,7.1612325,0.0,,conflicting
+ACH-001709,WSU-NHL,CVCL_1793,Lymphoid,Female,Ambiguous_high,uninformative,,Female,reported_only,low,False,False,True,False,False,7.4110365,0.6930632228571428,,X
+ACH-001711,PFSK-1,CVCL_1642,CNS/Brain,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.09425364,4.493822257142858,,"X,Y"
+ACH-001715,CAL-72,CVCL_1113,Bone,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.09401712,1.6992282457142858,,"X,Y"
+ACH-001716,GOTO,CVCL_1234,Peripheral Nervous System,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.0,0.0,,X
+ACH-002142,HuO-3N1,CVCL_1297,Bone,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,3.3137639,0.0144883985714285,,X
+ACH-002170,NCI-H1688,CVCL_1487,Lung,Male,Female,discordant,,Female,corrected_auto,high,True,False,False,False,False,3.9615214,0.0,,X
+ACH-002178,NY,CVCL_1613,Bone,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.06282216,0.0,,X
+ACH-002214,BC-1,CVCL_1079,Lymphoid,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.14108613,5.218915828571427,,"X,Y"
+ACH-002215,BC-3,CVCL_1080,Lymphoid,Male,Female,discordant,,Female,corrected_auto,high,True,False,False,False,False,0.9506849,0.0,,X
+ACH-002246,Hs 633.T,CVCL_0832,Soft Tissue,Female,Ambiguous_low,uninformative,,Female,reported_only,low,False,False,True,False,False,0.025906196,0.0,,X
+ACH-002283,NB5,CVCL_8822,Peripheral Nervous System,Female,Female,concordant,,Female,reported+expression,high,False,False,False,False,False,6.951075,0.0,,X
+ACH-002290,NKM-1,CVCL_1607,Myeloid,Male,Ambiguous_low,uninformative,,Male,reported_only,low,False,False,True,False,False,0.09281227,0.0,,X
+ACH-002291,NTERA-2 cl.D1,CVCL_3407,Testis,Male,Male,concordant,,Male,reported+expression,high,False,False,False,False,False,0.0085772425,2.8580241285714285,,"X,Y"
