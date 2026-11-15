@@ -1,0 +1,10 @@
+# Shared config block -- paste into the repo's main config (Malavika's config system).
+sex_aware:
+  use_sex_input: false        # (a) append [female, male, unknown] to the fused vector
+  use_xy_module: false        # (b) separate X/Y-gene branch, embedding concatenated in
+  use_reweighting: false      # (c) sex x tissue weights in the loss
+  sex_label_mode: "unknown_indicator"   # or "exclude" (drops uncertain/missing lines)
+  xy_embed_dim: 32
+  xy_hidden_dim: 64
+  shuffle_sex_labels: false   # control run (task 4); evaluation still uses true labels
+  shuffle_within_tissue: true
