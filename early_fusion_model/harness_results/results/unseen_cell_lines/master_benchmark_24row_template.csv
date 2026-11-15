@@ -1,0 +1,49 @@
+split_family,proteomics,fusion,sex_aware,group,status,n,RMSE,MAE,Pearson,Spearman
+unseen_cell_lines,False,early,False,Female,MEASURED,9196.0,1.5967150781737658,1.2339541914915333,0.8219358954124395,0.759008778689444
+unseen_cell_lines,False,early,False,Male,MEASURED,8700.0,1.6822369433474453,1.319782588842793,0.8175782517373296,0.7440963000036115
+unseen_cell_lines,False,early,False,Gap (absolute),MEASURED,,0.08552186517367955,0.08582839735125969,0.0043576436751099346,0.014912478685832564
+unseen_cell_lines,False,early,True,Female,MEASURED,9196.0,1.6563814892778868,1.2733120888077725,0.8103334600398209,0.752314644383944
+unseen_cell_lines,False,early,True,Male,MEASURED,8700.0,1.683805763324325,1.3272586053712758,0.8182388693447329,0.7514696501722211
+unseen_cell_lines,False,early,True,Gap (absolute),MEASURED,,0.027424274046438324,0.053946516563503355,0.007905409304912014,0.0008449942117229048
+unseen_cell_lines,False,intermediate,False,Female,PENDING,,,,,
+unseen_cell_lines,False,intermediate,False,Male,PENDING,,,,,
+unseen_cell_lines,False,intermediate,False,Gap (absolute),PENDING,,,,,
+unseen_cell_lines,False,intermediate,True,Female,PENDING,,,,,
+unseen_cell_lines,False,intermediate,True,Male,PENDING,,,,,
+unseen_cell_lines,False,intermediate,True,Gap (absolute),PENDING,,,,,
+unseen_cell_lines,False,late,False,Female,PENDING,,,,,
+unseen_cell_lines,False,late,False,Male,PENDING,,,,,
+unseen_cell_lines,False,late,False,Gap (absolute),PENDING,,,,,
+unseen_cell_lines,False,late,True,Female,PENDING,,,,,
+unseen_cell_lines,False,late,True,Male,PENDING,,,,,
+unseen_cell_lines,False,late,True,Gap (absolute),PENDING,,,,,
+unseen_cell_lines,False,graph,False,Female,PENDING,,,,,
+unseen_cell_lines,False,graph,False,Male,PENDING,,,,,
+unseen_cell_lines,False,graph,False,Gap (absolute),PENDING,,,,,
+unseen_cell_lines,False,graph,True,Female,PENDING,,,,,
+unseen_cell_lines,False,graph,True,Male,PENDING,,,,,
+unseen_cell_lines,False,graph,True,Gap (absolute),PENDING,,,,,
+unseen_cell_lines,True,early,False,Female,MEASURED,9196.0,1.69013328688434,1.3111192621004024,0.8279138440978876,0.765185003089142
+unseen_cell_lines,True,early,False,Male,MEASURED,8700.0,1.8401969213840057,1.4725128403659027,0.8349535632798613,0.7736486317495073
+unseen_cell_lines,True,early,False,Gap (absolute),MEASURED,,0.15006363449966575,0.16139357826550027,0.007039719181973658,0.008463628660365319
+unseen_cell_lines,True,early,True,Female,MEASURED,9196.0,1.8356792938500577,1.421035032626453,0.8169744572587969,0.7704960736869955
+unseen_cell_lines,True,early,True,Male,MEASURED,8700.0,2.0202847885538455,1.6356098359350575,0.8144000520046836,0.7549300926310337
+unseen_cell_lines,True,early,True,Gap (absolute),MEASURED,,0.18460549470378784,0.21457480330860457,0.0025744052541133433,0.015565981055961742
+unseen_cell_lines,True,intermediate,False,Female,PENDING,,,,,
+unseen_cell_lines,True,intermediate,False,Male,PENDING,,,,,
+unseen_cell_lines,True,intermediate,False,Gap (absolute),PENDING,,,,,
+unseen_cell_lines,True,intermediate,True,Female,PENDING,,,,,
+unseen_cell_lines,True,intermediate,True,Male,PENDING,,,,,
+unseen_cell_lines,True,intermediate,True,Gap (absolute),PENDING,,,,,
+unseen_cell_lines,True,late,False,Female,PENDING,,,,,
+unseen_cell_lines,True,late,False,Male,PENDING,,,,,
+unseen_cell_lines,True,late,False,Gap (absolute),PENDING,,,,,
+unseen_cell_lines,True,late,True,Female,PENDING,,,,,
+unseen_cell_lines,True,late,True,Male,PENDING,,,,,
+unseen_cell_lines,True,late,True,Gap (absolute),PENDING,,,,,
+unseen_cell_lines,True,graph,False,Female,PENDING,,,,,
+unseen_cell_lines,True,graph,False,Male,PENDING,,,,,
+unseen_cell_lines,True,graph,False,Gap (absolute),PENDING,,,,,
+unseen_cell_lines,True,graph,True,Female,PENDING,,,,,
+unseen_cell_lines,True,graph,True,Male,PENDING,,,,,
+unseen_cell_lines,True,graph,True,Gap (absolute),PENDING,,,,,

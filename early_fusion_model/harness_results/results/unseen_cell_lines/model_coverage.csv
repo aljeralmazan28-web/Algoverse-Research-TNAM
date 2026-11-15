@@ -1,0 +1,3 @@
+split_family,proteomics,models_received,models_required,complete,missing
+unseen_cell_lines,False,2,8,False,intermediate sex_aware=False; intermediate sex_aware=True; late sex_aware=False; late sex_aware=True; graph sex_aware=False; graph sex_aware=True
+unseen_cell_lines,True,2,8,False,intermediate sex_aware=False; intermediate sex_aware=True; late sex_aware=False; late sex_aware=True; graph sex_aware=False; graph sex_aware=True

@@ -1,0 +1,5 @@
+split_family,proteomics,fusion,sex_aware,original_n,common_test_n,original_female_n,common_female_n,common_male_n
+unseen_cell_lines,False,early,False,17896,17896,9196,9196,8700
+unseen_cell_lines,False,early,True,17896,17896,9196,9196,8700
+unseen_cell_lines,True,early,False,17896,17896,9196,9196,8700
+unseen_cell_lines,True,early,True,17896,17896,9196,9196,8700
