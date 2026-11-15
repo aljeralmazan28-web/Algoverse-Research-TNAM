@@ -1,0 +1,98 @@
+scope,partition,check,status,observed,expected,notes
+unseen_cell_lines,all,original_sha256_matches_manifest,PASS,True,True,
+unseen_cell_lines,all,original_summary_sha256_matches_manifest,PASS,True,True,
+unseen_cell_lines,all,zero_group_leakage,PASS,True,True,
+unseen_cell_lines,all,no_duplicate_observation_ids,PASS,True,True,
+unseen_cell_lines,all,same_observation_ids_as_eligible_cohort,PASS,True,True,
+unseen_cell_lines,all,valid_split_values,PASS,True,True,
+unseen_cell_lines,all,consistent_sex_tissue_per_cell_line,PASS,True,True,
+unseen_cell_lines,all,rows_match_eligible_cohort,PASS,True,True,
+unseen_cell_lines,train,observations,INFO,87905,,70.12% of cohort observations
+unseen_cell_lines,train,distinct_held_out_groups,INFO,344,,
+unseen_cell_lines,train,female_observations_pct,INFO,44.82%,,
+unseen_cell_lines,train,male_observations_pct,INFO,55.18%,,
+unseen_cell_lines,train,distinct_tissues,INFO,22,,
+unseen_cell_lines,train,unique_cell_lines,INFO,344,,
+unseen_cell_lines,val,observations,INFO,18833,,15.02% of cohort observations
+unseen_cell_lines,val,distinct_held_out_groups,INFO,74,,
+unseen_cell_lines,val,female_observations_pct,INFO,47.13%,,
+unseen_cell_lines,val,male_observations_pct,INFO,52.87%,,
+unseen_cell_lines,val,distinct_tissues,INFO,19,,
+unseen_cell_lines,val,unique_cell_lines,INFO,74,,
+unseen_cell_lines,test,observations,INFO,18622,,14.85% of cohort observations
+unseen_cell_lines,test,distinct_held_out_groups,INFO,74,,
+unseen_cell_lines,test,female_observations_pct,INFO,46.39%,,
+unseen_cell_lines,test,male_observations_pct,INFO,53.61%,,
+unseen_cell_lines,test,distinct_tissues,INFO,18,,
+unseen_cell_lines,test,unique_cell_lines,INFO,74,,
+unseen_cell_lines,all,requested_sex_tissue_stratification_method_documented,REVIEW,not documented,document method,Measured proportions are available; split-generation/optimization algorithm not included
+unseen_cell_lines,all,csv_row_count_matches_zip,PASS,125360,125360,
+unseen_drugs,all,original_sha256_matches_manifest,PASS,True,True,
+unseen_drugs,all,original_summary_sha256_matches_manifest,PASS,True,True,
+unseen_drugs,all,zero_group_leakage,PASS,True,True,
+unseen_drugs,all,no_duplicate_observation_ids,PASS,True,True,
+unseen_drugs,all,same_observation_ids_as_eligible_cohort,PASS,True,True,
+unseen_drugs,all,valid_split_values,PASS,True,True,
+unseen_drugs,all,consistent_sex_tissue_per_cell_line,PASS,True,True,
+unseen_drugs,all,rows_match_eligible_cohort,PASS,True,True,
+unseen_drugs,train,observations,INFO,87702,,69.96% of cohort observations
+unseen_drugs,train,distinct_held_out_groups,INFO,207,,
+unseen_drugs,train,female_observations_pct,INFO,45.39%,,
+unseen_drugs,train,male_observations_pct,INFO,54.61%,,
+unseen_drugs,train,distinct_tissues,INFO,22,,
+unseen_drugs,train,unique_cell_lines,INFO,492,,
+unseen_drugs,val,observations,INFO,18851,,15.04% of cohort observations
+unseen_drugs,val,distinct_held_out_groups,INFO,44,,
+unseen_drugs,val,female_observations_pct,INFO,45.42%,,
+unseen_drugs,val,male_observations_pct,INFO,54.58%,,
+unseen_drugs,val,distinct_tissues,INFO,22,,
+unseen_drugs,val,unique_cell_lines,INFO,492,,
+unseen_drugs,test,observations,INFO,18807,,15.00% of cohort observations
+unseen_drugs,test,distinct_held_out_groups,INFO,44,,
+unseen_drugs,test,female_observations_pct,INFO,45.41%,,
+unseen_drugs,test,male_observations_pct,INFO,54.59%,,
+unseen_drugs,test,distinct_tissues,INFO,22,,
+unseen_drugs,test,unique_cell_lines,INFO,492,,
+unseen_drugs,all,requested_sex_tissue_stratification_method_documented,REVIEW,not documented,document method,Measured proportions are available; split-generation/optimization algorithm not included
+unseen_drugs,all,csv_row_count_matches_zip,PASS,125360,125360,
+unseen_tissues,all,original_sha256_matches_manifest,PASS,True,True,
+unseen_tissues,all,original_summary_sha256_matches_manifest,PASS,True,True,
+unseen_tissues,all,zero_group_leakage,PASS,True,True,
+unseen_tissues,all,no_duplicate_observation_ids,PASS,True,True,
+unseen_tissues,all,same_observation_ids_as_eligible_cohort,PASS,True,True,
+unseen_tissues,all,valid_split_values,PASS,True,True,
+unseen_tissues,all,consistent_sex_tissue_per_cell_line,PASS,True,True,
+unseen_tissues,all,rows_match_eligible_cohort,PASS,True,True,
+unseen_tissues,train,observations,INFO,87025,,69.42% of cohort observations
+unseen_tissues,train,distinct_held_out_groups,INFO,16,,
+unseen_tissues,train,female_observations_pct,INFO,45.56%,,
+unseen_tissues,train,male_observations_pct,INFO,54.44%,,
+unseen_tissues,train,distinct_tissues,INFO,16,,
+unseen_tissues,train,unique_cell_lines,INFO,341,,
+unseen_tissues,val,observations,INFO,21543,,17.18% of cohort observations
+unseen_tissues,val,distinct_held_out_groups,INFO,3,,
+unseen_tissues,val,female_observations_pct,INFO,42.25%,,
+unseen_tissues,val,male_observations_pct,INFO,57.75%,,
+unseen_tissues,val,distinct_tissues,INFO,3,,
+unseen_tissues,val,unique_cell_lines,INFO,87,,
+unseen_tissues,test,observations,INFO,16792,,13.40% of cohort observations
+unseen_tissues,test,distinct_held_out_groups,INFO,3,,
+unseen_tissues,test,female_observations_pct,INFO,48.59%,,
+unseen_tissues,test,male_observations_pct,INFO,51.41%,,
+unseen_tissues,test,distinct_tissues,INFO,3,,
+unseen_tissues,test,unique_cell_lines,INFO,64,,
+unseen_tissues,all,requested_sex_tissue_stratification_method_documented,REVIEW,not documented,document method,Measured proportions are available; split-generation/optimization algorithm not included
+unseen_tissues,all,csv_row_count_matches_zip,PASS,125360,125360,
+cohort,all,eligible_observations,INFO,125360,,
+cohort,all,dataset_source,LIMITATION,GDSC2,GDSC1 and GDSC2 if proposal requires both,The delivered cohort is GDSC2 only
+cohort,all,corrected_sex_labels_verified,REVIEW,"sex matches Cellosaurus reported_donor_sex, not independently validated corrected labels",Natasha final corrected labels,Replace/compare if corrected labels differ; regenerate/retrain if cohort sex labels or eligibility changes
+cohort,all,proteomics_overlap_proven,REVIEW,not independently verified,Trishna full overlap source,Source manifest describes cohort but raw multi-omics feature files not supplied
+cohort,all,original_raw_sources_in_package,LIMITATION,source hashes only,"raw crosswalk, source GDSC2 workbook, Cellosaurus export","Package includes derived audits and response cohort, not all original raw datasets or generation code"
+cohort,all,eligible_sha256_matches_manifest,PASS,True,True,
+comparison,all,original_cell_line_cohort_size,INFO,526,,
+comparison,all,eligible_cohort_cell_line_size,INFO,492,,
+comparison,all,excluded_original_cell_lines,REVIEW,34,0,34 526-file cell-line IDs are not in the eligible GDSC2 response cohort; see comparisons/excluded_34_cell_lines.csv
+comparison,cell_line,conflicting_group_assignments,REVIEW,225,0,Split assignments from standalone 526-file and ZIP differ; ZIP kept as provided and original CSV preserved as reference
+comparison,cell_line,reference_526_group_leakage,PASS,0,0,
+comparison,tissue,conflicting_group_assignments,REVIEW,271,0,Split assignments from standalone 526-file and ZIP differ; ZIP kept as provided and original CSV preserved as reference
+comparison,tissue,reference_526_group_leakage,PASS,0,0,

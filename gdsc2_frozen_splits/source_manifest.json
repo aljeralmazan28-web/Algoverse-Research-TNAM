@@ -1,0 +1,159 @@
+{
+  "status": "FROZEN_REAL_DATA",
+  "seed": 42,
+  "ratios": {
+    "train": 0.7,
+    "val": 0.15,
+    "test": 0.15
+  },
+  "source_hashes": {
+    "inputs/cell_line_crosswalk.csv": "477b6eba3ea7ba3919e45c46f557fb7d7efdb89a80b28cfb8ab45578791e2627",
+    "GDSC2_fitted_dose_response_27Oct23.xlsx": "f950a7027be265f8a7a74220a27fd18cbd368485349bd8c2048e88bb1cd07560",
+    "cellosaurus.txt": "3b5a9fc56b49854230ae90fb7cee57a3bf9f961df98be215a634203526f476ef",
+    "final_gdsc2_splits/eligible_drug_response_cohort.csv": "1637ccb5812fc05226634a29df5a0dcdd127f213f8e6d656b707a821842a2e47"
+  },
+  "splits": {
+    "unseen_lines": {
+      "file": "unseen_lines.csv",
+      "sha256": "f0beab021e6f3caea865c9954d19bc03ee03544d355f8686688bd82cad5c4511",
+      "summary_sha256": "d7ec6687e944688441d36438c0c8c73dc1cf1304371a3052dc5042e86d580686",
+      "balance_score": 0.0275180744,
+      "n_observations": 125360,
+      "n_groups": 492,
+      "zero_group_leakage": true,
+      "summary": [
+        {
+          "split": "train",
+          "observations": 87905,
+          "cell_lines": 344,
+          "drugs": 295,
+          "tissues": 22,
+          "female_observations": 39397,
+          "male_observations": 48508,
+          "female_cell_lines": 152,
+          "male_cell_lines": 192,
+          "held_out_group_col": "cell_line_id"
+        },
+        {
+          "split": "val",
+          "observations": 18833,
+          "cell_lines": 74,
+          "drugs": 295,
+          "tissues": 19,
+          "female_observations": 8876,
+          "male_observations": 9957,
+          "female_cell_lines": 34,
+          "male_cell_lines": 40,
+          "held_out_group_col": "cell_line_id"
+        },
+        {
+          "split": "test",
+          "observations": 18622,
+          "cell_lines": 74,
+          "drugs": 295,
+          "tissues": 18,
+          "female_observations": 8638,
+          "male_observations": 9984,
+          "female_cell_lines": 35,
+          "male_cell_lines": 39,
+          "held_out_group_col": "cell_line_id"
+        }
+      ]
+    },
+    "unseen_drugs": {
+      "file": "unseen_drugs.csv",
+      "sha256": "27cbd0e645ceb4c2c333b9d6daa7d5157ff46e8f1777202735170c30443b5583",
+      "summary_sha256": "703a34793c7b1d46515495fba11df8300717ef3171cbee21592297ce6dc92994",
+      "balance_score": 1.1983e-05,
+      "n_observations": 125360,
+      "n_groups": 295,
+      "zero_group_leakage": true,
+      "summary": [
+        {
+          "split": "train",
+          "observations": 87702,
+          "cell_lines": 492,
+          "drugs": 207,
+          "tissues": 22,
+          "female_observations": 39808,
+          "male_observations": 47894,
+          "female_cell_lines": 221,
+          "male_cell_lines": 271,
+          "held_out_group_col": "drug_id"
+        },
+        {
+          "split": "val",
+          "observations": 18851,
+          "cell_lines": 492,
+          "drugs": 44,
+          "tissues": 22,
+          "female_observations": 8562,
+          "male_observations": 10289,
+          "female_cell_lines": 221,
+          "male_cell_lines": 271,
+          "held_out_group_col": "drug_id"
+        },
+        {
+          "split": "test",
+          "observations": 18807,
+          "cell_lines": 492,
+          "drugs": 44,
+          "tissues": 22,
+          "female_observations": 8541,
+          "male_observations": 10266,
+          "female_cell_lines": 221,
+          "male_cell_lines": 271,
+          "held_out_group_col": "drug_id"
+        }
+      ]
+    },
+    "unseen_tissues": {
+      "file": "unseen_tissues.csv",
+      "sha256": "286c8bde5f19e12fc5b6b76bdb068dab99dab051b636a41f7075bff38f575041",
+      "summary_sha256": "a298ff63d2c9e79387a9707a404b923646649db83c6995ca8b5b2c46616f5c8c",
+      "balance_score": 0.0121742172,
+      "n_observations": 125360,
+      "n_groups": 22,
+      "zero_group_leakage": true,
+      "summary": [
+        {
+          "split": "train",
+          "observations": 87025,
+          "cell_lines": 341,
+          "drugs": 295,
+          "tissues": 16,
+          "female_observations": 39650,
+          "male_observations": 47375,
+          "female_cell_lines": 154,
+          "male_cell_lines": 187,
+          "held_out_group_col": "tissue"
+        },
+        {
+          "split": "val",
+          "observations": 21543,
+          "cell_lines": 87,
+          "drugs": 295,
+          "tissues": 3,
+          "female_observations": 9101,
+          "male_observations": 12442,
+          "female_cell_lines": 36,
+          "male_cell_lines": 51,
+          "held_out_group_col": "tissue"
+        },
+        {
+          "split": "test",
+          "observations": 16792,
+          "cell_lines": 64,
+          "drugs": 295,
+          "tissues": 3,
+          "female_observations": 8160,
+          "male_observations": 8632,
+          "female_cell_lines": 31,
+          "male_cell_lines": 33,
+          "held_out_group_col": "tissue"
+        }
+      ]
+    }
+  },
+  "warning": null
+}

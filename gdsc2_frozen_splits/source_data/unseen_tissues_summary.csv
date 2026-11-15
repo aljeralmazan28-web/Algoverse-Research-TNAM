@@ -1,0 +1,4 @@
+split,observations,cell_lines,drugs,tissues,female_observations,male_observations,female_cell_lines,male_cell_lines,held_out_group_col
+train,87025,341,295,16,39650,47375,154,187,tissue
+val,21543,87,295,3,9101,12442,36,51,tissue
+test,16792,64,295,3,8160,8632,31,33,tissue
