@@ -2,8 +2,8 @@
 import pandas as pd
 from sex_aware import select_xy_columns
 
-path = "/Users/natashaprabhu/PycharmProjects/Algoverse-Research-TNAM/sex_labels/data/raw_data/OmicsExpressionTPMLogp1HumanAllGenes.csv"     # CHANGE
-labels = pd.read_csv("/Users/natashaprabhu/PycharmProjects/Algoverse-Research-TNAM/sex_labels/data/sex_labels_final.csv")    # CHANGE
+path = "/sex_labels/data/raw_data/OmicsExpressionTPMLogp1HumanAllGenes.csv"  # CHANGE
+labels = pd.read_csv("/sex_labels/data/sex_labels_final.csv")    # CHANGE
 
 # 1. which X/Y genes exist?
 header = pd.read_csv(path, nrows=0).columns.tolist()

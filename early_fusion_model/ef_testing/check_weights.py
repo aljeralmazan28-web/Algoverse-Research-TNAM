@@ -3,7 +3,7 @@ import pandas as pd
 from reweighting import fit_sex_tissue_weights, apply_weights
 from sex_aware import encode_sex
 
-labels = pd.read_csv("/Users/natashaprabhu/PycharmProjects/Algoverse-Research-TNAM/sex_labels/data/sex_labels_final.csv")
+labels = pd.read_csv("/sex_labels/data/sex_labels_final.csv")
 
 table = fit_sex_tissue_weights(labels)
 w = apply_weights(labels, table)
