@@ -1,0 +1,23 @@
+{
+  "status": "EVALUATION_COMPLETE",
+  "models_evaluated": 9,
+  "prediction_files_found": 9,
+  "bootstrap_repetitions": 1000,
+  "permutation_repetitions": 2000,
+  "confidence": 0.95,
+  "random_seed": 42,
+  "point_estimate": "Female RMSE minus Male RMSE; positive means higher female error",
+  "tissue_adjusted_test": "Equal-weight tissues with >=2 lines per sex; each line contributes average squared error; sex labels permuted at line level within tissue",
+  "pooled_ci": "Two-way cell-line x drug product bootstrap, resampling cell lines separately by sex",
+  "adjusted_ci": "Stratified cell-line bootstrap within sex and tissue",
+  "h2_p_value": "Tissue-matched within-tissue sex-label permutation (not pooled gap); BH-FDR across tested runs",
+  "source": "GDSC2-only frozen test response, originally with Cellosaurus reported donor sex",
+  "limitations": [
+    "No clinical claims",
+    "No actual H2 result without model predictions",
+    "Model training split provenance must be verified",
+    "Within-tissue adjustment does not remove other confounders",
+    "Unseen-tissues inference has only three held-out tissues; CIs conditional on those tissues",
+    "Bootstrap intervals for tissue-adjusted gap do not model dependence across drugs"
+  ]
+}

@@ -1,0 +1,25 @@
+file,model,split_design,status,detail
+EF_a_s123__unseen_cell_lines.csv,EF_a_s123,unseen_cell_lines,EVALUATED,Scored 10178/18622 test rows
+EF_a_s42__unseen_cell_lines.csv,EF_a_s42,unseen_cell_lines,EVALUATED,Scored 10178/18622 test rows
+EF_a_s456__unseen_cell_lines.csv,EF_a_s456,unseen_cell_lines,EVALUATED,Scored 10178/18622 test rows
+EF_abc_s123__unseen_cell_lines.csv,EF_abc_s123,unseen_cell_lines,EVALUATED,Scored 10178/18622 test rows
+EF_abc_s42__unseen_cell_lines.csv,EF_abc_s42,unseen_cell_lines,EVALUATED,Scored 10178/18622 test rows
+EF_abc_s456__unseen_cell_lines.csv,EF_abc_s456,unseen_cell_lines,EVALUATED,Scored 10178/18622 test rows
+EF_b_s123__unseen_cell_lines.csv,EF_b_s123,unseen_cell_lines,EVALUATED,Scored 10178/18622 test rows
+EF_b_s42__unseen_cell_lines.csv,EF_b_s42,unseen_cell_lines,EVALUATED,Scored 10178/18622 test rows
+EF_b_s456__unseen_cell_lines.csv,EF_b_s456,unseen_cell_lines,EVALUATED,Scored 10178/18622 test rows
+EF_base_s123__unseen_cell_lines.csv,EF_base_s123,unseen_cell_lines,EVALUATED,Scored 10178/18622 test rows
+EF_base_s42__unseen_cell_lines.csv,EF_base_s42,unseen_cell_lines,EVALUATED,Scored 10178/18622 test rows
+EF_base_s456__unseen_cell_lines.csv,EF_base_s456,unseen_cell_lines,EVALUATED,Scored 10178/18622 test rows
+EF_c_s123__unseen_cell_lines.csv,EF_c_s123,unseen_cell_lines,EVALUATED,Scored 10178/18622 test rows
+EF_c_s42__unseen_cell_lines.csv,EF_c_s42,unseen_cell_lines,EVALUATED,Scored 10178/18622 test rows
+EF_c_s456__unseen_cell_lines.csv,EF_c_s456,unseen_cell_lines,EVALUATED,Scored 10178/18622 test rows
+expression_only__unseen_cell_lines.csv,expression_only,unseen_cell_lines,MISSING_PREDICTIONS,No baseline prediction file supplied
+expression_only__unseen_drugs.csv,expression_only,unseen_drugs,MISSING_PREDICTIONS,No baseline prediction file supplied
+expression_only__unseen_tissues.csv,expression_only,unseen_tissues,MISSING_PREDICTIONS,No baseline prediction file supplied
+MOLI__unseen_cell_lines.csv,MOLI,unseen_cell_lines,MISSING_PREDICTIONS,No baseline prediction file supplied
+MOLI__unseen_drugs.csv,MOLI,unseen_drugs,MISSING_PREDICTIONS,No baseline prediction file supplied
+MOLI__unseen_tissues.csv,MOLI,unseen_tissues,MISSING_PREDICTIONS,No baseline prediction file supplied
+DeepCDR__unseen_cell_lines.csv,DeepCDR,unseen_cell_lines,MISSING_PREDICTIONS,No baseline prediction file supplied
+DeepCDR__unseen_drugs.csv,DeepCDR,unseen_drugs,MISSING_PREDICTIONS,No baseline prediction file supplied
+DeepCDR__unseen_tissues.csv,DeepCDR,unseen_tissues,MISSING_PREDICTIONS,No baseline prediction file supplied

@@ -1,0 +1,4 @@
+cell_line_id,sex,final_sex,usable_sex,exclude_from_sex_analysis
+SIDM00000,Unknown,Unknown,False,False
+SIDM00001,Unknown,Unknown,False,False
+SIDM00002,Unknown,Unknown,False,False

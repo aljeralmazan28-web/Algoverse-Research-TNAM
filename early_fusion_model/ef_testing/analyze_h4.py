@@ -13,7 +13,9 @@ For each (split, proteomics, variant) it reports:
   d_gap_abs   mean paired change in |RMSE_F - RMSE_M| vs base (negative = gap shrank)
   seeds_gap   how many seeds the gap shrank in, out of n
   95% CI      t-interval on the paired differences (needs >= 3 seeds; scipy)
-  verdict     'supported' if the gap shrank on average AND overall RMSE got worse by at most --tolerance
+  verdict     'supported' only if the gap shrank on average, the 95% CI excludes 0, AND overall RMSE got
+              worse by at most --tolerance; 'inconclusive' if the CI includes 0. Read the shuffled-control
+              rows too: if control_keeps_share_of_gain is near or above 1, the gain is not about sex.
 For shuffled-control runs (control != none) it also reports how much of the real improvement the control
 keeps: if the shuffled run shrinks the gap as much as the real one, the improvement is not about sex.
 """
@@ -62,9 +64,16 @@ def compare(runs, ref_variant="base", tolerance=0.01):
                    base_gap_abs=base.loc[idx, "gap_abs"].mean(), gap_abs=g.loc[idx, "gap_abs"].mean(),
                    d_gap_abs=d_gap.mean(), d_gap_lo=lo, d_gap_hi=hi,
                    seeds_gap_shrank=int((d_gap < 0).sum()))
-        row["verdict"] = ("supported" if d_gap.mean() < 0 and d_over.mean() <= tolerance
-                          else "gap shrank but overall worse" if d_gap.mean() < 0
-                          else "not supported")
+        ci_known = not np.isnan(hi)
+        if d_gap.mean() >= 0:
+            verdict = "not supported"
+        elif d_over.mean() > tolerance:
+            verdict = "gap shrank but overall worse"
+        elif ci_known and hi >= 0:
+            verdict = "inconclusive (CI includes 0)"
+        else:
+            verdict = "supported"
+        row["verdict"] = verdict
         out.append(row)
     res = pd.DataFrame(out)
     if res.empty:

@@ -1,0 +1,3 @@
+split_family,variant,proteomics,control,n_seeds,overall_rmse_mean,overall_rmse_sd,female_rmse_mean,male_rmse_mean,gap_mean,gap_sd,gap_abs_mean
+unseen_cell_lines,abc,False,none,1,2.3530712127685547,,2.321584463119507,2.38590145111084,-0.06431698799133301,,0.06431698799133301
+unseen_cell_lines,base,False,none,1,2.4241111278533936,,2.365389347076416,2.4846725463867188,-0.11928319931030273,,0.11928319931030273

@@ -1,0 +1,46 @@
+model,split_design,warning
+EF_a_prot_s123,unseen_cell_lines,Baseline training partition is unverified; metrics are provisional
+EF_a_prot_s123,unseen_cell_lines,Within-tissue comparison has 2 qualifying tissue(s); interpret significance cautiously
+EF_a_prot_s123,unseen_cell_lines,Missing 726 test predictions: EXPERIMENTAL/PARTIAL only
+EF_a_prot_s42,unseen_cell_lines,Baseline training partition is unverified; metrics are provisional
+EF_a_prot_s42,unseen_cell_lines,Within-tissue comparison has 2 qualifying tissue(s); interpret significance cautiously
+EF_a_prot_s42,unseen_cell_lines,Missing 726 test predictions: EXPERIMENTAL/PARTIAL only
+EF_a_prot_s456,unseen_cell_lines,Baseline training partition is unverified; metrics are provisional
+EF_a_prot_s456,unseen_cell_lines,Within-tissue comparison has 2 qualifying tissue(s); interpret significance cautiously
+EF_a_prot_s456,unseen_cell_lines,Missing 726 test predictions: EXPERIMENTAL/PARTIAL only
+EF_abc_prot_s123,unseen_cell_lines,Baseline training partition is unverified; metrics are provisional
+EF_abc_prot_s123,unseen_cell_lines,Within-tissue comparison has 2 qualifying tissue(s); interpret significance cautiously
+EF_abc_prot_s123,unseen_cell_lines,Missing 726 test predictions: EXPERIMENTAL/PARTIAL only
+EF_abc_prot_s42,unseen_cell_lines,Baseline training partition is unverified; metrics are provisional
+EF_abc_prot_s42,unseen_cell_lines,Within-tissue comparison has 2 qualifying tissue(s); interpret significance cautiously
+EF_abc_prot_s42,unseen_cell_lines,Missing 726 test predictions: EXPERIMENTAL/PARTIAL only
+EF_abc_prot_s456,unseen_cell_lines,Baseline training partition is unverified; metrics are provisional
+EF_abc_prot_s456,unseen_cell_lines,Within-tissue comparison has 2 qualifying tissue(s); interpret significance cautiously
+EF_abc_prot_s456,unseen_cell_lines,Missing 726 test predictions: EXPERIMENTAL/PARTIAL only
+EF_b_prot_s123,unseen_cell_lines,Baseline training partition is unverified; metrics are provisional
+EF_b_prot_s123,unseen_cell_lines,Within-tissue comparison has 2 qualifying tissue(s); interpret significance cautiously
+EF_b_prot_s123,unseen_cell_lines,Missing 726 test predictions: EXPERIMENTAL/PARTIAL only
+EF_b_prot_s42,unseen_cell_lines,Baseline training partition is unverified; metrics are provisional
+EF_b_prot_s42,unseen_cell_lines,Within-tissue comparison has 2 qualifying tissue(s); interpret significance cautiously
+EF_b_prot_s42,unseen_cell_lines,Missing 726 test predictions: EXPERIMENTAL/PARTIAL only
+EF_b_prot_s456,unseen_cell_lines,Baseline training partition is unverified; metrics are provisional
+EF_b_prot_s456,unseen_cell_lines,Within-tissue comparison has 2 qualifying tissue(s); interpret significance cautiously
+EF_b_prot_s456,unseen_cell_lines,Missing 726 test predictions: EXPERIMENTAL/PARTIAL only
+EF_base_prot_s123,unseen_cell_lines,Baseline training partition is unverified; metrics are provisional
+EF_base_prot_s123,unseen_cell_lines,Within-tissue comparison has 2 qualifying tissue(s); interpret significance cautiously
+EF_base_prot_s123,unseen_cell_lines,Missing 726 test predictions: EXPERIMENTAL/PARTIAL only
+EF_base_prot_s42,unseen_cell_lines,Baseline training partition is unverified; metrics are provisional
+EF_base_prot_s42,unseen_cell_lines,Within-tissue comparison has 2 qualifying tissue(s); interpret significance cautiously
+EF_base_prot_s42,unseen_cell_lines,Missing 726 test predictions: EXPERIMENTAL/PARTIAL only
+EF_base_prot_s456,unseen_cell_lines,Baseline training partition is unverified; metrics are provisional
+EF_base_prot_s456,unseen_cell_lines,Within-tissue comparison has 2 qualifying tissue(s); interpret significance cautiously
+EF_base_prot_s456,unseen_cell_lines,Missing 726 test predictions: EXPERIMENTAL/PARTIAL only
+EF_c_prot_s123,unseen_cell_lines,Baseline training partition is unverified; metrics are provisional
+EF_c_prot_s123,unseen_cell_lines,Within-tissue comparison has 2 qualifying tissue(s); interpret significance cautiously
+EF_c_prot_s123,unseen_cell_lines,Missing 726 test predictions: EXPERIMENTAL/PARTIAL only
+EF_c_prot_s42,unseen_cell_lines,Baseline training partition is unverified; metrics are provisional
+EF_c_prot_s42,unseen_cell_lines,Within-tissue comparison has 2 qualifying tissue(s); interpret significance cautiously
+EF_c_prot_s42,unseen_cell_lines,Missing 726 test predictions: EXPERIMENTAL/PARTIAL only
+EF_c_prot_s456,unseen_cell_lines,Baseline training partition is unverified; metrics are provisional
+EF_c_prot_s456,unseen_cell_lines,Within-tissue comparison has 2 qualifying tissue(s); interpret significance cautiously
+EF_c_prot_s456,unseen_cell_lines,Missing 726 test predictions: EXPERIMENTAL/PARTIAL only
