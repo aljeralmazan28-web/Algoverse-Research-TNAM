@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="68cfbd0f-2d17-4da5-b0c8-d2085e82ec18" name="Changes" comment="Add sex-aware add-ons, early-fusion runner, and H4 analysis&#10;&#10;- Add sex_aware modules (sex input, X/Y gene module, reweighting) and shuffled-sex control&#10;- Add early-fusion runner with per-add-on switches, seeds and controls&#10;- Add export_xy, analyze_h4 (paired CIs vs base) and rescore_labels&#10;- Early-fusion H4 on unseen cell lines: no add-on reliably shrinks the gap; shuffled control matches" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Puffnugget"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/aljeralmazan28-web/Algoverse-Research-TNAM.git",
+    "accountId": "52b96255-4909-4389-ad96-3a1f3c45f250"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="3M71gY6D4FrUgGL1wUQ8oaWvRQt" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.analyze_h4.executor": "Run",
+    "Python.check_weights.executor": "Run",
+    "Python.check_xy.executor": "Run",
+    "Python.export.xy.executor": "Run",
+    "Python.export_xy.executor": "Run",
+    "Python.rescore_labels.executor": "Run",
+    "Python.run_ef.executor": "Run",
+    "Python.sex_shuffle.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.test_sex_aware.executor": "Run",
+    "Python.test_sex_shuffle.executor": "Run",
+    "Python.within_tissue.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "natasha/late-fusion-sex-aware-fixes",
+    "last_opened_file_path": "/Users/natashaprabhu/PycharmProjects/Algoverse-Research-TNAM/week 3"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/early_fusion_model/ef_testing/ef_ablation" />
+      <recent name="$PROJECT_DIR$/early_fusion_model/splits" />
+      <recent name="$PROJECT_DIR$/early_fusion_model/ef_testing" />
+      <recent name="$PROJECT_DIR$/sex_aware" />
+      <recent name="$PROJECT_DIR$/sex_labels/data/raw_data" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="export_xy" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Algoverse-Research-TNAM" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/early_fusion_model/ef_testing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/early_fusion_model/ef_testing/export_xy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-6a3326d57233-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.24807.21" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68cfbd0f-2d17-4da5-b0c8-d2085e82ec18" name="Changes" comment="" />
+      <created>1794686903705</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1794686903705</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Implemented sex-aware add-ons as plug-in modules: (a) sex as input, (b) X/Y gene module, (c) sex-balanced reweighting">
+      <option name="closed" value="true" />
+      <created>1794771923252</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1794771923252</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Integrated the add-ons into the early and late fusion models">
+      <option name="closed" value="true" />
+      <created>1794886310745</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1794886310745</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add sex-aware add-ons, early-fusion runner, and H4 analysis&#10;&#10;- Add sex_aware modules (sex input, X/Y gene module, reweighting) and shuffled-sex control&#10;- Add early-fusion runner with per-add-on switches, seeds and controls&#10;- Add export_xy, analyze_h4 (paired CIs vs base) and rescore_labels&#10;- Early-fusion H4 on unseen cell lines: no add-on reliably shrinks the gap; shuffled control matches">
+      <option name="closed" value="true" />
+      <created>1795049502061</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1795049502061</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add files via upload" />
+    <MESSAGE value="Implemented sex-aware add-ons as plug-in modules: (a) sex as input, (b) X/Y gene module, (c) sex-balanced reweighting" />
+    <MESSAGE value="Integrated the add-ons into the early and late fusion models" />
+    <MESSAGE value="Add sex-aware add-ons, early-fusion runner, and H4 analysis&#10;&#10;- Add sex_aware modules (sex input, X/Y gene module, reweighting) and shuffled-sex control&#10;- Add early-fusion runner with per-add-on switches, seeds and controls&#10;- Add export_xy, analyze_h4 (paired CIs vs base) and rescore_labels&#10;- Early-fusion H4 on unseen cell lines: no add-on reliably shrinks the gap; shuffled control matches" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add sex-aware add-ons, early-fusion runner, and H4 analysis&#10;&#10;- Add sex_aware modules (sex input, X/Y gene module, reweighting) and shuffled-sex control&#10;- Add early-fusion runner with per-add-on switches, seeds and controls&#10;- Add export_xy, analyze_h4 (paired CIs vs base) and rescore_labels&#10;- Early-fusion H4 on unseen cell lines: no add-on reliably shrinks the gap; shuffled control matches" />
+  </component>
+</project>
